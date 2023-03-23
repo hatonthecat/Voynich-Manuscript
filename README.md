@@ -141,3 +141,10 @@ https://www.reddit.com/r/voynich/comments/jkjomc/reintroducing_a_vanished_romanc
 https://www.athensjournals.gr/reviews/2020-4049-AJHA.pdf
 
 https://www.bbc.com/news/magazine-26881734
+
+"One of the most common tropes in the history of forgery is that of a rare book dealer "discovering" previously unknown manuscripts. Voynich is known to have had just this "magic" touch. He is also said to have acquired a large supply of vellum and to have used his knowledge of chemistry gained at the University of Moscow to replicate medieval inks and pigments. "
+
+"But until forensic tests are done on the ink and pigments - so far, only the vellum has been carbon dated to the 15th Century - the riddle of this mysterious book will continue to exert a powerful magnetic pull on present and future Voynichologists."
+
+https://en.wikipedia.org/wiki/Voynich_manuscript#Ink
+
