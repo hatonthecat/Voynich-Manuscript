@@ -126,3 +126,4 @@ The Codex Leicester, for example, was purchased by Bill Gates in 1994, for $30.8
 
 https://www.youtube.com/watch?v=85YcMMhvvoQ (Though in many ways is worth more than that)
 
+Good presentation https://github.com/joaoperfig/voynichstudies/blob/master/voynich.pdf
