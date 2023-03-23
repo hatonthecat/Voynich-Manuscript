@@ -132,7 +132,13 @@ https://en.wikipedia.org/wiki/Voynich_manuscript#Gerard_Cheshire
 
 https://www.youtube.com/watch?v=85YcMMhvvoQ (Though in many ways is worth more than that)
 
-Good presentation https://github.com/joaoperfig/voynichstudies/blob/master/voynich.pdf
+Good presentation https://github.com/joaoperfig/voynichstudies/blob/master/voynich.pdf : 
+
+"There is not a single instance of a word being erased or corrected
+(which suggests the book might be a copy) but some words have
+been retouched"
+
+This doesn't mean that a copy is a forgery, but rather that whoever wanted a copy - perhaps a king wanted an original, but the original was in such bad shape, or that there was something encoded in the original that he did not want left in. I prefer to start with the least plausible, so it should be relatively simple to examine more plausible reasons for making a copy. Photocopy machines didn't exist then, so would it be out of the ordinary to have no corrections? perhaps a wealthy buyer did not want any errors, and required his scribes to rewrite any pages that contained errors. Its not as if the pages had to be bounded before they were written.
 
 https://www.express.co.uk/news/science/1127637/Voynich-Manuscript-solved-voynich-code-cracked-what-means-voynich
 
@@ -151,4 +157,5 @@ Forgery Theory
 "But until forensic tests are done on the ink and pigments - so far, only the vellum has been carbon dated to the 15th Century - the riddle of this mysterious book will continue to exert a powerful magnetic pull on present and future Voynichologists."
 
 https://en.wikipedia.org/wiki/Voynich_manuscript#Ink
+
 
