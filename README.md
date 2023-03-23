@@ -122,7 +122,7 @@ The mundane view is that it is is a doodle notebook of a botanist who had an eye
 
 This was the Rennaissance, after all, when well-rounded scholars such as Leonardo Da Vinci were considered doctors, inventors, philosophers, things that could not be claimed with even a PhD and post-doc. The thesis approval process back then was non-existent, yet did not prevent great thinkers from influencing successful businessmen years ater. 
 
-The Codex Leicester, for example, was purchased by Bill Gates in 1994, for $30.8 million (and is not worth $130 million). https://www.businessinsider.com/look-inside-the-codex-leicester-which-bill-gates-bought-for-30-million-2015-7#:~:text=In%201994%2C%20he%20purchased%20Leonardo,to%20select%20museums%20this%20summer.
+The Codex Leicester, for example, was purchased by Bill Gates in 1994, for $30.8 million (and is now worth $130 million). https://www.businessinsider.com/look-inside-the-codex-leicester-which-bill-gates-bought-for-30-million-2015-7#:~:text=In%201994%2C%20he%20purchased%20Leonardo,to%20select%20museums%20this%20summer.
 
 https://www.youtube.com/watch?v=85YcMMhvvoQ (Though in many ways is worth more than that)
 
