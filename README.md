@@ -10,6 +10,7 @@ https://en.wikipedia.org/wiki/Voynich_manuscript
 https://collections.library.yale.edu/catalog/2002046
 
 Direct PDF download link: https://collections.library.yale.edu/pdfs/2002046.pdf (114MB), 214 pages 
+
 ---
 Approaches
 ---
