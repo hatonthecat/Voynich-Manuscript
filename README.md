@@ -124,6 +124,19 @@ This was the Rennaissance, after all, when well-rounded scholars such as Leonard
 
 The Codex Leicester, for example, was purchased by Bill Gates in 1994, for $30.8 million (and is now worth $130 million). https://www.businessinsider.com/look-inside-the-codex-leicester-which-bill-gates-bought-for-30-million-2015-7#:~:text=In%201994%2C%20he%20purchased%20Leonardo,to%20select%20museums%20this%20summer.
 
+--
+Chesire Theory
+--
+
+https://en.wikipedia.org/wiki/Voynich_manuscript#Gerard_Cheshire
+
 https://www.youtube.com/watch?v=85YcMMhvvoQ (Though in many ways is worth more than that)
 
 Good presentation https://github.com/joaoperfig/voynichstudies/blob/master/voynich.pdf
+
+https://www.express.co.uk/news/science/1127637/Voynich-Manuscript-solved-voynich-code-cracked-what-means-voynich
+
+https://www.reddit.com/r/voynich/comments/jkjomc/reintroducing_a_vanished_romance_language_dr/
+
+https://www.athensjournals.gr/reviews/2020-4049-AJHA.pdf
+
