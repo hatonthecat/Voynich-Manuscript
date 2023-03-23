@@ -140,3 +140,4 @@ https://www.reddit.com/r/voynich/comments/jkjomc/reintroducing_a_vanished_romanc
 
 https://www.athensjournals.gr/reviews/2020-4049-AJHA.pdf
 
+https://www.bbc.com/news/magazine-26881734
