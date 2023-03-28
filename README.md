@@ -223,7 +223,6 @@ Ok, so it is known that John Dee associated himself with charlatans, and Voynich
 "Voynich relocated his London bookshop to 175 Piccadilly in 1917.[12] Also in 1917, based on rumors, Voynich was investigated by the FBI, in relation to his possession of Bacon's cipher. The report also noted that he dealt with manuscripts from the 13th, 12th, and 11th centuries, and that the value of his books at the time was half a million dollars. However, the investigation did not reveal anything significant beyond the fact that he possessed a secret code nearly a thousand years old.[4]"
 
 https://www.colinmackinnon.com/attachments/The_US_BOI_File_on_Voynich_p.pdf <-[4] As for "thousand", Francis Bacon developed the cipher in 1605 (400 years prior), so it is unclear whether the 57 page report refers to an earlier cipher, or that is incorrect. Unless it implies that he was merely not in posesssion of the "newer" Bacon cipher.
-https://www.rbth.com/science_and_tech/2017/04/20/russian-scholars-unlock-the-secret-of-the-mysterious-voynich-manuscript_746881
 
 Book stores and antique stores are not all above selling counterfeits, at least in popular portrayal: 
 
@@ -240,12 +239,16 @@ Which isn't to say anything about legitimate stores, but definitely an exploitab
 5:23PM - A Matter of Two Bacons
 ---
 
-![image](https://user-images.githubusercontent.com/76194453/228380091-5614d7a3-579e-4667-8341-7599976f5821.png)
+Update: After reading 1/2way through I found the answer:
 
-The BOI report is fascinating (p.22)- I am halfway through, but Voynich's mention of a Bacon cipher briefly got mixed up for Francis Bacon's cipher, when he mentions in other documents that he was unambiguously referring to Roger Bacon (p.15):
+The BOI report is fascinating- Voynich's mention of a Bacon cipher briefly got mixed up for Francis Bacon's cipher, when the mentions in other documents that Voynich was unambiguously referring to Roger Bacon (p.15):
 
 ![image](https://user-images.githubusercontent.com/76194453/228381484-e248ee16-3c55-4551-a4b6-a96d724e9d9d.png)
 
-The BOI leter confirms this: "If he thought he could be of any service to the Department, it was only because it appears to be an excellent cipher, in as much as it has for several years defied the efforts of experts to decipher it, and he thought it might be, as it undoubtedly would, of value to the War Department to posess so valuable a system, but obviously it can not be placed at the disposal of the Government until we succeed in ascertaining what the system is.
+https://www.rbth.com/science_and_tech/2017/04/20/russian-scholars-unlock-the-secret-of-the-mysterious-voynich-manuscript_746881
+
+![image](https://user-images.githubusercontent.com/76194453/228380091-5614d7a3-579e-4667-8341-7599976f5821.png)
+
+On p. 22, The BOI leter further adds: "If he thought he could be of any service to the Department, it was only because it appears to be an excellent cipher, in as much as it has for several years defied the efforts of experts to decipher it, and he thought it might be, as it undoubtedly would, of value to the War Department to posess so valuable a system, but obviously it can not be placed at the disposal of the Government until we succeed in ascertaining what the system is.
 
 If Mr. Voynich said that he was acquainted wiht the army cipher, he said nothing more than any non-military man could have said who had read the published statements to the effect that the artmy was using the cipher disc. This has been a matter of common knowledge for many years)."
