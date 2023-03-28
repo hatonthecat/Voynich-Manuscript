@@ -182,11 +182,45 @@ I find the fact that some words were found in High German from the early 13th ce
 
 "Kalush and Sloman posit that the only reason Houdini would abruptly leave the United States in 1900, when he had finally achieved notoriety—and a paycheck equivalent to $45,000 a week—was because he was engaged in espionage. Houdini was rumored to be providing the German police with information about wanted criminals, as well as unspecified information to Scotland Yard Superintendent William Melville, monitoring anarchists in Russia, and helping the U.S. Secret Service with their anti-counterfeiting mission." from: https://www.cia.gov/stories/story/was-houdini-a-spy/
 
-Melville also worked with Schlomo Rosenblum (Sidney Reilly):
+Melville also worked with Schlomo Rosenblum (Sidney Reilly): 
 
-"In the next ten years, Melville embarked on a large series of well-publicized raids against anarchists. He went to Victoria Station to personally arrest bomber Théodule Meunier.[1] In 1896 Melville recruited Shlomo Rosenblum (later known as Sidney Reilly) as an informer in an organization he suspected to be involved with Russian anarchists.[1]"
+"In the next ten years, Melville embarked on a large series of well-publicized raids against anarchists. He went to Victoria Station to personally arrest bomber Théodule Meunier.[1] In 1896 Melville recruited Shlomo Rosenblum (later known as Sidney Reilly) as an informer in an organization he suspected to be involved with Russian anarchists.[1]" https://en.wikipedia.org/wiki/William_Melville
 
 Reilly was aquainted with Ethel Voynich, who was Wilfrid Voynich's last wife (from 1902-1930); https://en.wikipedia.org/wiki/Sidney_Reilly#The_Gadfly
 
-Granted, anti-counterfeiting was probably a standard job duty of the Scotland Yard and something a bookseller like Wilfrid Voynich needed to be acquainted with to ensure he wasn't purchasing a fake manuscript, but (commit incomplete to save draft)
+Granted, anti-counterfeiting was probably a standard job duty of the Scotland Yard and something a bookseller like Wilfrid Voynich needed to be acquainted with to ensure he wasn't purchasing a fake manuscript, but the purchase of 500-year old blank parchment paper would be an extraordinary rare opportunity to fabricate text with gibberish. That said, the ink would also need to have been carbon dated that far back (presumably also a rare case of having been stored in a containter for 500 years without evaporating).
 
+from https://en.wikipedia.org/wiki/Voynich_manuscript#Early_history: 
+
+Marci's 1665/1666 cover letter to Kircher says that, according to his friend the late Raphael Mnishovsky, the book had once been bought by Rudolf II, Holy Roman Emperor and King of Bohemia for 600 ducats (66.42 troy ounce actual gold weight, or 2.07 kg). (Mnishovsky had died in 1644, more than 20 years earlier, and the deal must have occurred before Rudolf's abdication in 1611, at least 55 years before Marci's letter. However, Karl Widemann sold books to Rudolf II in March 1599.)
+
+Wellcome Library, oil
+Ernest Board's portrayal of Bacon in his observatory at Merton College
+According to the letter, Mnishovsky (but not necessarily Rudolf) speculated that the author was 13th-century Franciscan friar and polymath Roger Bacon.[6] Marci said that he was suspending judgment about this claim, but it was taken quite seriously by Wilfrid Voynich, who did his best to confirm it.[16] Voynich contemplated the possibility that the author was Albertus Magnus if not Roger Bacon.[63]
+
+
+Mathematician John Dee may have sold the manuscript to Emperor Rudolf around 1600.
+The assumption that Bacon was the author led Voynich to conclude that John Dee sold the manuscript to Rudolf. Dee was a mathematician and astrologer at the court of Queen Elizabeth I of England who was known to have owned a large collection of Bacon's manuscripts.
+
+
+Edward Kelley might have created the manuscript as a fraud
+Dee and his scrier (spirit medium) Edward Kelley lived in Bohemia for several years, where they had hoped to sell their services to the emperor. However, this sale seems quite unlikely, according to John Schuster, because Dee's meticulously kept diaries do not mention it.[16]
+
+If Bacon did not create the Voynich manuscript, a supposed connection to Dee is much weakened. It was thought possible, prior to the carbon dating of the manuscript, that Dee or Kelley might have written it and spread the rumor that it was originally a work of Bacon's in the hopes of later selling it.[64]: 249 
+
+Fabrication by Voynich
+Some suspect Voynich of having fabricated the manuscript himself.[7] As an antique book dealer, he probably had the necessary knowledge and means, and a lost book by Roger Bacon would have been worth a fortune. Furthermore, Baresch's letter and Marci's letter only establish the existence of a manuscript, not that the Voynich manuscript is the same one mentioned. These letters could possibly have been the motivation for Voynich to fabricate the manuscript, assuming that he was aware of them. However, many consider the expert internal dating of the manuscript and the June 1999[52] discovery of Baresch's letter to Kircher as having eliminated this possibility.[7][16]
+
+Eamon Duffy says that the radiocarbon dating of the parchment (or, more accurately, vellum) "effectively rules out any possibility that the manuscript is a post-medieval forgery", as the consistency of the pages indicates origin from a single source, and "it is inconceivable" that a quantity of unused parchment comprising "at least fourteen or fifteen entire calfskins" could have survived from the early 15th century.[27]
+
+https://en.wikipedia.org/wiki/John_Dee
+
+"Dee eventually left Elizabeth's service and went on a quest for additional knowledge in the deeper realms of the occult and supernatural. He aligned himself with several individuals who may have been charlatans, travelled through Europe and was accused of spying for the English crown. Upon his return to England, he found his home and library vandalised. He eventually returned to the Queen's service, but was turned away when she was succeeded by James I.
+In 1583, Dee met the impoverished yet popular Polish nobleman Albert Łaski, who, after overstaying his welcome at court, invited Dee to accompany him back to Poland.[19] With some prompting by the "angels" (again through Kelley) and by dint of his worsening status at court, Dee decided to do so. He, Kelley and their families left in September 1583, but Łaski proved to be bankrupt and out of favour in his own country.[34] Dee and Kelley began a nomadic life in Central Europe, meanwhile continuing their spiritual conferences, which Dee detailed in his diaries and almanacs.[32][33] They had audiences with Emperor Rudolf II in Prague Castle and King Stephen Báthory of Poland, whom they attempted to convince of the importance of angelic communication. The Bathory meeting took place at the Niepołomice Castle (near Kraków, then capital of Poland) and was later analysed by Polish historians (Ryszard Zieliński, Roman Żelewski, Roman Bugaj) and writers (Waldemar Łysiak).[citation needed] While Dee was generally seen as a man of deep knowledge, he was mistrusted for his connection with the English monarch, Elizabeth I, for whom some thought (and still do) that Dee was a spy." 
+
+Ok, so it is known that John Dee associated himself with charlatans, and Voynich believed Dee sold it to Rudolf. That doesn't mean Dee sold Rudolf a forgery, nor would Voynich be interested in purchasing a forgery (had he somehow concluded that and that the manuscript still had value), but he was interested enough that ciphers were one of his other posession: :
+
+"Voynich relocated his London bookshop to 175 Piccadilly in 1917.[12] Also in 1917, based on rumors, Voynich was investigated by the FBI, in relation to his possession of Bacon's cipher. The report also noted that he dealt with manuscripts from the 13th, 12th, and 11th centuries, and that the value of his books at the time was half a million dollars. However, the investigation did not reveal anything significant beyond the fact that he possessed a secret code nearly a thousand years old.[4]"
+
+https://www.colinmackinnon.com/attachments/The_US_BOI_File_on_Voynich_p.pdf <-[4] As for "thousand", Francis Bacon developed the cipher in 1605 (400 years prior), so it is unclear whether the 57 page report refers to an earlier cipher, or that is incorrect. 
+https://www.rbth.com/science_and_tech/2017/04/20/russian-scholars-unlock-the-secret-of-the-mysterious-voynich-manuscript_746881
