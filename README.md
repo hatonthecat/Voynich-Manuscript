@@ -251,4 +251,4 @@ https://www.rbth.com/science_and_tech/2017/04/20/russian-scholars-unlock-the-sec
 
 On p. 22, The BOI leter further adds: "If he thought he could be of any service to the Department, it was only because it appears to be an excellent cipher, in as much as it has for several years defied the efforts of experts to decipher it, and he thought it might be, as it undoubtedly would, of value to the War Department to posess so valuable a system, but obviously it can not be placed at the disposal of the Government until we succeed in ascertaining what the system is.
 
-If Mr. Voynich said that he was acquainted wiht the army cipher, he said nothing more than any non-military man could have said who had read the published statements to the effect that the artmy was using the cipher disc. This has been a matter of common knowledge for many years)."
+If Mr. Voynich said that he was acquainted wiht the army cipher, he said nothing more than any non-military man could have said who had read the published statements to the effect that the army was using the cipher disc[overy?]. This has been a matter of common knowledge for many years)."
