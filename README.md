@@ -222,7 +222,7 @@ Ok, so it is known that John Dee associated himself with charlatans, and Voynich
 
 "Voynich relocated his London bookshop to 175 Piccadilly in 1917.[12] Also in 1917, based on rumors, Voynich was investigated by the FBI, in relation to his possession of Bacon's cipher. The report also noted that he dealt with manuscripts from the 13th, 12th, and 11th centuries, and that the value of his books at the time was half a million dollars. However, the investigation did not reveal anything significant beyond the fact that he possessed a secret code nearly a thousand years old.[4]"
 
-https://www.colinmackinnon.com/attachments/The_US_BOI_File_on_Voynich_p.pdf <-[4] As for "thousand", Francis Bacon developed the cipher in 1605 (400 years prior), so it is unclear whether the 57 page report refers to an earlier cipher, or that is incorrect. Unles it implies that he was merely not in posesssion of the "newer" Bacon cipher.
+https://www.colinmackinnon.com/attachments/The_US_BOI_File_on_Voynich_p.pdf <-[4] As for "thousand", Francis Bacon developed the cipher in 1605 (400 years prior), so it is unclear whether the 57 page report refers to an earlier cipher, or that is incorrect. Unless it implies that he was merely not in posesssion of the "newer" Bacon cipher.
 https://www.rbth.com/science_and_tech/2017/04/20/russian-scholars-unlock-the-secret-of-the-mysterious-voynich-manuscript_746881
 
 Book stores and antique stores are not all above selling counterfeits, at least in popular portrayal: 
