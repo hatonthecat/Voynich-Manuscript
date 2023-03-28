@@ -188,7 +188,7 @@ Melville also worked with Schlomo Rosenblum (Sidney Reilly):
 
 Reilly was aquainted with Ethel Voynich, who was Wilfrid Voynich's last wife (from 1902-1930); https://en.wikipedia.org/wiki/Sidney_Reilly#The_Gadfly
 
-Granted, anti-counterfeiting was probably a standard job duty of the Scotland Yard and something a bookseller like Wilfrid Voynich needed to be acquainted with to ensure he wasn't purchasing a fake manuscript, but the purchase of 500-year old blank parchment paper would be an extraordinary rare opportunity to fabricate text with gibberish. That said, the ink would also need to have been carbon dated that far back (presumably also a rare case of having been stored in a containter for 500 years without evaporating).
+Granted, anti-counterfeiting was probably a standard job duty of the Scotland Yard and something a bookseller like Wilfrid Voynich needed to be acquainted with to ensure he wasn't purchasing a fake manuscript, but whether or not the availability of 500-year old blank parchment paper would be plausible is certainly extraordinary but not impossible, thus a rare opportunity to fabricate text with gibberish (or at least a convenient way to delay decoding of a cipher by including it in other ancient texts). That said, the ink would also need to have been carbon dated that far back (presumably also a rare case of having been stored in a containter for 500 years without evaporating).
 
 from https://en.wikipedia.org/wiki/Voynich_manuscript#Early_history: 
 
