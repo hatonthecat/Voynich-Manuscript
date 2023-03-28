@@ -188,11 +188,11 @@ Melville also worked with Schlomo Rosenblum (Sidney Reilly):
 
 Reilly was aquainted with Ethel Voynich, who was Wilfrid Voynich's last wife (from 1902-1930); https://en.wikipedia.org/wiki/Sidney_Reilly#The_Gadfly
 
-Granted, anti-counterfeiting was probably a standard job duty of the Scotland Yard and something a bookseller like Wilfrid Voynich needed to be acquainted with to ensure he wasn't purchasing a fake manuscript, but whether or not the availability of 500-year old blank parchment paper would be plausible is certainly extraordinary but not impossible, thus a rare opportunity to fabricate text with gibberish (or at least a convenient way to delay decoding of a cipher by including it in other ancient texts). That said, the ink would also need to have been carbon dated that far back (presumably also a rare case of having been stored in a containter for 500 years without evaporating).
+Granted, anti-counterfeiting was probably a standard job duty of the Scotland Yard and something a bookseller like Wilfrid Voynich needed to be acquainted with to ensure he wasn't purchasing a fake manuscript, but whether or not the availability of 500-year old blank parchment paper would be plausible is certainly extraordinary but not impossible, thus a rare opportunity to fabricate text with gibberish (or at least a convenient way to delay decoding of a cipher by including alongside other ancient texts on a shelf). That said, the ink would also need to have been carbon dated that far back (presumably also a rare case of having been stored in a container for 500 years without evaporating).
 
 from https://en.wikipedia.org/wiki/Voynich_manuscript#Early_history: 
 
-Marci's 1665/1666 cover letter to Kircher says that, according to his friend the late Raphael Mnishovsky, the book had once been bought by Rudolf II, Holy Roman Emperor and King of Bohemia for 600 ducats (66.42 troy ounce actual gold weight, or 2.07 kg). (Mnishovsky had died in 1644, more than 20 years earlier, and the deal must have occurred before Rudolf's abdication in 1611, at least 55 years before Marci's letter. However, Karl Widemann sold books to Rudolf II in March 1599.)
+"Marci's 1665/1666 cover letter to Kircher says that, according to his friend the late Raphael Mnishovsky, the book had once been bought by Rudolf II, Holy Roman Emperor and King of Bohemia for 600 ducats (66.42 troy ounce actual gold weight, or 2.07 kg). (Mnishovsky had died in 1644, more than 20 years earlier, and the deal must have occurred before Rudolf's abdication in 1611, at least 55 years before Marci's letter. However, Karl Widemann sold books to Rudolf II in March 1599.)
 
 Wellcome Library, oil
 Ernest Board's portrayal of Bacon in his observatory at Merton College
