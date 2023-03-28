@@ -222,5 +222,16 @@ Ok, so it is known that John Dee associated himself with charlatans, and Voynich
 
 "Voynich relocated his London bookshop to 175 Piccadilly in 1917.[12] Also in 1917, based on rumors, Voynich was investigated by the FBI, in relation to his possession of Bacon's cipher. The report also noted that he dealt with manuscripts from the 13th, 12th, and 11th centuries, and that the value of his books at the time was half a million dollars. However, the investigation did not reveal anything significant beyond the fact that he possessed a secret code nearly a thousand years old.[4]"
 
-https://www.colinmackinnon.com/attachments/The_US_BOI_File_on_Voynich_p.pdf <-[4] As for "thousand", Francis Bacon developed the cipher in 1605 (400 years prior), so it is unclear whether the 57 page report refers to an earlier cipher, or that is incorrect. 
+https://www.colinmackinnon.com/attachments/The_US_BOI_File_on_Voynich_p.pdf <-[4] As for "thousand", Francis Bacon developed the cipher in 1605 (400 years prior), so it is unclear whether the 57 page report refers to an earlier cipher, or that is incorrect. Unles it implies that he was not in fact, in posesssion of the "newer" cipher.
 https://www.rbth.com/science_and_tech/2017/04/20/russian-scholars-unlock-the-secret-of-the-mysterious-voynich-manuscript_746881
+
+Book stores and antique stores are not all above selling counterfeits, at least in popular portrayal: 
+
+"And then we learn that some of these antiques are more like "antiques." We never know how many of Childan's antiques are actually clever forgeries, which definitely connects these antiques to issues of deceit and uncertainty. Add to that the fact that some of these fakes are made by "Frank Frink," who is himself kind of a fake, since he changed his name and nose to survive. (It's like the paper writes itself.)
+
+Now, Childan doesn't know about his "antiques," but Wyndam-Matson clearly knows, since many of them come from his store. W-M has his own idea about authenticity and historicity, which is that it's all in the eye of the beholder. So for him, fakes are as real as authentic antiques as long as the person thinks it's real."
+https://www.shmoop.com/study-guides/literature/man-in-the-high-castle/analysis/authentic-american-antiques
+
+https://www.shmoop.com/study-guides/literature/man-in-the-high-castle/frank-frink 
+
+Which isn't to say anything about legitimate stores, but definitely an exploitable trade. 
