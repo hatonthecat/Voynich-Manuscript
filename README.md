@@ -170,3 +170,23 @@ Much Ado about Botany
 Maybe no one is right if a higher order planted the truth in every language, so as not to give preference to any language, unless they all cooperated. An academic, and empath wouldn't need to believe in the same religion to understand why this manuscript was written, not is that relgion necessarily knowable, but to consider the context of the era, the manuscript could have been written to hide from heresy, but if it was the last in a language, then it might have been a translation attempt, or some pagan text. That said, it is not possible to rule out any particular subject, despite the obvious botanical and pharmacopeiac illustrations. I call it Much ado about Botany.
 
 I wonder why some think it was written by Roger Bacon- the paper appears too "new" to have been from 1200s (but it's not much newer if it carbon dating suggests the 1400s). Another idea is, the original might not have had all the doodlings- what if the original author wrote mainly the text, but other artisans added more drawings later on? This wouldn't be unprecedented- large churches were built for continuous expansion- they were not built with one vision in mind- a new wind here, a new bell and tower later on- nothing suggests the book had to be written in one sitting- that said, it could have been continued by just a handful, as the scribes have been estimated to be 6 or less. It would be interesting if it were a book from Norse travels from NewFoundland (which could have taken tales all the way from South America) but I think that far less likely. Perhaps Marco Polo transcribed a phonetic account of a middle-eastern language. Any traveller since then could have too.
+
+---
+3/28/2023
+---
+https://web.archive.org/web/20111018025101/https://www.nsa.gov/public_info/_files/tech_journals/Voynich_Manuscript_Mysterious.pdf
+
+There are a lot of interesting theories that many of them can sound very plausible, but also the fact that many centuries have added to the obfuscatory nature of the any hidden etchings and re-transcribings adds to the complexity.
+
+I find the fact that some words were found in High German from the early 13th century interesting (https://web.archive.org/web/20111018025101/https://www.nsa.gov/public_info/_files/tech_journals/Voynich_Manuscript_Mysterious.pdf), but also some parallels that are not particularly related but interesting nonetheless:
+
+"Kalush and Sloman posit that the only reason Houdini would abruptly leave the United States in 1900, when he had finally achieved notoriety—and a paycheck equivalent to $45,000 a week—was because he was engaged in espionage. Houdini was rumored to be providing the German police with information about wanted criminals, as well as unspecified information to Scotland Yard Superintendent William Melville, monitoring anarchists in Russia, and helping the U.S. Secret Service with their anti-counterfeiting mission." from: https://www.cia.gov/stories/story/was-houdini-a-spy/
+
+Melville also worked with Schlomo Rosenblum (Sidney Reilly):
+
+"In the next ten years, Melville embarked on a large series of well-publicized raids against anarchists. He went to Victoria Station to personally arrest bomber Théodule Meunier.[1] In 1896 Melville recruited Shlomo Rosenblum (later known as Sidney Reilly) as an informer in an organization he suspected to be involved with Russian anarchists.[1]"
+
+Reilly was aquainted with Ethel Voynich, who was Wilfrid Voynich's last wife (from 1902-1930); https://en.wikipedia.org/wiki/Sidney_Reilly#The_Gadfly
+
+Granted, anti-counterfeiting was probably a standard job duty of the Scotland Yard and something a bookseller like Wilfrid Voynich needed to be acquainted with to ensure he wasn't purchasing a fake manuscript, but (commit incomplete to save draft)
+
