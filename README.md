@@ -283,5 +283,6 @@ As I suspected, he purchased some heavily discounted texts using questionable pr
 
 "Among the books he acquired as a result of this transaction was a peculiar volume, of some age and obviously written in code, which was to provide him with a more than contemporary notability. (There are some arguments that the volume did not originate in the stated location - inter alia he said that he had acquired it from 'a castle' - and used the Villa as misdirection.)"
 
-p.50 [image](https://user-images.githubusercontent.com/76194453/228401140-0cdbda8e-ffdc-4202-a4a6-d9ee96aeccbc.png)
+p.50  ![image](https://user-images.githubusercontent.com/76194453/228401291-e37bd364-25dc-4910-8227-7a6d70b8752d.png)
+
 
