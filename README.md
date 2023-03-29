@@ -272,3 +272,11 @@ File detailing Cleveland Art Museum director and Cleveland Public Library assist
 p.45
 ![image](https://user-images.githubusercontent.com/76194453/228396056-5babe1ae-4c77-4d14-904e-7f0beff059f4.png)
 
+7:56 PM
+About those "garage sales"
+
+https://www.historyfiles.co.uk/FeaturesEurope/EasternPoland_Voynich01.htm
+
+"Wilfrid was a regular visitor to the Continent, in particular to Italy (during which he became friends with Achille Ratti, at that point a librarian, who would eventually become Pope Pius XI). He was able to buy large quantities of old books and manuscripts, from religious houses and other places, on one occasion persuading the religious in question to take what he considered to be modern tat in exchange for some wonderful old texts. In 1912 he visited the Villa Mondragone, Frascati, at the request of the Jesuits there - who wished to sell some of their books in order to raise funds (this being done, apparently, without the knowledge of their superiors)."
+
+As I suspected, he purchased some heavily discounted texts using questionable practices, then marking them up in the UK and U.S.
