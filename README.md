@@ -269,3 +269,6 @@ p.44
 ![image](https://user-images.githubusercontent.com/76194453/228395112-e92806cd-79fd-4eb3-ba39-52a256faa7d0.png)
 
 File detailing Cleveland Art Museum director and Cleveland Public Library assistant's impression of Voynich's loyalty. 9/25/1919
+p.45
+![image](https://user-images.githubusercontent.com/76194453/228396056-5babe1ae-4c77-4d14-904e-7f0beff059f4.png)
+
