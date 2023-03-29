@@ -302,5 +302,13 @@ The phrase vagrant has decreased but cannot be found often adjacent "intellectua
 ![image](https://user-images.githubusercontent.com/76194453/228403944-ef5b26d1-e476-4540-8b0d-6978b4c9e42e.png)
 
 
+10:24 PM 
 
+An Austrian website claims to have decoded the Voynich Manuscript, and published a German and English translation - 
 
+https://www.ots.at/presseaussendung/OTS_20230310_OTS0148/sensationen-zur-schweizer-garde-im-vatikan-und-zu-den-habsburgern-der-voynich-code-ist-geknackt-anhaenge
+"The Voynich Silenen Comedy: The Voynich Manuscript, now the greatest
+mystery in human history, has been deciphered as a bishop's memoir!"
+
+The English part starts on p. 44
+https://de.wikipedia.org/wiki/Jost_von_Silenen (I was able to download the PDF, no subscription needed)
