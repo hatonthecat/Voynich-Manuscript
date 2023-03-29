@@ -288,3 +288,19 @@ p.50  ![image](https://user-images.githubusercontent.com/76194453/228401291-e37b
 p.52 ![image](https://user-images.githubusercontent.com/76194453/228402730-fa6ffdb8-e956-4f67-9278-3b95bc433d2b.png)
 
 "intellectual vagrant"
+
+An antiquated term, not often used.
+
+https://books.apple.com/us/book/thoreau-beyond-borders/id1546666826
+
+"Henry David Thoreau spent his life as an intellectual vagrant, jumping fences, pushing boundaries, and crossing borders. How, why, and to what end are the questions asked by contributors to this new volume of essays, whose work crosses national and disciplinary borders to think about Thoreau anew."
+
+According to Google N-Gram viewer: https://en.wikipedia.org/wiki/Google_Ngram_Viewer
+
+The phrase vagrant has decreased but cannot be found often adjacent "intellectual"
+
+![image](https://user-images.githubusercontent.com/76194453/228403944-ef5b26d1-e476-4540-8b0d-6978b4c9e42e.png)
+
+
+
+
