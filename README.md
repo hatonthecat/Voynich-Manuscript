@@ -316,3 +316,5 @@ https://en.wikipedia.org/wiki/Saint_Alban#On_the_Continent
 (I was able to download the PDF, no subscription needed:
 https://www.ots.at/a/PDF_20230310_OTS0148_0)
 https://en.wikipedia.org/wiki/Benedict_XVI_Philosophical-Theological_University
+
+https://en.wikipedia.org/wiki/Hildegard_of_Bingen
