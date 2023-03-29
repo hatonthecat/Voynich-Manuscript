@@ -282,3 +282,6 @@ https://www.historyfiles.co.uk/FeaturesEurope/EasternPoland_Voynich01.htm
 As I suspected, he purchased some heavily discounted texts using questionable practices, then marking them up in the UK and U.S.
 
 "Among the books he acquired as a result of this transaction was a peculiar volume, of some age and obviously written in code, which was to provide him with a more than contemporary notability. (There are some arguments that the volume did not originate in the stated location - inter alia he said that he had acquired it from 'a castle' - and used the Villa as misdirection.)"
+
+p.50 [image](https://user-images.githubusercontent.com/76194453/228401140-0cdbda8e-ffdc-4202-a4a6-d9ee96aeccbc.png)
+
