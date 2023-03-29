@@ -285,4 +285,5 @@ As I suspected, he purchased some heavily discounted texts using questionable pr
 
 p.50  ![image](https://user-images.githubusercontent.com/76194453/228401291-e37bd364-25dc-4910-8227-7a6d70b8752d.png)
 
+p.52 ![image](https://user-images.githubusercontent.com/76194453/228402730-fa6ffdb8-e956-4f67-9278-3b95bc433d2b.png)
 
