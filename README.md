@@ -311,4 +311,6 @@ https://www.ots.at/presseaussendung/OTS_20230310_OTS0148/sensationen-zur-schweiz
 mystery in human history, has been deciphered as a bishop's memoir!"
 
 The English part starts on p. 44
-https://de.wikipedia.org/wiki/Jost_von_Silenen (I was able to download the PDF, no subscription needed)
+https://de.wikipedia.org/wiki/Jost_von_Silenen (I was able to download the PDF, no subscription needed:
+https://www.ots.at/a/PDF_20230310_OTS0148_0)
+https://en.wikipedia.org/wiki/Benedict_XVI_Philosophical-Theological_University
