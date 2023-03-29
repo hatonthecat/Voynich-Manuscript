@@ -287,3 +287,4 @@ p.50  ![image](https://user-images.githubusercontent.com/76194453/228401291-e37b
 
 p.52 ![image](https://user-images.githubusercontent.com/76194453/228402730-fa6ffdb8-e956-4f67-9278-3b95bc433d2b.png)
 
+"intellectual vagrant"
