@@ -391,39 +391,71 @@ Certainly the illustrations of the Voynich manuscript are unique- not quite high
 Memoirs have been written since ancient times, says Wikipedia, but how fitting it would be that one founder of the Old Swiss Confederacy would mix personal with state events, being unique. While many claims to unfalsifiable theories can appear impossible to prove, the Dr. Bernhard-Konigstein  claims, or should I say teases, with hints that Jost of Silenen is betrayed by minor errors (p.52):
 
 “All the details in the manuscript are important,
+
 To correctly interpret his message.
+
 There who wrote his fingers sore,
+
 But it is proclaimed here as a miracle
+
 With what many thousands of variants
+
 The same glyphs got mixed up.
+
 Even if it were a waste
+
 An eternal joke in every turn.
+
 But where I read the opaque text,
+
 Little by little he betrayed his nature,
+
 Also to understand botany
+
 I had to go into history.”
 
+
+
 “The author was known to us for a long time
+
 He is already mentioned as a patron!
+
 He left us a breviary
+
 It is also historically easy to grasp!
+
 Yes, his knowledge of the last things
+
 Towers over the Hildegard of Bingen.”
+
 
 But the poem becomes more poetic, which is key to deciphering its origin:
 
+
 “Yes, the Voynich, may we guess
+
 Is as a picture a secret Morgarten.
+
 Are also text and root in splendor,
+
 They point us to this battle
+
 Because even in the moor from time to time
+
 Even the root likes to stand free.
+
 Even if the soot is without a picture,
+
 Enough of that are in world chronicles.
+
 Every stalk in the global garden
+
 Bears witness to Swiss semispecies.
+
 However, if you are often in a group,
-Impaled a flower head.
+
+Impaled a flower head."
+
 
 The “semi-species” is in reference to Switzerland's four national languages- German, French, Italian, and Romansh, as well as diverse ethnic makeup, thus the plants with separately colored roots and stems pays homage to Switzerland's historical foundings. How poetic. Just a week ago, I gave a quick look at the many languages in the manuscript- what appeared to be Arabic, Hebrew, Cyrillic, and thought, whoever wrote this might have had a biblical interpretation of languages- something like the Tower of Babel, but there was nothing I could connect to a contemporary event (which isn't to say a real tower of babel once existed in ancient times, but the story itself was metaphorical).
 
