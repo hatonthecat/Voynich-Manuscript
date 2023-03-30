@@ -554,7 +554,7 @@ https://en.wikipedia.org/wiki/Occam%27s_razor
 
 "Occam's razor, Ockham's razor, or Ocham's razor (Latin: novacula Occami) in philosophy is the problem-solving principle that recommends searching for explanations constructed with the smallest possible set of elements. It is also known as the principle of parsimony or the law of parsimony (Latin: lex parsimoniae). Attributed to William of Ockham, a 14th-century English philosopher and theologian, it is frequently cited as Entia non sunt multiplicanda praeter necessitatem, which translates as "Entities must not be multiplied beyond necessity",[1][2] although Occam never used these exact words. Popularly, the principle is sometimes inaccurately[3] paraphrased as "The simplest explanation is usually the best one."[4]"
 
-The analysis encourages the reader to consider all the information on page 52 (located previously, but will be added later):
+The analysis encourages the reader to consider all the information on page 52:
 
 "All the details in the manuscript are important,
 To correctly interpret his message.
