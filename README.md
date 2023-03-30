@@ -554,13 +554,20 @@ https://en.wikipedia.org/wiki/Occam%27s_razor
 
 "Occam's razor, Ockham's razor, or Ocham's razor (Latin: novacula Occami) in philosophy is the problem-solving principle that recommends searching for explanations constructed with the smallest possible set of elements. It is also known as the principle of parsimony or the law of parsimony (Latin: lex parsimoniae). Attributed to William of Ockham, a 14th-century English philosopher and theologian, it is frequently cited as Entia non sunt multiplicanda praeter necessitatem, which translates as "Entities must not be multiplied beyond necessity",[1][2] although Occam never used these exact words. Popularly, the principle is sometimes inaccurately[3] paraphrased as "The simplest explanation is usually the best one."[4]"
 
-The analysis encourages the reader to consider all the information on page ___ (located previously, but will be added later)
+The analysis encourages the reader to consider all the information on page 52 (located previously, but will be added later):
+
+"All the details in the manuscript are important,
+To correctly interpret his message.
+There who wrote his fingers sore,
+But it is proclaimed here as a miracle
+With what many thousands of variants
+The same glyphs got mixed up."
 
 Parsimonious and holistic considerations are not mutually exclusive, rather, they are like a Venn Diagram for comparing the explanation of a solar system within a larger, suspected, but yet undetermined galaxy.
 
 Abductive reasoning, Inductive reasoning and deductive reasoning, all play a significant role, though not in any order of decreasing importance.
 
-I am reminded of a scene where in Peter Seller's Being there (1979), the president who becomes alerted to the suspicious new character of the gardener, meets with advisors who believe he is working for the FBI or CIA (due to some details such as the clothing he has was made from a garment factory from the 1930s and no longer exists). This kind of post-hoc fallacious reasoning leads many to assume that post-15the century methods of encryption and beliefs could explain the "real" meaning of something which, if its carbon dating is to be believed, and I have every reason to believe that, then it would have to be interepreted from the era it came from, not from high-tech RSA encryption, which wasn't an idea back then. 
+I am reminded of a scene where in Peter Seller's Being there (1979), the president who becomes alerted to the suspicious new character of the gardener, meets with advisors who believe he is working for the FBI or CIA (due to some details such as the clothing he has was made from a garment factory from the 1930s and no longer exists). This kind of post-hoc fallacious reasoning leads many to assume that post-15 century methods of encryption and beliefs could explain the "real" meaning of something which, if its carbon dating is to be believed, and I have every reason to believe that, then it would have to be interepreted from the era it came from, not from high-tech RSA encryption, which wasn't an idea back then. 
 
 p.48
 "However, there is no historical chronology, but a regional arrangement. In
