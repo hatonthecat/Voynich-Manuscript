@@ -425,3 +425,15 @@ Dr. Bernhart-Königstein's claims that it was written by  Jost von Silenen and h
  
  
 [48] Reddy, Sravana; Knight, Kevin (2011). "What we know about the Voynich manuscript". Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities. Stroudsburg, PA: Assoc. Comput. Linguist. pp. 78–86. https://aclanthology.org/W11-1511.pdf
+
+--
+11:30AM
+--
+8 months ago, a Redditor compared the drawings of the buildings in the Voynich manuscript to buildings in Basel, Switzerland, circa 1436:
+https://www.reddit.com/r/voynich/comments/wgqzv6/architecture_from_voynich_rosettes_page_and/
+
+https://digital.bodleian.ox.ac.uk/objects/ca49c07b-cfb5-41cc-ab66-c215e1268a05/surfaces/d12c0505-26a8-4983-a8d4-63d43e087d9b/
+
+https://digital.bodleian.ox.ac.uk/objects/ca49c07b-cfb5-41cc-ab66-c215e1268a05/surfaces/b8707371-4f8d-4cc1-9482-0473676bf88d/ Italy and France, Basel
+
+These links are aggregated here for convenience, not to confirm yet that it is related, but to be supplementary information.
