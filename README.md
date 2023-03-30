@@ -537,7 +537,7 @@ Switzerland might not exist today. The French king Louis XI, who pulls the strin
 background and was an enemy of Charles the Bold, made Jost of Silenen the bishop of Grenoble
 as a thank you until he was appointed to the bishopric of Sion in 1482."
 
-A workhorse, of diplomatic gruntwork. Many of us are familiar with under-appreciated statesmen, such as Richard Holbrooke, who had a post-mortem biographical documentary made by his son, called The Diplomat: https://en.wikipedia.org/wiki/The_Diplomat_(2015_film)
+A workhorse, of diplomatic gruntwork. Jost of Silenen would have been powerless, had he not invented a meritable solution for Swiss patriotism. Many of us are familiar with under-appreciated statesmen, such as Richard Holbrooke, who had a post-mortem biographical documentary made by his son, called The Diplomat: https://en.wikipedia.org/wiki/The_Diplomat_(2015_film)
 
 And the undervalue of diplomacy is also highlighted in the humorous Norwegian music video Ylvis - Jan Egeland https://www.youtube.com/watch?v=Yn-oemgzlEU
 
