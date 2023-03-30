@@ -628,3 +628,8 @@ The word is derived from the Italian mazza (mace, mace) and denotes a symbol. It
 The head of the "wild man".  Illustration by Christoph Silberysen in the Schweizer Chronik, 1576 (Aargauer Kantonsbibliothek, Aarau, MsWettF 16: 1, p. 470; e-codices).
 
 The symbolism of the M. is interpreted in different ways: positively as a symbol of the rights and freedoms of the people or the right to resist tyranny; negative in the brief of Pope Alexander VI. from 1500 as an idol, in the farewells as a sign of violence and in folklore. Literature as a symbol of death or a wild man. The matzah game is accordingly regarded as a conspiracy against the freedom of the Church, as superstition , as a means of popular justice, an instrument of revolution or a ritual of rebellion and is associated with the Heischezüge, the Wilder-Mann game, the Charivari and the carnival activities ( Fasnacht ) of the fraternities and the aspirations of the emerging bourgeoisie after emancipation from the world. Violence of the bishop linked."
+
+---
+3:33 PM 
+---
+By the way, I am not celebrating anything yet- I am speculating as if this were already true- like printing Championship t-shirts for both Superbowl teams. 
