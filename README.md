@@ -310,6 +310,8 @@ https://www.ots.at/presseaussendung/OTS_20230310_OTS0148/sensationen-zur-schweiz
 "The Voynich Silenen Comedy: The Voynich Manuscript, now the greatest
 mystery in human history, has been deciphered as a bishop's memoir!"
 
+3rd copy: https://www.dropbox.com/s/a7iz8g9kd8m8w0q/PDF_20230310_OTS0148_0.pdf?dl=0
+
 The English part starts on p. 44
 https://de.wikipedia.org/wiki/Jost_von_Silenen and his ancestor:
 https://en.wikipedia.org/wiki/Saint_Alban#On_the_Continent
