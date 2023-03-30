@@ -575,3 +575,25 @@ p.48
 this respect, the term chronicle is not entirely appropriate. It is the bishop's personal choice, and
 often more present than thought of retrospectively, the deciphered text tells us."
 
+---
+2:29PM
+---
+Some interesting background:
+
+https://de.wikipedia.org/wiki/Mazze 
+
+"The matzah is an object and the popular uprising named after it, which was triggered in a ritualized form in medieval Valais .
+
+The object of matzah was usually a wooden trunk with a carved human face with grotesque features.
+
+The seizure of the matzah was the beginning of a popular uprising. It went something like this: the matzah was usually hung on a tree in a village square overnight. The following morning the residents gathered and waited for an initiate to seize the matzah and carry it away. The people followed this man, the matzah master, until he put the matzah on the ground. The residents gathered around the matzah and began to ask her questions such as: "Mazzah, what do you want?", "Mazzah, what is wrong with you?" etc. The matzah, of course, remained silent, whereupon the people demanded a lawyer for the matzah . An eloquent initiate offered himself as advocate to the crowd and also began questioning the matzah. To make it exciting, he first asked trivial questions, whereupon the matzah master shook the matzah in the negative, until after some time, in a heated mood, the lawyer made the right assumptions and accusations. The matzah master now performed a wild, joyful dance with the matzah. The lawyer turned to the people and shouted: "You have heard the complaints of the matzah, now discuss what to do!" So the conspiracy began, everyone present who agreed with the decisions drove a nail into the matzah .
+
+The best-known case of the matzah seizure in Valais history took place in 1496, when the pro-France and therefore unpopular bishop Jost von Silenen was relieved of his office by the rebellious people and chased out of the country within a few days, which, after a brief interlude by his uncle Nicolaus Schiner, made him the declared France enemy Matthäus Schiner came to the bishopric.'
+
+"As a politician, Georg Supersaxo (* around 1450; † 1529 in Vevey ; also Jörg auf der Flüe ) held the various offices of Zehndenmeier of Mörel , Grand Kastlan of Anniviers , provincial clerk of the Valais , secretary of Matthäus Schiner . As head of the Milan party and tribune of the people, he carried the matzah against Jost von Silenen according to customs and developed into the antagonist of his pupil and later bishop Matthäus Schiner." 
+
+https://de.wikipedia.org/wiki/Georg_Supersaxo 
+
+"His campaigns in the Val d'Ossola failed, finally the Confederates were defeated by the Duchy of Milan at the Battle of Crevola , which led to a peace in 1495. Without power and reputation and under pressure from Georg Supersaxo , Jost von Silenen withdrew to Lyon and was deposed as bishop by the Pope in 1497; most recently he was titular bishop ofHierapolis . Attempts to recapture him failed." from https://de.wikipedia.org/wiki/Jost_von_Silenen
+
+https://hls-dhs-dss.ch/de/articles/016548/2009-11-24/
