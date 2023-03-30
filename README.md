@@ -416,7 +416,12 @@ https://en.wikipedia.org/wiki/Voynich_manuscript#Statistical_patterns
 
 Dr. Bernhart-Königstein's claims that it was written by  Jost von Silenen and his family, including his nephew, Kaspar von Silenen, would support the statistical analysis that two/multiple scribes contributed to it (perhaps in two different sections/topics as previously theorized).
 
- Bowern, Claire L.; Lindemann, Luke (14 January 2021). "The Linguistics of the Voynich Manuscript". Annual Review of Linguistics. 7 (1): 285–308. doi:10.1146/annurev-linguistics-011619-030613. S2CID 228894621. Retrieved 30 August 2021.
- Currier, PH; Zandbergen, R. "Papers on the Voynich manuscript. The Voynich Manuscript". Retrieved 30 August 2021.
- Davis, Lisa Fagin (2020). "How many glyphs and how many scribes? Digital paleography and the Voynich Manuscript". Manuscr. Stud. 5: 164–80. doi:10.1353/mns.2020.0011. S2CID 218957807. Retrieved 30 August 2021.
- Reddy, Sravana; Knight, Kevin (2011). "What we know about the Voynich manuscript". Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities. Stroudsburg, PA: Assoc. Comput. Linguist. pp. 78–86.
+[45] Bowern, Claire L.; Lindemann, Luke (14 January 2021). "The Linguistics of the Voynich Manuscript". Annual Review of Linguistics. 7 (1): 285–308. doi:10.1146/annurev-linguistics-011619-030613. S2CID 228894621. Retrieved 30 August 2021. https://www.annualreviews.org/doi/pdf/10.1146/annurev-linguistics-011619-030613
+ 
+[46] Currier, PH; Zandbergen, R. "Papers on the Voynich manuscript. The Voynich Manuscript". Retrieved 30 August 2021. http://www.voynich.nu/extra/curr_main.html
+
+
+[47] Davis, Lisa Fagin (2020). "How many glyphs and how many scribes? Digital paleography and the Voynich Manuscript". Manuscr. Stud. 5: 164–80. doi:10.1353/mns.2020.0011. S2CID 218957807. Retrieved 30 August 2021. https://repository.upenn.edu/cgi/viewcontent.cgi?article=1082&context=mss_sims
+ 
+ 
+[48] Reddy, Sravana; Knight, Kevin (2011). "What we know about the Voynich manuscript". Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities. Stroudsburg, PA: Assoc. Comput. Linguist. pp. 78–86. https://aclanthology.org/W11-1511.pdf
