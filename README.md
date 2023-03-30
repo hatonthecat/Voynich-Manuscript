@@ -318,3 +318,115 @@ https://www.ots.at/a/PDF_20230310_OTS0148_0)
 https://en.wikipedia.org/wiki/Benedict_XVI_Philosophical-Theological_University
 
 https://en.wikipedia.org/wiki/Hildegard_of_Bingen
+
+---
+3/29/2023
+---
+
+Notes, ideas and thoughts on the Silenen Codex:
+
+the lecturer who wrote the article has a PhD, works at a Cistercian theological university, not just any theological university but with a parent organization as the Catholic Church. In the 1400s, when this manuscript is believed to have been written, the Catholic church authorities- the popes and bishops, were considered infallible. 
+
+"Because of the complexity in defining infallibility, some Protestant and non-denominational views confuse papal infallibility with impeccability, as if the Pope were immune from sin."
+
+Viewed through the lens of philological analysis, as with scholar-priests such as Lorenzo Valla, the Catholic Church is arguably one of the most non-promotional institutions still in existence:
+
+“Valla is “best known for his historical-critical textual analysis that proved that the Donation of Constantine was a forgery, therefore attacking and undermining the presumption of temporal power claimed by the papacy.[1] Lorenzo is sometimes seen as a precursor of the Reformation.[2][3]”
+
+Furthermore, 
+
+In Centuries after Aristotle, in “Perspectives on Early Modern and Modern Intellectual History (Gates and Marino, 2001), on p.39:
+
+“Erasmus has recourse to Jerome's auctoritas again in rebutting Poggio's other accusation at Valla-that
+by emending the Vulgate, Valla desecrated the most venerated text of Western Christianity. On this
+point too, Erasmus is clear and firm. In reality, Valla had completed the task begun by Jerome's, was
+intended to combat the errors and superficiality of biblical exegesis flawed by insufficient
+command of Latin and Greek. While Valla brought to bear on the New Testament his linguistic skills
+and literary erudition, he did not forget that these texts were fundamental for Christianity. Moreover,
+asserts Erasmus, Valla's research was in conformity with the norms established by the Council of
+Vienne (1311-12) and later included in the Constitutiones Clementinae. These norms imposed the study
+of biblical language on the students of theology, in order to secure a correct understanding of the Holy
+Scriptures.”
+
+When I examine the veracity of something, the first thing I look for is, why would someone make something up, when the truth is more interesting than fiction? Not everyone is dishonest, regardless of interest. From p.46 of the Voynich-Silenen Comedy, 
+
+“The family, and thus also the Voynich-Silenen manuscript, gained special importance through
+the founding of the Swiss Guard, whose first captain was the nephew and son of Albin von
+Silenen's brother, Kaspar von Silenen. At that time, secular and spiritual principalities still
+formed a unit. In the Confederation and also in Valais, however, the power of the prince-bishop
+was severely restricted by the state council. In Switzerland, the bourgeoisie had taken power
+early on.
+In diplomatic circles, the Silenen manuscript helped, the memoirs of Jost von Silenen possibly
+helped as a memorandum in the formation of the Swiss state. But it certainly became the
+ideological founding document, the charter of the Swiss Guard in the Vatican, whose captain was
+the nephew of Bishop Kaspar von Silenen. When he dies - a son followed him as captain - it falls
+into oblivion and is used as an alchemy book by Emperor Rudolf ll. and re-enter history as the
+Voynich Manuscript, until rediscovered by its readability as the Silenen Manuscript.
+In fact, this discovery also contributes something to the history of Switzerland's national hero,
+Wilhelm Tell, but in a humorous way and with hints, there is no doubt about the intended
+reference to Tell, as he is perhaps the second great hero of Switzerland that has been
+underestimated (conditio sine qua non) and as the Creator of this manuscript also personally
+connected with the legend of Tell.'
+
+If a story is bursting with humor, there is no need to embellish. The truth works for you, rather than the other way around.
+
+Page 52: “III. An almost moral bishop”
+
+In the manuscript, the bishop appears honest, but not impeccable. I think the ability to accurately assess this manuscript requires, at the very least, empathy in in the subject matter. If someone believes honesty is valueless, then they value appearance over substance. The question appears to be, not whether Jost di Silenen had anything to gain from writing this, of which there is important historical value, but what he had to lose in not writing. If he were religious, he may have preferred to write his conscience in the eyes of God, even (or in such a way) if no one else could decode it in his life time. As for the aforementioned memorandum of formation, that too may have been decipherable only to his dynasty.
+
+Another point of context is this particularly unfalsifiable part:
+
+“You can't really say it's written, rather it's designed, maybe sketched, co-organized as a client,
+because there is no example of this kind of art before him. And yet, as the humanist behind the
+work, Jost of Silenen himself should be considered. The references are too individual, the
+continuous connection with the biography is too unusual, the educational path, yes, the origin.
+
+And finally, the work of self-panegyric clearly embodies the philosophy of life and the political
+mission expected of it. Not so rare in the Renaissance, but also typically Italian, that in
+diplomats, politicians, even more so in church people, artistic qualities such as Eneas Silvius
+Piccolomini, Gulio de Medici, would come to mind spontaneously.”
+
+Certainly the illustrations of the Voynich manuscript are unique- not quite high-art, but not quite outsider art either, unless a Bishop's art is categorically considered sub-par. Rather, I think the uniqueness of the Rennaissance era, its foreignness in terms of religious values, pre-industrialization, pre-commercialization are moreso explanations of its “alien-ness” than anything specifically extraordinary to its contemporary era, other than the fact that Switzerland's founding was especially unique- in its supranational character. All this contributes to requiring a very extraordinary understanding of an era far removed from the current, and one that has many lessons that can be learned from. As they say, “it takes one to know one” may be unfair to say here (it is not possible to claim to understand  or self-identify with a 500+ year old contemporary era - not even a Ren-Faire attendee could make that claim).
+
+Memoirs have been written since ancient times, says Wikipedia, but how fitting it would be that one founder of the Old Swiss Confederacy would mix personal with state events, being unique. While many claims to unfalsifiable theories can appear impossible to prove, the Dr. Bernhard-Konigstein  claims, or should I say teases, with hints that Jost of Silenen is betrayed by minor errors (p.52):
+
+“All the details in the manuscript are important,
+To correctly interpret his message.
+There who wrote his fingers sore,
+But it is proclaimed here as a miracle
+With what many thousands of variants
+The same glyphs got mixed up.
+Even if it were a waste
+An eternal joke in every turn.
+But where I read the opaque text,
+Little by little he betrayed his nature,
+Also to understand botany
+I had to go into history.”
+
+“The author was known to us for a long time
+He is already mentioned as a patron!
+He left us a breviary
+It is also historically easy to grasp!
+Yes, his knowledge of the last things
+Towers over the Hildegard of Bingen.”
+
+But the poem becomes more poetic, which is key to deciphering its origin:
+
+“Yes, the Voynich, may we guess
+Is as a picture a secret Morgarten.
+Are also text and root in splendor,
+They point us to this battle
+Because even in the moor from time to time
+Even the root likes to stand free.
+Even if the soot is without a picture,
+Enough of that are in world chronicles.
+Every stalk in the global garden
+Bears witness to Swiss semispecies.
+However, if you are often in a group,
+Impaled a flower head.
+
+The “semi-species” is in reference to Switzerland's four national languages- German, French, Italian, and Romansh, as well as diverse ethnic makeup, thus the plants with separately colored roots and stems pays homage to Switzerland's historical foundings. How poetic. Just a week ago, I gave a quick look at the many languages in the manuscript- what appeared to be Arabic, Hebrew, Cyrillic, and thought, whoever wrote this might have had a biblical interpretation of languages- something like the Tower of Babel, but there was nothing I could connect to a contemporary event (which isn't to say a real tower of babel once existed in ancient times, but the story itself was metaphorical).
+
+I rate this claim highly inspired by religion, but no less implausible, since religion was the norm back then. It was also, as the author points out, not yet separated from all of the following: stately, secular matters and nature.
+
+
