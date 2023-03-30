@@ -406,12 +406,17 @@ The “semi-species” is in reference to Switzerland's four national languages-
 I rate this claim highly inspired by religion, but no less implausible, since religion was the norm back then. In other words- all the more so due to its religious subtexts (glyphs, symbols), can be seen to match its contextual era. It was also, as the author points out, not yet separated from all of the following: stately, secular matters and nature.
 
 ----
-3/24/2023
+3/30/2023
 ----
-12:13Am
+12:13AM
 
 https://en.wikipedia.org/wiki/Voynich_manuscript#Statistical_patterns
 
 " As noted in Bowern's review, multiple scribes or "hands" may have written the manuscript, possibly using two methods of encoding at least one natural language.[45][46][47][48] The "language" Voynich A appears in the herbal and pharmaceutical parts of the manuscript. The "language" known as Voynich B appears in the balneological section, some parts of the medicinal and herbal sections, and the astrological section. The most common vocabulary items of Voynich A and Voynich B are substantially different. Topic modeling of the manuscript suggests that pages identified as written by a particular scribe may relate to a different topic.[45]" 
 
 Dr. Bernhart-Königstein's claims that it was written by  Jost von Silenen and his family, including his nephew, Kaspar von Silenen, would support the statistical analysis that two/multiple scribes contributed to it (perhaps in two different sections/topics as previously theorized).
+
+ Bowern, Claire L.; Lindemann, Luke (14 January 2021). "The Linguistics of the Voynich Manuscript". Annual Review of Linguistics. 7 (1): 285–308. doi:10.1146/annurev-linguistics-011619-030613. S2CID 228894621. Retrieved 30 August 2021.
+ Currier, PH; Zandbergen, R. "Papers on the Voynich manuscript. The Voynich Manuscript". Retrieved 30 August 2021.
+ Davis, Lisa Fagin (2020). "How many glyphs and how many scribes? Digital paleography and the Voynich Manuscript". Manuscr. Stud. 5: 164–80. doi:10.1353/mns.2020.0011. S2CID 218957807. Retrieved 30 August 2021.
+ Reddy, Sravana; Knight, Kevin (2011). "What we know about the Voynich manuscript". Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities. Stroudsburg, PA: Assoc. Comput. Linguist. pp. 78–86.
