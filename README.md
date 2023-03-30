@@ -357,7 +357,7 @@ In fact, this discovery also contributes something to the history of Switzerland
 
 If a story is bursting with humor, there is no need to embellish. The truth works for you, rather than the other way around.
 
-Page 52: “III. An almost moral bishop”
+Page 53: “III. An almost moral bishop”
 
 In the manuscript, the bishop appears honest, but not impeccable. I think the ability to accurately assess this manuscript requires, at the very least, empathy in in the subject matter. If someone believes honesty is valueless, then they value appearance over substance. The question appears to be, not whether Jost di Silenen had anything to gain from writing this, of which there is important historical value, but what he had to lose in not writing. If he were religious, he may have preferred to write his conscience in the eyes of God, even (or in such a way) if no one else could decode it in his life time. As for the aforementioned memorandum of formation, that too may have been decipherable only to his dynasty.
 
@@ -439,3 +439,106 @@ https://digital.bodleian.ox.ac.uk/objects/ca49c07b-cfb5-41cc-ab66-c215e1268a05/s
 https://digital.bodleian.ox.ac.uk/objects/ca49c07b-cfb5-41cc-ab66-c215e1268a05/surfaces/b8707371-4f8d-4cc1-9482-0473676bf88d/ Italy and France, Basel
 
 These links are aggregated here for convenience, not to confirm yet that it is related, but to be supplementary information.
+
+---
+12:06 PM
+---
+
+What is the difference between a hoax and a comedy? 
+
+Hoax:
+
+"A hoax is a widely publicized falsehood so fashioned as to invite reflexive, unthinking acceptance by the greatest number of people of the most varied social identities and of the highest possible social pretensions to gull its victims into putting up the highest possible social currency in support of the hoax.[1]
+
+Whereas the promoters of frauds, fakes, and scams devise them so that they will withstand the highest degree of scrutiny customary in the affair, hoaxers are confident, justifiably or not, that their representations will receive no scrutiny at all. They have such confidence because their representations belong to a world of notions fundamental to the victims' views of reality, but whose truth and importance they accept without argument or evidence, and so never question.
+
+Some hoaxers intend eventually to unmask their representations as in fact a hoax so as to expose their victims as fools; seeking some form of profit, other hoaxers hope to maintain the hoax indefinitely, so that it is only when sceptical persons willing to investigate their claims publish their findings that at last they stand revealed as hoaxers."
+
+Comedy:
+
+Comedy is a genre of fiction that consists of discourses or works intended to be humorous or amusing by inducing laughter, especially in theatre, film, stand-up comedy, television, radio, books, or any other entertainment medium. The term originated in ancient Greece: In Athenian democracy, the public opinion of voters was influenced by political satire performed by comic poets in theaters.[1] The theatrical genre of Greek comedy can be described as a dramatic performance pitting two groups, ages, genders, or societies against each other in an amusing agon or conflict. Northrop Frye depicted these two opposing sides as a "Society of Youth" and a "Society of the Old".[2] A revised view characterizes the essential agon of comedy as a struggle between a relatively powerless youth and the societal conventions posing obstacles to his hopes. In this struggle, the youth then becomes constrained by his lack of social authority, and is left with little choice but to resort to ruses which engender dramatic irony, which provokes laughter.[3]"
+
+That Dr. Bernhart-Königstein chose to name the manuscript a "Comedy" is revealing in itself. It suggests familiarity with the topic, and possibly historical knowledge going as far back as the Ancient Greek definition of Old Comedy.
+
+On p. 47: 
+
+"The family, and thus also the Voynich-Silenen manuscript, gained special importance through
+the founding of the Swiss Guard, whose first captain was the nephew and son of Albin von
+Silenen's brother, Kaspar von Silenen. At that time, secular and spiritual principalities still
+formed a unit. In the Confederation and also in Valais, however, the power of the prince-bishop
+was severely restricted by the state council. In Switzerland, the bourgeoisie had taken power
+early on.
+
+In diplomatic circles, the Silenen manuscript helped, the memoirs of Jost von Silenen possibly
+helped as a memorandum in the formation of the Swiss state. But it certainly became the
+ideological founding document, the charter of the Swiss Guard in the Vatican, whose captain was
+the nephew of Bishop Kaspar von Silenen. When he dies - a son followed him as captain - it falls
+into oblivion and is used as an alchemy book by Emperor Rudolf ll. and re-enter history as the
+Voynich Manuscript, until rediscovered by its readability as the Silenen Manuscript.
+
+In fact, this discovery also contributes something to the history of Switzerland's national hero,
+Wilhelm Tell, but in a humorous way and with hints, there is no doubt about the intended
+reference to Tell, as he is perhaps the second great hero of Switzerland that has been
+underestimated (conditio sine qua non) and as the Creator of this manuscript also personally
+connected with the legend of Tell.'
+
+The "amusing" aspect is that Jost of Silenen appears to have been a clever negotiator of peace, even though he faced quite a bit of competition.
+
+p.52
+"But where I read the opaque text,
+Little by little he betrayed his nature,
+Also to understand botany
+I had to go into history."
+
+p.45
+
+"And we have to turn it up a notch ourselves: in the Silenen Swiss comedy, the people of
+Switzerland are given something belatedly that unexpectedly strengthens their identity like it
+hasn't since Friedrich Schiller. What came together through battles and demarcations, what was
+strengthened by a common tradition and alliances, always threatened to break apart through the
+differences in languages, denominations and cultures in the mountains and valleys. What is
+astonishing about Swiss patriotism, which runs counter to all European nationalisms, is its
+supranational character. This Helvetic construction, which could actually only have come about
+in a supranational world of the Middle Ages, seems to have formed a stable community that has
+endured and shaped the Alps to this day.
+
+Even if the Sonderbund war has long since been settled, no one should assume that the neutral
+cohesion of such a diverse people, especially in today's centralized European Union, does not
+require a new, further unifying document at any time. So it would also be a special joy for all
+European citizens if such a new document of stability and peace, as the democratic model, had
+been found, especially in the most unexpected unpeaceful times in Europe a new message of
+peace comes at the right time. History shows that peace can succeed if there are good diplomats
+like Jost of Silenen.
+
+Jost of Silenen is little known today, but that could change very quickly. In 1482 he was made
+bishop of Sitten in Wallis. He is quite a successful historical figure, politically and also as a
+patron of the arts, even if he was deposed as a bishop at the end of his life. But he was even more
+successful than we previously knew, namely as a Swiss patriot. Who would have guessed that
+500 years later he would be remembered for a very special reason. Apart from his political
+commitment, he himself had made a significant contribution to his spiritual monument and its
+indicated impact. In the work that we still call the “Voynich Manuscript” for the time being.
+
+p.46
+
+"It was his merit that he negotiated the first enduring peace treaty with Ferdinand of Habsburg,
+the so-called Eternal Direction, which guaranteed the Confederation of the time its first
+independence and secured the status it had fought for as a free, democratic nation, which was
+unique in Europe and which thought ahead to neutrality and so on can also be used for all times
+as a model for peace in Europe and indeed in the world. At that time still officially called
+Unification, but it was the first peace treaty around 1474 that set this eternal direction and made
+peace possible even after the Swabian Wars. The Habsburgs were to give up their territory in
+Alsace for a fee and in return receive a promise of support for military service from the
+Confederates. Certainly, Charles the Bold's urge to conquer made the parties move closer
+together. But there were now peaceful paths between two archenemies who have Not spared
+themselves, which brought a lot of suffering to the population. However, it was not only about
+territories, but also about civil liberties, which were guaranteed for the first time and at the
+crucial moment. So Switzerland had resources free for the Burgundian wars, otherwise
+Switzerland might not exist today. The French king Louis XI, who pulls the strings in the
+background and was an enemy of Charles the Bold, made Jost of Silenen the bishop of Grenoble
+as a thank you until he was appointed to the bishopric of Sion in 1482."
+
+A workhorse, of diplomatic gruntwork. Many of us are familiar with under-appreciated statesmen, such as Richard Holbrooke, who had a post-mortem biographical documentary made by his son, called The Diplomat: https://en.wikipedia.org/wiki/The_Diplomat_(2015_film)
+
+And the undervalue of diplomacy is also highlighted in the humorous Norwegian music video Ylvis - Jan Egeland https://www.youtube.com/watch?v=Yn-oemgzlEU
+
+Thus, the joke is on those who do not value peace.
