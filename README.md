@@ -375,7 +375,7 @@ Memoirs have been written since ancient times, says Wikipedia, but how fitting i
 
 But the poem becomes more poetic, which is key to deciphering its origin:
 
-“Yes, the Voynich, may we guess Is as a picture a secret Morgarten. Are also text and root in splendor, They point us to this battle Because even in the moor from time to time Even the root likes to stand free. Even if the soot is without a picture, Enough of that are in world chronicles. Every stalk in the global garden Bears witness to Swiss semispecies. However, if you are often in a group, Impaled a flower head.
+“Yes, the Voynich, may we guess Is as a picture a secret Morgarten. Are also text and root in splendor, They point us to this battle Because even in the moor from time to time Even the root likes to stand free. Even if the soot is without a picture, Enough of that are in world chronicles. Every stalk in the global garden Bears witness to Swiss semispecies. However, if you are often in a group, Impaled a flower head."
 
 The “semi-species” is in reference to Switzerland's four national languages- German, French, Italian, and Romansh, as well as diverse ethnic makeup, thus the plants with separately colored roots and stems pays homage to Switzerland's historical foundings. How poetic. Just a week ago, I gave a quick look at the many languages in the manuscript- what appeared to be Arabic, Hebrew, Cyrillic, and thought, whoever wrote this might have had a biblical interpretation of languages- something like the Tower of Babel, but there was nothing I could connect to a contemporary event (which isn't to say a real tower of babel once existed in ancient times, but the story itself was metaphorical).
 
