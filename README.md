@@ -440,6 +440,9 @@ https://digital.bodleian.ox.ac.uk/objects/ca49c07b-cfb5-41cc-ab66-c215e1268a05/s
 
 These links are aggregated here for convenience, not to confirm yet that it is related, but to be supplementary information.
 
+[1:30 pm retro edit 
+Having zero prior information on this recent non-exhaustive, non-comprehensive search, I begin constructing a timeline of events- The Reddit post was 8 months ago. Could the Austrian doctor have seen that post, and, acting on that tip, travelled to Switzerland shortly after, and decoded it by February of 2023, which is the date of the pre-print?]
+
 ---
 12:06 PM
 ---
