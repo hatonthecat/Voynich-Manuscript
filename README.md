@@ -404,3 +404,14 @@ Impaled a flower head."
 The “semi-species” is in reference to Switzerland's four national languages- German, French, Italian, and Romansh (Half-Swiss/Half-German, Half-Swiss/Half-French, Half-Swiss,Half Italian, etc), and the flowers petals with 4 heads connected, as well as diverse ethnic makeup, thus the plants with separately colored roots and stems pays homage to Switzerland's historical foundings. How poetic. Just a week ago, I gave a quick look at the many languages in the manuscript- what appeared to be Arabic, Hebrew, Cyrillic, and thought, whoever wrote this might have had a biblical interpretation of languages- something like the Tower of Babel, but there was nothing I could connect to a contemporary event (which isn't to say a real tower of babel once existed in ancient times, but the story itself was metaphorical).
 
 I rate this claim highly inspired by religion, but no less implausible, since religion was the norm back then. In other words- all the more so due to its religious subtexts (glyphs, symbols), can be seen to match its contextual era. It was also, as the author points out, not yet separated from all of the following: stately, secular matters and nature.
+
+----
+3/24/2023
+----
+12:13Am
+
+https://en.wikipedia.org/wiki/Voynich_manuscript#Statistical_patterns
+
+" As noted in Bowern's review, multiple scribes or "hands" may have written the manuscript, possibly using two methods of encoding at least one natural language.[45][46][47][48] The "language" Voynich A appears in the herbal and pharmaceutical parts of the manuscript. The "language" known as Voynich B appears in the balneological section, some parts of the medicinal and herbal sections, and the astrological section. The most common vocabulary items of Voynich A and Voynich B are substantially different. Topic modeling of the manuscript suggests that pages identified as written by a particular scribe may relate to a different topic.[45]" 
+
+Dr. Bernhart-Königstein's claims that it was written by  Jost von Silenen and his family, including his nephew, Kaspar von Silenen, would support the statistical analysis that two/multiple scribes contributed to it (perhaps in two different sections/topics as previously theorized).
