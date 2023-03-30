@@ -570,6 +570,18 @@ For example, the concept of heliocentricism, while not directly related to the c
 
 In other words, the Swiss Bishop theory of authorship is a tiny interpretation, but no less impossible- one that requires at least some inspiration at looking at the stars, even if in a geocentric mentality, to eventually correctly re-orient one's mirror neurons to a different axis, and to be the first to hypothesize heliocentricism. 
 
+By "tiny", I am referring to p.45:
+
+"The references are too individual, the continuous connection with the biography is too unusual, the educational path, yes, the origin."
+
+and (I know some of the quotes are repeated, but) p.46: 
+
+"It was his merit that he negotiated the first enduring peace treaty with Ferdinand of Habsburg,
+the so-called Eternal Direction, which guaranteed the Confederation of the time its first
+independence and secured the status it had fought for as a free, democratic nation, which was
+unique in Europe and which thought ahead to neutrality and so on can also be used for all times
+as a model for peace in Europe and indeed in the world."
+
 Abductive reasoning, Inductive reasoning and deductive reasoning, all play a significant role, though not in any order of decreasing importance.
 
 I am reminded of a scene where in Peter Seller's Being there (1979), the president who becomes alerted to the suspicious new character of the gardener, meets with advisors who believe he is working for the FBI or CIA (due to some details such as the clothing he has was made from a garment factory from the 1930s and no longer exists). This kind of post-hoc fallacious reasoning leads many to assume that post-15 century methods of encryption and beliefs could explain the "real" meaning of something which, if its carbon dating is to be believed, and I have every reason to believe that, then it would have to be interepreted from the era it came from, not from high-tech RSA encryption, which wasn't an idea back then. 
