@@ -568,7 +568,7 @@ The same glyphs got mixed up."
 Parsimonious and holistic considerations are not mutually exclusive, rather, they are like a Venn Diagram for comparing the explanation of a solar system within a larger, suspected, but yet undetermined (contemporary to the era) galaxy. https://en.wikipedia.org/wiki/Timeline_of_knowledge_about_galaxies,_clusters_of_galaxies,_and_large-scale_structure
 For example, the concept of heliocentricism, while not directly related to the concept of galaxies, was not apparent in the 1400s, thus geo-centricism would have grouped stars and planets alike. (not distant galaxies have some of their own heliocentricism, which revolve around Earth, or, "as long as they ultimately revolve around earth"- no, it seemed to assume all planets and distant stars orbited around earth, period) 
 
-In other words, the Swiss theory is a tiny interpretation, but no less inpossible- one that requires at least some inspiration at looking at the stars, even if in a geocentric mentality, to eventually correctly re-orient one's mirror neurons to a different axis, and to be the first to hypothesize heliocentricism. 
+In other words, the Swiss Bishop theory of authorship is a tiny interpretation, but no less impossible- one that requires at least some inspiration at looking at the stars, even if in a geocentric mentality, to eventually correctly re-orient one's mirror neurons to a different axis, and to be the first to hypothesize heliocentricism. 
 
 Abductive reasoning, Inductive reasoning and deductive reasoning, all play a significant role, though not in any order of decreasing importance.
 
