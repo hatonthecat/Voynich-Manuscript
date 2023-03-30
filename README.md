@@ -563,7 +563,8 @@ But it is proclaimed here as a miracle
 With what many thousands of variants
 The same glyphs got mixed up."
 
-Parsimonious and holistic considerations are not mutually exclusive, rather, they are like a Venn Diagram for comparing the explanation of a solar system within a larger, suspected, but yet undetermined galaxy.
+Parsimonious and holistic considerations are not mutually exclusive, rather, they are like a Venn Diagram for comparing the explanation of a solar system within a larger, suspected, but yet undetermined (contemporary to the era) galaxy. https://en.wikipedia.org/wiki/Timeline_of_knowledge_about_galaxies,_clusters_of_galaxies,_and_large-scale_structure
+For example, the concept of heliocentricism, while not directly related to the concept of galaxies, was not apparent in the 1400s, thus geo-centricism would have grouped stars and planets alike. (not distant galaxies have some of their own heliocentricism, which revolve around Earth, or, "as long as they ultimately revolve around earth"- no, it seemed to assume all planets and distant stars orbited around earth, period) 
 
 Abductive reasoning, Inductive reasoning and deductive reasoning, all play a significant role, though not in any order of decreasing importance.
 
