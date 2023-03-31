@@ -641,6 +641,10 @@ Some pictures of Sion/"Sitten"
 
 ![Braun_Sion_UBHD](https://user-images.githubusercontent.com/76194453/228990377-bf557f50-210f-45ed-a12a-99b57e7bab85.jpg)
 
+Sion in 1572, from Beschreibung vnd Contrafactur der vornembster Stät der Welt, Köln 1582
+Georg Braun; Frans Hogenberg - Georg Braun; Frans Hogenberg: Civitates Orbis Terrarum, Band 1, 1572 (Ausgabe Beschreibung vnd Contrafactur der vornembster Stät der Welt, Köln 1582; [VD16-B7188) Universitätsbibliothek Heidelberg http://diglit.ub.uni-heidelberg.de/diglit/braun1582bd1
+Sion / Sitten
+
 ![1280px-Merian_Sitten](https://user-images.githubusercontent.com/76194453/228990300-248a0ca7-b814-4919-86f3-a05e8245b7c2.jpg)
 
 Sion in 1640, from Topographia Helvetiae, Rhaetiae et Valesiae, 1642
