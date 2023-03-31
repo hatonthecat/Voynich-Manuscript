@@ -868,7 +868,30 @@ https://www.abebooks.com/first-edition/Br%C3%A9viaire-Josse-Silenen-1493-%C3%A9v
 ---
 12:10PM
 ---
-p.158 of the Voynich manuscript vaguely resembles the Hajj in Mecca, replacing minarets for turrets, although I am have not yet been able to identify any Swiss figures who were at the time inspired by Islamic art. The historically revered Saint Maurice, the latter of which is located in Saint-Maurice, Canton of Valais (pictured and linked above), was a Coptic Egyptian (he also predates Islam by nearly 400 years. However, Switzerland is referred by Dr. Bernhart-Königstein as "supranational", and perhaps at least for cryptological/metaphorical purposes in the 15th century, Islam was known to be too and could have been used as a supranational substitute cipher for Switzerland. But if you look at the turrets/minarets, they have been cut off, which is intriguingely reminiscient of Swiss power:
+p.158 of the Voynich manuscript vaguely resembles the Hajj in Mecca, replacing minarets for turrets, although I am have not yet been able to identify any Swiss figures who were at the time inspired by Islamic art. The historically revered Saint Maurice, the latter of which is located in Saint-Maurice, Canton of Valais (pictured and linked above), was a Coptic Egyptian (he also predates Islam by nearly 400 years. However, Switzerland is referred by Dr. Bernhart-Königstein as "supranational", and perhaps at least for cryptological/metaphorical purposes in the 15th century, Islam was known to be too and could have been used as a supranational substitute cipher for Switzerland. But if you look at the turrets/minarets, they have been cut off, which is intriguingely reminiscient of Swiss power(to a time where the literal was more common, but also analagous in the figurative, present sense-"an-archic" means  "no arch" or "no-head" and the Old Swiss confederacy, with roots in the 1300s, certainly meets that qualification):
+
+
+https://en.wikipedia.org/wiki/Old_Swiss_Confederacy
+
+History	 
+
+• Death of Rudolf I 15 July 1291
+
+• Rütlischwur, Burgenbruch 1291
+
+• Charles IV's Golden Bull 1356
+
+• Battle of Marignano 13–14 September 1515
+
+• Wars of Kappel 1529 and 1531
+
+• Formal independence from the HRE 15 May/24 October 1648
+
+• Swiss peasant war January–June 1653
+
+• Collapse 5 March 1798
+
+In the 1400s, Switzerland was fiercely fighting for what would later become its confederation of small, independent states.
 
 https://en.wikipedia.org/wiki/Politics_of_Switzerland
 
