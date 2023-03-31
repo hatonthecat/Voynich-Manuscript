@@ -865,5 +865,15 @@ https://www.e-periodica.ch/cntmng?pid=gen-001%3A1963%3A11%3A%3A610 (FRENCH) (I w
 
 https://www.abebooks.com/first-edition/Br%C3%A9viaire-Josse-Silenen-1493-%C3%A9v%C3%AAque-Sion/22803199669/bd 
 
+---
+12:10PM
+---
+p.158 of the Voynich manuscript vaguely resembles the Hajj in Mecca, replacing turrets for minarets, although I am have not yet been able to identify any Swiss figures who were at the time inspired by Islamic art. The historically revered Saint Maurice, the latter of which is located in Saint-Maurice, Canton of Valais (pictured and linked above), was a Coptic Egyptian (it also pre-dates Islam by nearly 400 years. However, Switzerland is referred by Dr. Bernhart-Königstein as "supranational", and perhaps at least for cryptological/metaphorical purposes in the 15th century, Islam was known to be too and could have been used as a supranational substitute cipher for Switzerland.
 
+![image](https://user-images.githubusercontent.com/76194453/229189706-bba72d87-4298-4814-ad80-31e28472e15a.png)
+
+
+"Saint Maurice (also Moritz, Morris, or Mauritius; Coptic: Ⲁⲃⲃⲁ Ⲙⲱⲣⲓⲥ) was an Egyptian military leader who headed the legendary Theban Legion of Rome in the 3rd century, and is one of the favorite and most widely venerated saints of that martyred group. He is the patron saint of several professions, locales, and kingdoms."
+
+https://en.wikipedia.org/wiki/Saint_Maurice Perhaps there is a parallel in comparing the supranational character of 
 
