@@ -875,5 +875,4 @@ p.158 of the Voynich manuscript vaguely resembles the Hajj in Mecca, replacing t
 
 "Saint Maurice (also Moritz, Morris, or Mauritius; Coptic: Ⲁⲃⲃⲁ Ⲙⲱⲣⲓⲥ) was an Egyptian military leader who headed the legendary Theban Legion of Rome in the 3rd century, and is one of the favorite and most widely venerated saints of that martyred group. He is the patron saint of several professions, locales, and kingdoms."
 
-https://en.wikipedia.org/wiki/Saint_Maurice Perhaps there is a parallel in comparing the supranational character of 
-
+https://en.wikipedia.org/wiki/Saint_Maurice (See above paragraph for analysis)
