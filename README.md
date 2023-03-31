@@ -846,3 +846,24 @@ Interesting Valais history, just decades prior to Jost von Silenen's era: https:
 10:09AM
 --
 Added a drobox link for the machine translated English one: https://www.dropbox.com/s/24wekmo6itrldlg/Machine%20Translation%20-%20English%20PDF_20230310_OTS0148_0.pdf?dl=0
+
+
+Quite a few interesting pages on Josse de Silenen (his French spelling). 
+
+I've also machine translated a German text on Silenen: 
+
+[Original German]: https://github.com/hatonthecat/Voynich-Manuscript/blob/main/20652913%20-%20Konrad%20Blochinger%20bio%20on%20jost%20von%20Silenen%20-%20German%20original.pdf
+
+The raw extracted English version, pasted into OpenOffice:
+https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Machine%20Translation%20of%20Konrad%20Blochinger's%20bio%20on%20Valais%20Calligrapher%20i.e.%20Jost-Josse.pdf
+
+This file is the Google machine translation of Konrad Blochinger's bio on Jost von Silenen. It is not designed for legibility, but  shows were the superimposed overlaps of the OCR translation fit. I have attached the extracted English translations in .odt, .doc, and .pdf format unformatted-for expediency, it is not a document I have time right now to properly clean up the extraneous characters such as "• «•" and "**• '" There are several other documents that I will be translating from German into French, so that some of the experts in French can compare to von Silenen and the unidentified author.
+
+(RAW FILE- Please check the above two links for German and English legibility)- this is just for reference and location of text: https://github.com/hatonthecat/Voynich-Manuscript/blob/main/20652913%20Machine%20Translation%20English%20Overlap.pdf
+
+https://www.e-periodica.ch/cntmng?pid=gen-001%3A1963%3A11%3A%3A610 (I was unable to use OCR at the moment to translate this) 
+
+https://www.abebooks.com/first-edition/Br%C3%A9viaire-Josse-Silenen-1493-%C3%A9v%C3%AAque-Sion/22803199669/bd 
+
+
+
