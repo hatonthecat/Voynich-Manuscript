@@ -876,7 +876,9 @@ https://en.wikipedia.org/wiki/Politics_of_Switzerland
 
 ![image](https://user-images.githubusercontent.com/76194453/229189706-bba72d87-4298-4814-ad80-31e28472e15a.png)
 
-https://vslibre.wordpress.com/ <-This Swiss-Canadian writer further explains in a post I came across yesterday (early this morning) that when he explains to others how swiss government works, they have a puzzled look. If I locate the exact post, I will link it (there are many posts, from 2012-2023 and he is a journalist)
+https://vslibre.wordpress.com/ <-This Swiss-Canadian writer further explains in a post I came across yesterday (early this morning) that when he explains to others how swiss government works, they have a puzzled look. If I locate the exact post, I will link it (there are many posts, from 2012-2023 and he is a journalist and former canton secretary: https://vslibre.wordpress.com/2015/04/24/elections-federales-2015-ii/)
+
+
 
 "Saint Maurice (also Moritz, Morris, or Mauritius; Coptic: Ⲁⲃⲃⲁ Ⲙⲱⲣⲓⲥ) was an Egyptian military leader who headed the legendary Theban Legion of Rome in the 3rd century, and is one of the favorite and most widely venerated saints of that martyred group. He is the patron saint of several professions, locales, and kingdoms."
 
