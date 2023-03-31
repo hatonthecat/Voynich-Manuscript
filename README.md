@@ -850,7 +850,8 @@ Added a drobox link for the machine translated English one: https://www.dropbox.
 
 Quite a few interesting pages on Josse de Silenen (his French spelling). 
 
-I've also machine translated a German text on Silenen: https://core.ac.uk/download/pdf/20652913.pdf [Original German]:
+I've also machine translated a German text on Silenen: https://core.ac.uk/download/pdf/20652913.pdf [Original German]: (15 pages)
+Jost/Josse is mentioned on page 1,2, and 8, though other figures from that era are mentioned- possibly mixing up his nephew Kaspar for one of the other calligraphers. 
 
 The raw extracted English version, pasted into OpenOffice:
 https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Machine%20Translation%20of%20Konrad%20Blochinger's%20bio%20on%20Valais%20Calligrapher%20i.e.%20Jost-Josse.pdf
