@@ -752,13 +752,13 @@ https://en.wikipedia.org/wiki/Saint-Maurice,_Switzerland
 
  ![p1360146](https://user-images.githubusercontent.com/76194453/229006881-83517447-0427-4280-9de2-1db258b784ee.jpg)
 
-It celebrates its 1500 years . It was founded in 515 by the future Burgundian king Saint Sigismund on the site of an older sanctuary housing the remains of Maurice d'Agaune , a 3rd-century martyr, erected by Théodore d'Octodure , the first known bishop of Valais.
+"It celebrates its 1500 years . It was founded in 515 by the future Burgundian king Saint Sigismund on the site of an older sanctuary housing the remains of Maurice d'Agaune , a 3rd-century martyr, erected by Théodore d'Octodure , the first known bishop of Valais.
 
 The city of Agaune has also taken its name… The abbey has played a major role in regional history and is today the oldest abbey in Western Europe in activity to have been permanently occupied. The first king of Transjurane Burgundy, Rodolphe , was crowned there.
 
 Originally and until the 9th century, it was the laus perennis that applied. The monks were then replaced by canons who adopted the rule of Saint Augustine in 1128. Since then, the congregation of regular canons of Saint-Maurice d'Agaune has been in place in the abbey.
 
-Saint-Maurice is one of the stages of the Via Francigena , a pilgrimage route leading to Rome. It is mentioned as such by Sigéric , in 990, with the mention LI Sce Maurici (stage number starting from Rome).
+Saint-Maurice is one of the stages of the Via Francigena , a pilgrimage route leading to Rome. It is mentioned as such by Sigéric , in 990, with the mention LI Sce Maurici (stage number starting from Rome)."
 
 https://histoiresduniversites.wordpress.com/2015/08/08/labbaye-fete-ses-1500-ans/
 
@@ -811,4 +811,4 @@ Switzerland might not exist today. The French king Louis XI, who pulls the strin
 background and was an enemy of Charles the Bold, made Jost of Silenen the bishop of Grenoble
 as a thank you until he was appointed to the bishopric of Sion in 1482."
 
-
+These links are being juxtapose for personal analysis of any confluence of information not previosuly deduced.
