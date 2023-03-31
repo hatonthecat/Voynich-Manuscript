@@ -676,3 +676,5 @@ https://en.wikipedia.org/wiki/Matth%C3%A4us_Merian_the_Elder
 
 Battle of Crevola / Luzerner Schilling 1513
 Diebold Schilling the Younger - Luzerner Schilling
+
+https://en.wikipedia.org/wiki/Battle_of_Crevola
