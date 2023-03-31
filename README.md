@@ -868,11 +868,28 @@ https://www.abebooks.com/first-edition/Br%C3%A9viaire-Josse-Silenen-1493-%C3%A9v
 ---
 12:10PM
 ---
-p.158 of the Voynich manuscript vaguely resembles the Hajj in Mecca, replacing minarets for turrets, although I am have not yet been able to identify any Swiss figures who were at the time inspired by Islamic art. The historically revered Saint Maurice, the latter of which is located in Saint-Maurice, Canton of Valais (pictured and linked above), was a Coptic Egyptian (he also predates Islam by nearly 400 years. However, Switzerland is referred by Dr. Bernhart-Königstein as "supranational", and perhaps at least for cryptological/metaphorical purposes in the 15th century, Islam was known to be too and could have been used as a supranational substitute cipher for Switzerland.
+p.158 of the Voynich manuscript vaguely resembles the Hajj in Mecca, replacing minarets for turrets, although I am have not yet been able to identify any Swiss figures who were at the time inspired by Islamic art. The historically revered Saint Maurice, the latter of which is located in Saint-Maurice, Canton of Valais (pictured and linked above), was a Coptic Egyptian (he also predates Islam by nearly 400 years. However, Switzerland is referred by Dr. Bernhart-Königstein as "supranational", and perhaps at least for cryptological/metaphorical purposes in the 15th century, Islam was known to be too and could have been used as a supranational substitute cipher for Switzerland. But if you look at the turrets/minarets, they have been cut off, which is intriguingely reminiscient of Swiss power:
+
+https://en.wikipedia.org/wiki/Politics_of_Switzerland
+
+"Switzerland has a tradition of direct democracy. For any change in the constitution, a referendum is mandatory (mandatory referendum); for any change in a law, a referendum can be requested (optional referendum). In addition, the people may present a constitutional popular initiative to introduce amendments to the federal constitution. The people also assume a role similar to the constitutional court, which does not exist, and thus act as the guardian of the rule of law."
 
 ![image](https://user-images.githubusercontent.com/76194453/229189706-bba72d87-4298-4814-ad80-31e28472e15a.png)
 
+https://vslibre.wordpress.com/ <-This Swiss-Canadian writer further explains in a post I came across yesterday (early this morning) that when he explains to others how swiss government works, they have a puzzled look. If I locate the exact post, I will link it (there are many posts, from 2012-2023 and he is a journalist)
 
 "Saint Maurice (also Moritz, Morris, or Mauritius; Coptic: Ⲁⲃⲃⲁ Ⲙⲱⲣⲓⲥ) was an Egyptian military leader who headed the legendary Theban Legion of Rome in the 3rd century, and is one of the favorite and most widely venerated saints of that martyred group. He is the patron saint of several professions, locales, and kingdoms."
 
 https://en.wikipedia.org/wiki/Saint_Maurice (See above paragraph for analysis)
+
+
+At the time, the Ottoman empire had a caliphate, and Sosse Silenen was appointed titular Bishop of Hierapolis, which was in Turkey! When searching "Hierapolis, one of the first results was a tourist page  
+https://turkeytravelplanner.com/go/Aegean/Pamukkale/sights/hierapolis.html highlighting Turkish attractions- but seeing the blue domed Mosque on the banner, which I didn't immediately realize was not in Hieropolis- did a reverse image search with Tineye.com to locate it: https://en.wikipedia.org/wiki/Blue_Mosque,_Istanbul  Whether or not he travelled there I don't know, but it is possible someone had sketches of an early mosque. the Blue Mosque began construction in 1609, completed in 1616, thus it is unlikeley someone drew inspiration from that (assuming the Voynich illustrations pertaining to the micelles/lipids/dendrites/plant "organs" were drawn in the 1400s).
+
+from the page: 
+
+"It is also known as the site where the Apostle Philip was supposedly martyred and buried. Notable archaeological structures include one of the largest surviving necropoleis in Turkey,  two Roman baths, colonnaded streets, Byzantine gatehouses, a massive theater, a Gate to the Underworld, the Martyrium of Philip, as well as an Archeological Museum. Hierapolis is also a UNESCO World Heritage Site!"
+
+Baths were common in Roman outposts, so there is no suprise there. yet, being entrusted with the role of an ancient city in ruins, it partly reflected his downfall, thus suggests the title was a consolation prize (like being appointed ambassador of a tiny island country or city-state, no offense). For reference: https://en.wikipedia.org/wiki/Titular_bishop He was not in charge of a diocese, and virtually all bishops no longer carry any jurisdictional power outside the Vatican except for some uniqe microstates such as Andorra: https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Urgell, where there remains a Co-Prince Bishop- and is technically a joint-head-of-state. Towards the end of Josse de Silenen's role as a Prince-Bishop, his role was tranferred to titular. 
+
+
