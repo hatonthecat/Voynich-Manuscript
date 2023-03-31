@@ -812,3 +812,10 @@ background and was an enemy of Charles the Bold, made Jost of Silenen the bishop
 as a thank you until he was appointed to the bishopric of Sion in 1482."
 
 These links are being juxtapose for personal analysis of any confluence of information not previosuly deduced.
+
+---
+3/31/2023
+---
+12:31 AM
+
+Just realized Google Translate allows feeding entire documents in, so I was able to get better formatted translations of the Captions and German sections into English and relevant languages as a priority. (The files begin with "MACHINE TRANSLATED_YOUR LANGUAGE" I encourage English readers to use this one instead (at least as a supplement) of the original one psoted by the doctor, since there is some information not completetly translated in the original.
