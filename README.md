@@ -958,4 +958,25 @@ from the page:
 
 Baths were common in Roman outposts, so there is no suprise there. yet, being entrusted with the role of an ancient city in ruins, it partly reflected his downfall, thus suggests the title was a consolation prize (like being appointed ambassador of a tiny island country or city-state, no offense). For reference: https://en.wikipedia.org/wiki/Titular_bishop He was not in charge of a diocese, and virtually all bishops no longer carry any jurisdictional power outside the Vatican except for some uniqe microstates such as Andorra: https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Urgell, where there remains a Co-Prince Bishop- and is technically a joint-head-of-state. Towards the end of Josse de Silenen's role as a Prince-Bishop, his role was tranferred to titular. 
 
+https://en.wikipedia.org/wiki/Val%C3%A8re_Basilica#Val%C3%A8re_organ
+"Valère organ
+The organ on the west side of the Valère basilica, believed to have been built in 1435, is one of the oldest functioning in the world. It was probably brought to the church by Guillaume de Rarogne, who eventually ended up as the bishop of Sion. Its pipes are arranged to form a rough outline of a church; the larger pipes form two towers, and the smaller ones create a triangular church roof. The organ was modified in the 1700s to play Baroque music, but otherwise remains essentially unchanged.[9] It was renovated in 1954, around the time that another famous early model – the Rysum organ – was repaired."
 
+https://www.swissinfo.ch/eng/a-magic-sound-across-the-centuries/7897614
+
+"A modest organ in the Valère basilica in southern Switzerland claims a proud record: that of “the oldest organ in the world still in continuous use”.
+
+This content was published on December 21, 2009
+December 21, 2009
+
+Constructed around 1430, this unique instrument is the focal point of a Gothic organ festival that has been held each year for 40 years in Sion, capital of canton Valais."
+
+'Contrary to what the uninitiated might think, gothic organ music can be very cheerful and is reminiscent of folk dances. The organist began by playing the “Music for Organum Antiquum, from the Robertsbridge Codex”, compiled between 1330 and 1448 and kept at the British Museum. According to Voeffray, this is possibly the world’s oldest preserved organ music. After this he went on to Spanish baroque music and concluded with a few 19th century folk dances. There’s no doubt that the historic instrument is a box of surprises despite its small keyboard.
+
+And how do we know that the organ dates from 1430?
+
+“From the murals in the church”, Patrick Elsig of the Valais Museum of History explained. “We know that they were commissioned in 1435 and the same person painted the decorations on this instrument. This fact, which is well documented, allowed us to date the organ accurately".
+
+The wooden "hull" which looks like the prow of a ship (which you can see in the gallery accompanying this report) was added in 1630.
+
+As Elsig explained, it should be emphasised that at that time an organ was “an almost inconceivable luxury”. This instrument would have been brought to Valère at the expense of Guillaume de Rarogne, a powerful figure who ended up as the bishop of Sion."
