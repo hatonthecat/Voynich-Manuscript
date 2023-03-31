@@ -838,6 +838,39 @@ https://en.wikipedia.org/wiki/Sion,_Switzerland#/media/File:1_sion_panorama_2022
 
 https://en.wikipedia.org/wiki/Val%C3%A8re_Basilica
 
+p.158 for Comparison to church-castles in Sion and other towns in Valais annd Switzerland
+
+https://en.wikipedia.org/wiki/Tourbillon_Castle#/media/File:Val%C3%A8re_et_Tourbillon.jpg
+
+https://en.wikipedia.org/wiki/Tourbillon_Castle
+
+https://en.wikipedia.org/wiki/Battle_of_Marignano
+
+"The Old Confederacy was created as a loose alliance of three valleys in central Switzerland: Uri, Schwyz and Unterwalden. They were rebelling against the governors of the Counts of Habsburg. The sought a recovery of old rights of autonomy and not a disengagement from the German Reich."
+from: https://www.myswitzerland.com/en-us/planning/about-switzerland/history-of-switzerland/rise-of-the-swiss-confederation/
+
+Further quoting above link:
+
+"Increasing territory, static membership
+
+For over a century no new members joined the Confederation while the territory of the Alliance increasingly grew in size.
+
+In 1415, the Confederates conquered Aargau, which up until then was part of Austria. Most of the Aargau was then divided up between Bern, Zurich and Lucerne, with the remainder being managed as "common lordships". The same fate befell the Austrian Thurgau, which was acquired in 1460 by seven of the Confederate Places and was subsequently managed by bailiffs.
+
+Appenzell and Toggenburg (the latter is now part of Canton St. Gallen), the monastery and city of St. Gallen, Schaffhausen, Fribourg, Biel and Solothurn came under Confederate control as so-called Associated Places.
+
+Subjects and allies
+
+Relations between the Confederates and the other parts of what is now Switzerland took several different forms, ranging from subjection to freedom of choice and a great deal of power.
+
+The least amount of freedom was enjoyed by the areas administered as "common lordships". Specifically, this meant that the Confederation members took it in turns to appoint a bailiff.
+The urban members of the Confederacy also had their own subjects. For example, towns in the surrounding rural areas. These subjects (Landschaft in German) often enjoyed a considerable amount of autonomy, with some even being able to appoint their own local authorities.
+Other places were gradually incorporated under the terms of a Burgrecht alliance with a town, monastery or individual nobleman. In general, the ally provided troops in exchange for access to town markets. Bern used this system to extend its power westwards.
+Finally, there were areas known as "Associated Places" whose status varied considerably. Some eventually joined the Confederation as full members, while others became protectorates."
+
+![image](https://user-images.githubusercontent.com/76194453/229213430-8eb7655c-3984-4970-99f6-232480193bf0.png)
+
+
 4:47 AM
 
 Interesting Valais history, just decades prior to Jost von Silenen's era: https://en.wikipedia.org/wiki/Raron_affair
