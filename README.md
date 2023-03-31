@@ -639,11 +639,34 @@ By the way, I am not celebrating anything yet- I am speculating as if this were 
 ---
 Some pictures of Sion/"Sitten"
 
-![1280px-Merian_Sitten](https://user-images.githubusercontent.com/76194453/228990300-248a0ca7-b814-4919-86f3-a05e8245b7c2.jpg)
-
-
 ![Braun_Sion_UBHD](https://user-images.githubusercontent.com/76194453/228990377-bf557f50-210f-45ed-a12a-99b57e7bab85.jpg)
 
+![1280px-Merian_Sitten](https://user-images.githubusercontent.com/76194453/228990300-248a0ca7-b814-4919-86f3-a05e8245b7c2.jpg)
 
+Sion in 1640, from Topographia Helvetiae, Rhaetiae et Valesiae, 1642
+Matthäus Merian - Topographia Helvetiae, Rhaetiae et Valesiae, 1642
+View of the city of Sitten/Sion in Valais, Switzerland around 1640.
 
 https://en.wikipedia.org/wiki/Sion 
+
+Pictures of Lucern
+
+![Merian_Luzern_1642 (1)](https://user-images.githubusercontent.com/76194453/228990937-5af3aeab-f106-429d-bf82-5d13103f170e.jpg)
+
+
+Matthäus Merian - Topographia Helvetiae, Rhaetiae, et Valesiae. Das ist/ Beschreibung unnd eygentliche Abbildung der vornehmsten Stätte und Plätze in der Hochlöblichen Eydgenossschafft / Graubündten / Wallis / und etlicher zugewandten Orthen: In dieser andern Edition mit sonderm fleiß durchgangen/ und von virgen Fehlern corrigirt / vermehrt und gebessert. Franckfurt am Mayn 1654.
+The City of Lucerne 1642
+
+Some other cities in Switzerland by same engraver, Matthäus Merian the Elder (1593-1650): 
+![Merian_Regensberg_1654](https://user-images.githubusercontent.com/76194453/228991237-19afd006-7f4e-4785-9aaa-925326121624.jpg)
+The castle and the town of Regensberg in Topographia Helvetiae, 1645.
+I. Ziegler und Matthäus Merian; upload by sidonius 19:34, 10 April 2008 (UTC) - Topographia Helvetiae, Rhaetiae, et Valesiae. Das ist/ Beschreibung unnd eygentliche Abbildung der vornehmsten Stätte und Plätze in der Hochlöblichen Eydgenossschafft / Graubündten / Wallis / und etlicher zugewandten Orthen: In dieser andern Edition mit sonderm fleiß durchgangen/ und von virgen Fehlern corrigirt / vermehrt und gebessert. Franckfurt am Mayn 1654.
+Die Stadt Regensberg im Kanton Zürich, Schweiz, in der Topographia Helvetiae von Matthäus Merian. Ca. 1650
+
+https://en.wikipedia.org/wiki/Matth%C3%A4us_Merian_the_Elder
+
+
+![LuzSchiCrev](https://user-images.githubusercontent.com/76194453/228991718-03842497-6c15-42af-ade6-83ef1038c470.jpg)
+
+Battle of Crevola / Luzerner Schilling 1513
+Diebold Schilling the Younger - Luzerner Schilling
