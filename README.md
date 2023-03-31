@@ -516,7 +516,7 @@ peace comes at the right time. History shows that peace can succeed if there are
 like Jost of Silenen.
 
 Jost of Silenen is little known today, but that could change very quickly. In 1482 he was made
-bishop of Sitten in Wallis. He is quite a successful historical figure, politically and also as a
+bishop of in Wallis. He is quite a successful historical figure, politically and also as a
 patron of the arts, even if he was deposed as a bishop at the end of his life. But he was even more
 successful than we previously knew, namely as a Swiss patriot. Who would have guessed that
 500 years later he would be remembered for a very special reason. Apart from his political
@@ -869,6 +869,10 @@ Other places were gradually incorporated under the terms of a Burgrecht alliance
 Finally, there were areas known as "Associated Places" whose status varied considerably. Some eventually joined the Confederation as full members, while others became protectorates."
 
 ![image](https://user-images.githubusercontent.com/76194453/229213430-8eb7655c-3984-4970-99f6-232480193bf0.png)
+
+compared to Sitten / Sion, using  Large (full wikipedia file & link uploaded yesterday as well)
+![image](https://user-images.githubusercontent.com/76194453/229217355-cba2f746-ac5e-4ce3-9089-704b4de078cf.png)
+https://upload.wikimedia.org/wikipedia/commons/b/bf/Merian_Sitten.jpg
 
 
 4:47 AM
