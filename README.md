@@ -823,3 +823,18 @@ Just realized Google Translate allows feeding entire documents in, so I was able
 2:57 AM
 
 Added several languages from A-C, plus other common languages around the world Link to the original is https://github.com/hatonthecat/Voynich-Manuscript/blob/main/PDF_20230310_OTS0148_0.pdf for German. The benefit of using the translated one is that the original only translates the poem section, whereas using the translation reveals additinal info around the captions, including more information about the websites, which will also be traced for additional references.
+
+3:14 AM
+Some additional pictures of Sion/Sitten:
+
+![image](https://user-images.githubusercontent.com/76194453/229064601-be3eaa68-98c3-4df6-b8ab-32aa72e36ee1.png)
+6/16/2022 Basilique de Valère Tourbillon Castle 
+https://en.wikipedia.org/wiki/Sion,_Switzerland#/media/File:1_sion_panorama_2022.jpg
+
+![image](https://user-images.githubusercontent.com/76194453/229064786-4e5b12ce-2ded-4330-9ba9-deaefc4a1929.png)
+1820 https://en.wikipedia.org/wiki/Sion,_Switzerland#/media/File:CH-NB_-_Sion,_from_the_West_-_Collection_Gugelmann_-_GS-GUGE-30-27.tif_(cropped).png
+
+![2880px-Château_de_Valère_et_Haut_de_Cry_-_juillet_2022](https://user-images.githubusercontent.com/76194453/229067986-99072d65-abc8-4931-94e8-5c2754bf8397.jpg)
+
+https://en.wikipedia.org/wiki/Val%C3%A8re_Basilica
+
