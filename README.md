@@ -841,3 +841,8 @@ https://en.wikipedia.org/wiki/Val%C3%A8re_Basilica
 4:47 AM
 
 Interesting Valais history, just decades prior to Jost von Silenen's era: https://en.wikipedia.org/wiki/Raron_affair
+
+--
+10:09AM
+--
+Added a drobox link for the machine translated English one: https://www.dropbox.com/s/24wekmo6itrldlg/Machine%20Translation%20-%20English%20PDF_20230310_OTS0148_0.pdf?dl=0
