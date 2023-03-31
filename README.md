@@ -958,8 +958,9 @@ from the page:
 
 Baths were common in Roman outposts, so there is no suprise there. yet, being entrusted with the role of an ancient city in ruins, it partly reflected his downfall, thus suggests the title was a consolation prize (like being appointed ambassador of a tiny island country or city-state, no offense). For reference: https://en.wikipedia.org/wiki/Titular_bishop He was not in charge of a diocese, and virtually all bishops no longer carry any jurisdictional power outside the Vatican except for some uniqe microstates such as Andorra: https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Urgell, where there remains a Co-Prince Bishop- and is technically a joint-head-of-state. Towards the end of Josse de Silenen's role as a Prince-Bishop, his role was tranferred to titular. 
 
+---
 3:14 PM 
-
+---
 ![image](https://user-images.githubusercontent.com/76194453/229220886-d83fd294-71d0-4358-805e-91cc2ebd075c.png)
 
 https://en.wikipedia.org/wiki/Val%C3%A8re_Basilica#Val%C3%A8re_organ
@@ -986,3 +987,8 @@ The wooden "hull" which looks like the prow of a ship (which you can see in the 
 As Elsig explained, it should be emphasised that at that time an organ was “an almost inconceivable luxury”. This instrument would have been brought to Valère at the expense of Guillaume de Rarogne, a powerful figure who ended up as the bishop of Sion."
 
 Played by Bishops in the time of Jost von Silenen!
+
+3:24 PM
+
+William II Raron passed in 1417, before the arrival of Josse:
+https://fr.wikipedia.org/wiki/Guillaume_II_de_Rarogne (see Raron attachments as well)
