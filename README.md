@@ -677,4 +677,40 @@ https://en.wikipedia.org/wiki/Matth%C3%A4us_Merian_the_Elder
 Battle of Crevola / Luzerner Schilling 1513
 Diebold Schilling the Younger - Luzerner Schilling
 
-https://en.wikipedia.org/wiki/Battle_of_Crevola
+https://en.wikipedia.org/wiki/Battle_of_Crevola (1487)
+
+"The Battle of Crevola was fought in the spring of 1487, between a marauding Swiss army from the Valais and Lucerne[1][12] and troops from the Duchy of Milan,[1] for the supremacy of the Val d'Ossola (Eschental) .
+
+Prelude
+In the year 1487, for unknown but petty reasons, Bishop Jost von Silenen entered into dispute with the Count of Arona,[2] whose seignory was the Duke of Milan.[13] The Knight Albin von Silenen, brother of Bishop Jost von Silenen, was appointed the leader of this military expedition.[8] As soon as the Simplon pass was passable, the Swiss crossed into the Val d'Ossola; here they were joined by another 1,000 Swiss, who were returning from Savoy.[9]
+
+Battle
+The Swiss besieged Domo, occupied the castle of Mattarella, and terribly ravaged the impoverished valleys.[1] The Duke of Milan, however, ordered the Ossolani to keep the Swiss inactive with false peace negotiations, until the duchy could dispatch a sufficient army.[13] Once the troops were assembled, they were split into three separate corps under the command of Renato Trivulzio, Count Borromeo, and Gio. Pietro Bergamino.[5] The Swiss were once again marauding in the villages of the Valle Vigezzo, when they were assaulted by the Milanese troops from three sides.[13] The Swiss formed a square and a murderous combat ensued, in which the Swiss lost 800-1000 men and all their baggage.[9][5] The rest of the Swiss troops were allowed to flee into the impassable mountain range.[12] "
+
+[1]  Iselin, Jacob Cristof (1742). Neu-vermehrtes historisch- und geographisches allgemeines Lexicon, Volume 3. Basel.
+
+[2] Vögelin, Johann Konrad (1855). Geschichte der Schwizerischen Eidsgenossenschaft: Vol I-II. Zürich.
+
+[3]  Historischer Verein der fünf Orte Luzern,Uri,Schwyz,Unterwalden & Zug (1838). Der Geschichtsfreund: 16.Band/Vol.14-15. Einsiedeln.
+
+[4]  Historischer Verein des Kantons Bern (1926). Archiv des Historischen Vereins des Kantons Bern. Bern.
+
+[5]  Bianchini, Francesco (1828). Le cose rimarchevoli della città di Novara: precedute da compendio storico. Novara. https://archive.org/details/lecoserimarchevo00bian 
+
+[6]  Ehrenzeller, Wilhelm (1913). Die Feldzüge der Walliser und Eidgenossen ins Eschental und der Wallishandel, 1484-1494. Zürich.
+
+[7]  Fink, Urban (2006). Hirtenstab und Hellebarde. Zürich.
+
+[8] Büchi, Albert (1923). Kardinal Matthäus Schiner als Staatsmann und Kirchenfürst: Vol.1. Zürich.
+
+[9] Furrer, Sigismund (1850). Geschichte von Wallis. Sitten. https://archive.org/details/bub_gb_tjVCAAAAcAAJ
+
+[10]  Rudolf, J. M. (1847). Die Kriegsgeschichte der Schweizer. Baden.
+
+[11] Società storica lombarda (1889). Archivio storico lombardo: Giornale della Società storica lombarda, Volume 16. Milan.
+
+[12] Fäsi, Johann Conrad (1768). Staats- Und Erd-Beschreibung, Vierter Band. Zürich.
+
+[13]  Pfyffer, Kasimir (1850). Geschichte der stadt und des kantons Luzern, Part 1. Zürich.
+
+
