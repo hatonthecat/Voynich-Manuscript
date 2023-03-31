@@ -633,3 +633,17 @@ The symbolism of the M. is interpreted in different ways: positively as a symbol
 3:33 PM 
 ---
 By the way, I am not celebrating anything yet- I am speculating as if this were already true- like printing Championship t-shirts for both Superbowl teams. 
+
+---
+6:58 PM
+---
+Some pictures of Sion/"Sitten"
+
+![1280px-Merian_Sitten](https://user-images.githubusercontent.com/76194453/228990300-248a0ca7-b814-4919-86f3-a05e8245b7c2.jpg)
+
+
+![Braun_Sion_UBHD](https://user-images.githubusercontent.com/76194453/228990377-bf557f50-210f-45ed-a12a-99b57e7bab85.jpg)
+
+
+
+https://en.wikipedia.org/wiki/Sion 
