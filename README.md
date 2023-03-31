@@ -733,3 +733,6 @@ The Swiss besieged Domo, occupied the castle of Mattarella, and terribly ravaged
 [13]  Pfyffer, Kasimir (1850). Geschichte der stadt und des kantons Luzern, Part 1. Zürich.
 
 
+https://vslibre.wordpress.com/tag/jost-von-silenen/ 
+
+![24-fc3a9vrier-silenen](https://user-images.githubusercontent.com/76194453/229002336-f0b32420-f99e-44b4-9560-18f5825c0515.png)
