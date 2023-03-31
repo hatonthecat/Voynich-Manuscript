@@ -675,8 +675,25 @@ The value of examining these 1500 and 1600 renderings is that some of the buildi
 
 ![LuzSchiCrev](https://user-images.githubusercontent.com/76194453/228991718-03842497-6c15-42af-ade6-83ef1038c470.jpg)
 
-Battle of Crevola / Luzerner Schilling 1513
-Diebold Schilling the Younger - Luzerner Schilling
+Battle of Crevola / by Luzerner Schilling, 1513
+Diebold Schilling the Younger - Luzerner Schilling https://en.wikipedia.org/wiki/Luzerner_Schilling
+
+http://www.e-codices.ch/en/list/one/kol/S0023-2
+
+https://en.wikipedia.org/wiki/Diebold_Schilling_the_Younger
+
+![image](https://user-images.githubusercontent.com/76194453/228998141-95377f14-bb1b-4044-8153-bc9a4db36d70.png)
+
+
+https://web.archive.org/web/20070311102726/http://www.faksimile.ch/werke/werk.php?l=e&show=2&nr=21
+
+https://en.wikipedia.org/wiki/Diebold_Schilling_the_Elder
+
+"Diebold Schilling the Elder
+
+In 1460 Schilling the Elder entered the services of the Chancellery of Bern. Before he had been working in Lucerne, but left the position as a scribe to his brother Hans, father of Diebold Schilling the Younger and author of the Lucerne Chronicle." 
+
+https://web.archive.org/web/20070311102800/http://www.faksimile.ch/werke/werk.php?l=e&show=2&nr=18
 
 https://en.wikipedia.org/wiki/Battle_of_Crevola (1487)
 
