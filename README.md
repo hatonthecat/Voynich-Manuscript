@@ -738,3 +738,7 @@ https://vslibre.wordpress.com/tag/jost-von-silenen/
 This blog contains quite several posts on Jost von Silenen (around 2013-2014) and the related parties. (see attachments for portables)
 
 ![24-fc3a9vrier-silenen](https://user-images.githubusercontent.com/76194453/229002336-f0b32420-f99e-44b4-9560-18f5825c0515.png)
+
+https://vslibre.wordpress.com/2014/02/24/calendrier-historique-du-valais-24-fevrier-1483-vii-dizains-dominent-le-bas-valais/
+
+https://histoiresduniversites.wordpress.com/2015/08/08/labbaye-fete-ses-1500-ans/
