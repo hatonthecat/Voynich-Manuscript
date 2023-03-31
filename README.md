@@ -1043,4 +1043,4 @@ Not necessarily based on it, but it was completed in 1363.
 
 ![image](https://user-images.githubusercontent.com/76194453/229238703-d842f2fc-c1f6-48ab-95b4-9ee160cfbd6b.png)
 
-The topless towers appear somewhat like plants that haven' yet been uprooted. It suggests the plants are cut before they are pulloed out and laid bare.
+The topless towers appear somewhat like plants that haven' yet been uprooted. It suggests the plants are cut before they are pulled out and laid bare.
