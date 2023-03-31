@@ -743,6 +743,10 @@ https://vslibre.wordpress.com/2014/02/24/calendrier-historique-du-valais-24-fevr
 
 The Abbey of Saint-Maurice d'Agaune 
 
+https://en.wikipedia.org/wiki/Agaunum
+
+https://en.wikipedia.org/wiki/Continual_prayer
+
  ![p1360146](https://user-images.githubusercontent.com/76194453/229006881-83517447-0427-4280-9de2-1db258b784ee.jpg)
 
 It celebrates its 1500 years . It was founded in 515 by the future Burgundian king Saint Sigismund on the site of an older sanctuary housing the remains of Maurice d'Agaune , a 3rd-century martyr, erected by Théodore d'Octodure , the first known bishop of Valais.
@@ -754,3 +758,54 @@ Originally and until the 9th century, it was the laus perennis that applied. The
 Saint-Maurice is one of the stages of the Via Francigena , a pilgrimage route leading to Rome. It is mentioned as such by Sigéric , in 990, with the mention LI Sce Maurici (stage number starting from Rome).
 
 https://histoiresduniversites.wordpress.com/2015/08/08/labbaye-fete-ses-1500-ans/
+
+Rudolf II was known to have purchased the manuscript for 600 ducats. Rudolph I was also known as Rudolph II:
+
+"Rudolf II (18 July 1552 – 20 January 1612) was Holy Roman Emperor (1576–1612), King of Hungary and Croatia (as Rudolf I, 1572–1608), King of Bohemia (1575–1608/1611) and Archduke of Austria (1576–1608). He was a member of the House of Habsburg." 
+
+https://en.wikipedia.org/wiki/Rudolf_II,_Holy_Roman_Emperor
+
+p.46
+"Jost von Silenen comes from one of the oldest noble families in the canton of Uri, although not
+from one of the great Swiss families, such as the Toggenburgs and the Kyburgs. The Sileni were
+not yet counts, not princes like himself, but they were at least a minor nobility who had worked
+their way up to service nobility - probably through the office of Meyerei. This is suggested by the
+name Albin Meyer von Silenen, an ancestor of the bishop, who is often mentioned as a well-
+known figure in the history of the founding of Switzerland, and who could also have been one of
+the three swearers on the Rütli.
+
+This ancestry alone must have been an initial motivation for Jost not only to become a Swiss
+diplomat, but also to leave behind an important written work on the formation of the Swiss state.
+Yes, it would be best to combine both at the same time, to create a work that praises his
+achievements for Switzerland as a diplomat, but is also a community-building sermon at the same
+time. On his mother's side, Jost von Silenen came from a much more important noble family
+from France, the Chrevon family. 4
+
+After he received benefices at the St. Leodegar Abbey in Lucerne early on, many suspected an
+earlier date of birth, but it has not been finally clarified to this day. 1435 is mostly accepted.
+Perhaps more important is his place of birth. He grew up in Küssnacht in the Gesslerburg from
+the Wilhelm Tell Legend. Then went to Pavia to study law and came to Rome to study languages
+as secretary to French cardinal Guillaume D'Estouteville, who was a splendid patron of the
+Renaissance and certainly a role model for Jost von Silenen in terms of promoting the arts. Then
+it went to the French court until he was appointed abbot of Beromünster. Together with
+Nikolaus von Diesbach he is the French king's negotiator. However, it was mainly Jost of
+Silenen who negotiated with the Habsburgs.
+
+It was his merit that he negotiated the first enduring peace treaty with Ferdinand of Habsburg,
+the so-called Eternal Direction, which guaranteed the Confederation of the time its first
+independence and secured the status it had fought for as a free, democratic nation, which was
+unique in Europe and which thought ahead to neutrality and so on can also be used for all times
+as a model for peace in Europe and indeed in the world. At that time still officially called
+Unification, but it was the first peace treaty around 1474 that set this eternal direction and made
+peace possible even after the Swabian Wars. The Habsburgs were to give up their territory in
+Alsace for a fee and in return receive a promise of support for military service from the
+Confederates. Certainly, Charles the Bold's urge to conquer made the parties move closer
+together. But there were now peaceful paths between two archenemies who have Not spared
+themselves, which brought a lot of suffering to the population. However, it was not only about
+territories, but also about civil liberties, which were guaranteed for the first time and at the
+crucial moment. So Switzerland had resources free for the Burgundian wars, otherwise
+Switzerland might not exist today. The French king Louis XI, who pulls the strings in the
+background and was an enemy of Charles the Bold, made Jost of Silenen the bishop of Grenoble
+as a thank you until he was appointed to the bishopric of Sion in 1482."
+
+
