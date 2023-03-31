@@ -838,3 +838,6 @@ https://en.wikipedia.org/wiki/Sion,_Switzerland#/media/File:1_sion_panorama_2022
 
 https://en.wikipedia.org/wiki/Val%C3%A8re_Basilica
 
+4:47 AM
+
+Interesting Valais history, just decades prior to Jost von Silenen's era: https://en.wikipedia.org/wiki/Raron_affair
