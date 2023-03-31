@@ -747,6 +747,9 @@ https://en.wikipedia.org/wiki/Agaunum
 
 https://en.wikipedia.org/wiki/Continual_prayer
 
+https://upload.wikimedia.org/wikipedia/commons/2/2a/Saint-Maurice_%28VS%29_-_juillet_2022.jpg (Large)
+https://en.wikipedia.org/wiki/Saint-Maurice,_Switzerland
+
  ![p1360146](https://user-images.githubusercontent.com/76194453/229006881-83517447-0427-4280-9de2-1db258b784ee.jpg)
 
 It celebrates its 1500 years . It was founded in 515 by the future Burgundian king Saint Sigismund on the site of an older sanctuary housing the remains of Maurice d'Agaune , a 3rd-century martyr, erected by Théodore d'Octodure , the first known bishop of Valais.
