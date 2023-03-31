@@ -999,6 +999,8 @@ https://fr.wikipedia.org/wiki/Guillaume_II_de_Rarogne (see Raron attachments as 
 Regarding the organ, it is possible the music was inspirational to the composition of the Voynich manuscript- while not the first organ of its kind, 
 the cheerful music would seem to reflect the mirthful quality of the penmanship- in the drawings, and as previously record, Jost von Silenen had breviaries made:
 
+https://en.wikipedia.org/wiki/Breviary
+
 "A breviary (Latin: breviarium) is a liturgical book used in Christianity for praying the canonical hours, usually recited at seven fixed prayer times.[1][2]
 
 Historically, different breviaries were used in the various parts of Christendom, such as Aberdeen Breviary,[3] Belleville Breviary, Stowe Breviary and Isabella Breviary, although eventually the Roman Breviary became the standard within the Roman Catholic Church (though it was later supplanted with the Liturgy of the Hours); in other Christian denominations such as the Lutheran Churches, different breviaries continue to be used, such as The Brotherhood Prayer Book.[4][5]"
