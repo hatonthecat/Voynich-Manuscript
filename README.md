@@ -671,6 +671,7 @@ Die Stadt Regensberg im Kanton Zürich, Schweiz, in der Topographia Helvetiae vo
 
 https://en.wikipedia.org/wiki/Matth%C3%A4us_Merian_the_Elder
 
+The value of examining thes 1500 and 1600 renderings is that some of the buildings in the picture had a possibility, if not a likelihood of having been constructed in the 1400s, thus could be compared to in the drawings of the manuscript.
 
 ![LuzSchiCrev](https://user-images.githubusercontent.com/76194453/228991718-03842497-6c15-42af-ade6-83ef1038c470.jpg)
 
