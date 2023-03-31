@@ -852,7 +852,7 @@ Quite a few interesting pages on Josse de Silenen (his French spelling).
 
 I've also machine translated a German text on Silenen: 
 
-[Original German]: https://github.com/hatonthecat/Voynich-Manuscript/blob/main/20652913%20-%20Konrad%20Blochinger%20bio%20on%20jost%20von%20Silenen%20-%20German%20original.pdf
+[Original German]: https://github.com/hatonthecat/Voynich-Manuscript/blob/main/20652913%20-%20Konrad%20Blochinger%20bio%20on%20jost%20von%20Silenen%20-%20German%20original.pdf  (Github is unable to preview render, but it can be downloaded) 
 
 The raw extracted English version, pasted into OpenOffice:
 https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Machine%20Translation%20of%20Konrad%20Blochinger's%20bio%20on%20Valais%20Calligrapher%20i.e.%20Jost-Josse.pdf
@@ -861,7 +861,8 @@ This file is the Google machine translation of Konrad Blochinger's bio on Jost v
 
 (RAW FILE- Please check the above two links for German and English legibility)- this is just for reference and location of text: https://github.com/hatonthecat/Voynich-Manuscript/blob/main/20652913%20Machine%20Translation%20English%20Overlap.pdf
 
-https://www.e-periodica.ch/cntmng?pid=gen-001%3A1963%3A11%3A%3A610 (I was unable to use OCR at the moment to translate this) 
+
+https://www.e-periodica.ch/cntmng?pid=gen-001%3A1963%3A11%3A%3A610 (FRENCH) (I was unable to use OCR at the moment to translate this) 
 
 https://www.abebooks.com/first-edition/Br%C3%A9viaire-Josse-Silenen-1493-%C3%A9v%C3%AAque-Sion/22803199669/bd 
 
