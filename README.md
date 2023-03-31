@@ -1011,7 +1011,7 @@ I imagine it was more likely used to store more important diplomatic, historical
 
 4:16PM
 
-The base of these turrets/minarets get narrower, suggesting a metamorphosis into a plant, as part of the confederationization of Switzerland- they share roots or heads, but not both (at least at the same time?)
+The base of these turrets/minarets get narrower, suggesting a metamorphosis into a plant, as part of the confederationization of Switzerland- they share roots or heads, but not both (at least at the same time?) THey also could be a hybrid of Swiss and Coptic/Islamic architecture
 
 ![image](https://user-images.githubusercontent.com/76194453/229233058-5e73cfb5-8de5-4d84-84ef-f3ddc06af08e.png)
 
