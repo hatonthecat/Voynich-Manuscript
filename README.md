@@ -819,3 +819,7 @@ These links are being juxtapose for personal analysis of any confluence of infor
 12:31 AM
 
 Just realized Google Translate allows feeding entire documents in, so I was able to get better formatted translations of the Captions and German sections into English and relevant languages as a priority. The files begin with "MACHINE TRANSLATED_YOUR LANGUAGE" I encourage English readers to use this one instead (at least as a supplement) of the original one psoted by the doctor, since there is some information not completetly translated in the original. Currently, translations have been generated for English, French, Italian, and Spanish.
+
+2:57 AM
+
+Added several languages from A-C, plus other common languages around the world Link to the original is https://github.com/hatonthecat/Voynich-Manuscript/blob/main/PDF_20230310_OTS0148_0.pdf for German. The benefit of using the translated one is that the original only translates the poem section, whereas using the translation reveals additinal info around the captions, including more information about the websites, which will also be traced for additional references.
