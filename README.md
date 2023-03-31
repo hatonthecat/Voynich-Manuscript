@@ -1008,3 +1008,31 @@ Historically, different breviaries were used in the various parts of Christendom
 Well, the Voynichese probably isn't an attempt at hymn/sheet music, but one can wonder: https://en.wikipedia.org/wiki/Hymn#Western_church  
 
 I imagine it was more likely used to store more important diplomatic, historical foundings of Swiss Confederacy, and constitutional charters, him being a Prince-Bishop.
+
+4:16PM
+
+The base of these turrets/minarets get narrower, suggesting a metamorphosis into a plant, as part of the confederationization of Switzerland- they share roots or heads, but not both (at least at the same time?)
+
+![image](https://user-images.githubusercontent.com/76194453/229233058-5e73cfb5-8de5-4d84-84ef-f3ddc06af08e.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229236855-bfdb55b3-8dd4-4a8a-a18b-af8a12785dcc.png)
+https://www.pinterest.com/pin/common-minaret-styles-of-different-islamic-dynasties-coolguides--825495806708277652/
+
+Slightly resembles the Mamluk type, but not exactly
+
+![image](https://user-images.githubusercontent.com/76194453/229237066-e7041748-9f67-4114-a305-830c90c36474.png)
+https://www.pinterest.com/pin/422353271315443349/?mt=login
+
+![image](https://user-images.githubusercontent.com/76194453/229237338-31df34f3-f6f3-41d4-854c-e66bb0626aa9.png)
+
+
+https://funci.org/the-minaret-symbol-of-a-civilisation/?lang=en
+https://www.ilahirahmet.com/uploads/posts/2017-05/medium/1494759098_drawing-pencil-karakalem-dini-bina-nisanboard-10.jpg
+https://www.ilahirahmet.com/uploads/posts/2017-05/medium/1494759151_drawing-pencil-karakalem-dini-bina-nisanboard-2.jpg
+https://www.ilahirahmet.com/karakalem-cami-medreese-resimleri/amp/
+
+https://en.wikipedia.org/wiki/Mosque-Madrasa_of_Sultan_Hasan
+
+![image](https://user-images.githubusercontent.com/76194453/229237940-e50beeec-060f-4cc1-8c3f-479e6ee6fc77.png)
+
+Not necessarily based on it, but it was completed in 1363. 
