@@ -658,7 +658,7 @@ https://en.wikipedia.org/wiki/Sion
 Pictures of Lucern
 
 ![Merian_Luzern_1642 (1)](https://user-images.githubusercontent.com/76194453/228990937-5af3aeab-f106-429d-bf82-5d13103f170e.jpg)
-
+https://upload.wikimedia.org/wikipedia/commons/b/bc/Merian_Luzern_1642.jpg (LARGE)
 
 Matthäus Merian - Topographia Helvetiae, Rhaetiae, et Valesiae. Das ist/ Beschreibung unnd eygentliche Abbildung der vornehmsten Stätte und Plätze in der Hochlöblichen Eydgenossschafft / Graubündten / Wallis / und etlicher zugewandten Orthen: In dieser andern Edition mit sonderm fleiß durchgangen/ und von virgen Fehlern corrigirt / vermehrt und gebessert. Franckfurt am Mayn 1654.
 The City of Lucerne 1642
