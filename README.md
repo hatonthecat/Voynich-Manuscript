@@ -152,7 +152,7 @@ https://www.bbc.com/news/magazine-26881734
 Forgery Theory
 ---
 
-"One of the most common tropes in the history of forgery is that of a rare book dealer "discovering" previously unknown manuscripts. Voynich is known to have had just this "magic" touch. He is also said to have acquired a large supply of vellum and to have used his knowledge of chemistry gained at the University of Moscow to replicate medieval inks and pigments. "
+"One of the most common tropes in the history of forgery is that of a rare book dealer "discovering" previously unknown manuscripts. Voynich is known to have had just this "magic" touch. He is also said to have acquired a supply of vellum and to have used his knowledge of chemistry gained at the University of Moscow to replicate medieval inks and pigments. "
 
 "But until forensic tests are done on the ink and pigments - so far, only the vellum has been carbon dated to the 15th Century - the riddle of this mysterious book will continue to exert a powerful magnetic pull on present and future Voynichologists."
 
@@ -637,7 +637,7 @@ By the way, I am not celebrating anything yet- I am speculating as if this were 
 ---
 6:58 PM
 ---
-Some pictures of Sion/"Sitten"
+Some pictures of Sion/Sitten
 
 ![Braun_Sion_UBHD](https://user-images.githubusercontent.com/76194453/228990377-bf557f50-210f-45ed-a12a-99b57e7bab85.jpg)
 
@@ -650,6 +650,8 @@ Sion / Sitten
 Sion in 1640, from Topographia Helvetiae, Rhaetiae et Valesiae, 1642
 Matthäus Merian - Topographia Helvetiae, Rhaetiae et Valesiae, 1642
 View of the city of Sitten/Sion in Valais, Switzerland around 1640.
+
+https://upload.wikimedia.org/wikipedia/commons/b/bf/Merian_Sitten.jpg (LARGE format)
 
 https://en.wikipedia.org/wiki/Sion 
 
