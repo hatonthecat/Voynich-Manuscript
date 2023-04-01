@@ -1415,3 +1415,10 @@ by Schiller, he is referring to the early 1800s playwright, who wrote a famous s
 p. 5 https://en.wikipedia.org/wiki/William_Tell_(play)
 https://en.wikipedia.org/wiki/Friedrich_Schiller
 "In September 2008, Schiller was voted by the audience of the TV channel Arte as the second most important playwright in Europe after William Shakespeare."
+
+![image](https://user-images.githubusercontent.com/76194453/229311009-f89c551d-bf72-46d5-b800-9ac853492e20.png)
+
+possible reference to the Valais coat of arms- between 8 and 10 stars, although (10, 8, 8)
+
+![image](https://user-images.githubusercontent.com/76194453/229311054-17b9beb2-454f-4443-93e1-c936c65f8fdf.png)
+
