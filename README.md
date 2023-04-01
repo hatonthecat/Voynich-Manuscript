@@ -1485,3 +1485,12 @@ https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen
 https://www.ow.ch/_docn/57539/Text_und_Uebersetzung_Chronik_Weisses_Buch.PDF (German, 28 pages)
 
 Excerpt of the White Book translated and overlapped in attachment. Extracted text will be uploaded in a separate attachment.
+
+---
+6:45 PM
+---
+https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chevron (this was all I could find- doesn't list a family but a residence. 
+https://en.wikipedia.org/wiki/Mercury,_Savoie
+"The inhabitants are called Chevronnais."
+
+![image](https://user-images.githubusercontent.com/76194453/229323118-a09aff73-987b-4a1a-977f-90dfb98ce27d.png)
