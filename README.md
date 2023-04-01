@@ -1180,11 +1180,11 @@ The goat/deer: ![image](https://user-images.githubusercontent.com/76194453/22926
 
 compared to contemporary illustrations (decades after Kaspar, but not impossible to have known each other, or copied regional sketches:)
 
-f.70V 
+f.70V (This appears to be an Ibex, based on the antlers)
 
 ![image](https://user-images.githubusercontent.com/76194453/229268251-aaaa960e-b547-4784-b843-f9afb2a9ea57.png)
 
-f71v
+f71v (the rest of these drawings aren't the same kind of antler)
 
 ![image](https://user-images.githubusercontent.com/76194453/229268338-012f6677-0940-483e-b0df-fed5b04c288f.png)
 
