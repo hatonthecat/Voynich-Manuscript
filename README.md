@@ -1137,3 +1137,10 @@ AI	Appenzell Innerrhoden	Appenzell Inner-Rhodes / Appenzell Innerrhoden	1513 (as
 ---
 (12) Basel-Stadt and Basel-Landschaft are considered two different cantons, with capitals in Basel and Liestal. Similarly Appenzell-Ausserrhoden and Appenzell-Innerrhoden have two capitals- Herisau and Appenzell, suggesting their capitals may not have considered at one point different cantons (aspirational or not), thus including more bulbs was not necessarily a doctrine, but a strategy, as 16 capitals are listed, even though 13 cantons were in effect. 
 
+11:43PM
+
+https://ia803208.us.archive.org/20/items/VoynichManuscriptAnElegantEnigma/Voynich%20Manuscript-%20An.%20Elegant.%20Enigma.pdf 
+
+Voynich Manuscript: An Elegant Enigma  Publication date 1978 
+
+https://archive.org/details/VoynichManuscriptAnElegantEnigma/page/n49/mode/2up 
