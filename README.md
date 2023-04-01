@@ -1200,6 +1200,14 @@ https://en.wikipedia.org/wiki/Valais_witch_trials
 
 "The influence of the Valais on the much larger phenomenon of the witch trials in the early modern period, lasting throughout the 16th and 17th centuries in much of Western Europe, may have been amplified by the Council of Basel which took place during the same period, during 1431–1437. Here, theologians discussed the evidence for the new phenomenon of witchcraft and collected the court proceedings from the Valais, Vaud, and Savoy region. These documents were perused by the first generation of authors on witchcraft, such as Johannes Nider, the author of Formicarius (written 1436–1438).[12]"
 
+The Ibex hunt suggests a reference to the earlier witch hunts, which Jost de Sion would have been aware of, having occured when he was less than 10 years old, but not necessarily a part of (he was born in Knussnacht)
+
+![image](https://user-images.githubusercontent.com/76194453/229270145-32f882e4-5a4d-45b7-bc34-cdf2e0cfdcbf.png)
+
+
+"Ibex (Capra ibex)
+The Alpine ibex is a mountain goat instantly recognizable by the male's large scimitar-shaped horns which are ridged in the front. Females grow a pair of smaller, thinner horns which develop considerably more slowly than those of the male. The ibex ranges in height from 27 to 43 inches at the shoulder and weighs between 200 to 270 pounds. Ibex are related to domestic goats and will mate with other goats if they are unable to find a mate in the wild. Ibex were hunted to extinction in the early 19th century. By 1856 only 60 Alpine ibex remained on a royal hunting reserve in the Grand Paradiso region of Italy. Some of these ibex were smuggled into Switzerland around 1900 in an effort to reinstate ibex in the Swiss Alps. Under protection, there are now over 40,000 ibex in the Swiss Alps. Ibex are frequently sighted in the most rocky and wild regions of the Swiss Alps along the Haute Route, especially on the Sentier de Chamois in the Upper Val de Bagnes Nature Reserve, where they were reintroduced in 1926, and around the Col de Louvie and the Col de Prafleuri."
+
 https://en.wikipedia.org/wiki/Council_of_Florence
 
 The Council of Florence is the seventeenth ecumenical council recognized by the Catholic Church, held between 1431 and 1449. It was convoked as the Council of Basel by Pope Martin V shortly before his death in February 1431 and took place in the context of the Hussite Wars in Bohemia and the rise of the Ottoman Empire. At stake was the greater conflict between the conciliar movement and the principle of papal supremacy.
