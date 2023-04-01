@@ -1189,7 +1189,7 @@ The goat/deer: ![image](https://user-images.githubusercontent.com/76194453/22926
 
 compared to contemporary illustrations (decades after Kaspar, but not impossible to have known each other, or copied regional sketches:)
 
-f.70V (This appears to be an Ibex, based on the antlers)
+f.70V (This appears to be an Ibex, based on the ~~antlers~~ horns, and this is a female, based on the size of horns" "It is a sexually dimorphic species: males are larger and carry longer, curved horns than females.")
 
 ![image](https://user-images.githubusercontent.com/76194453/229268251-aaaa960e-b547-4784-b843-f9afb2a9ea57.png)
 
