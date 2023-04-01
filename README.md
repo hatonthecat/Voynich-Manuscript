@@ -1,4 +1,8 @@
-Update: 4/1/2023: A portable copy of this readme file can be downloaded from my dropbox - it is 161.23MB thus it could not be uploaded here:
+---
+Update: 4/1/2023: 
+---
+
+A portable copy of this readme file can be downloaded from my dropbox - it is 161.23MB thus it could not be uploaded here:
 
 https://www.dropbox.com/s/pe69hdki71bopaa/Portable%20Copy%20of%20Readme-%20main%20analysis%20and%20timeline-%20PDF.pdf?dl=0
 
