@@ -1467,6 +1467,9 @@ While the shrine of Alban was temporarily on the continent (now in England), it 
 
 That was also 500 years prior, thus there is probably another Albin from 1300. I will examine the Rutli claim later" 
 "The Rütli Oath (German: Rütlischwur, German pronunciation: [ˈryːtliˌʃvuːr]) is the legendary oath taken at the foundation of the Old Swiss Confederacy (traditionally dated to 1307)" 
+https://en.wikipedia.org/wiki/R%C3%BCtli_Oath
+
+"The Rütli Oath is first mentioned in the White Book of Sarnen (written 1470, based on a source dated c. 1420).[1] The account in the White Book of Sarnen mentions how Beringer von Landenberg, the reeve of Unterwalden, ordered the confiscation of oxen from the farmer at Melchi (Sachseln). "
 
 https://en.wikipedia.org/wiki/White_Book_of_Sarnen 
 
