@@ -1384,6 +1384,10 @@ Remarkably, the 29V appear to show swiss monasteries/castles of the Swiss Prince
 
 ![image](https://user-images.githubusercontent.com/76194453/229304816-1e855c9f-e015-4534-9271-be326b4a6bbb.png)
 
+And here: ![image](https://user-images.githubusercontent.com/76194453/229305878-a70a84cf-4209-4854-9808-080f00ee3616.png)
+
+The building is referring to a tower with 3 windows in a vertical orientation, possibly in Lucerne or other original cantons' location outside of Sion & Valais. 
+
 ![image](https://user-images.githubusercontent.com/76194453/229304975-28dce991-2039-4ce0-83c6-7aa9c9481c75.png)
 
 Additional three flowers seen on p.31r, 32r (above 2 flanking ), 32V, 33R (as unbloomed and in green, not blue), 33V, with one wilted/down, 34r, 34v (3 prominently, 2 background). More to be added.
