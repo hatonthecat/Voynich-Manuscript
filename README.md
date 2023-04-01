@@ -1067,4 +1067,65 @@ The coat of arms color of Appernzell Innerrhoden is black, and, while not an unp
 
 The green leafed branches also would appear to reference Suchy of Savoy, Suchy of Milan, Republic of Venice, Burgundy, Swabia (one branch could denote more than one Duchy.)
 
+Sources: https://en.wikipedia.org/wiki/Growth_of_the_Old_Swiss_Confederacy#Consolidation
+https://en.wikipedia.org/wiki/Cantons_of_Switzerland#List
+https://en.wikipedia.org/wiki/Growth_of_the_Old_Swiss_Confederacy#Expansion_to_the_Acht_Orte
+https://www.jasondavies.com/voynich/#f26v/0.633/0.38/5.00
+
+5 of the cantons were added after Jost von Silenen died from 1501-1513- thus their entry into the Confederacy may have been anticipated or known, considering there are minimal erasure marks on the upper blue "flowers"  
+
+https://en.wikipedia.org/wiki/Canton_(heraldry)
+
+Etymologically I am going to look into whether canton has any floral origin- whether it refers to any bulb. If you have an OED subscription, please let me know what you find pre-1500. This is what I've been able to find:
+
+https://www.etymonline.com/word/cant?ref=etymonline_crossreference#etymonline_v_677 
+
+https://www.etymonline.com/search?q=canton
+
+"cant (n.2)
+
+"slope, slant," late 14c., first in Scottish writing and apparently meaning "edge, brink," a word of uncertain origin. "words identical in form and corresponding in sense are found in many languages, Teutonic, Slavonic, Romanic, Celtic" [OED]. It was rare in English before c. 1600. Meaning "slope, slanting or tilting position" is from 1847.
+
+Perhaps via Old North French cant "corner" (itself perhaps via Middle Low German kante or Middle Dutch kant), from Vulgar Latin *canthus, from Latin cantus "iron tire of a wheel," which is possibly from a Celtic word meaning "rim of wheel, edge, brim" (compare Welsh cant "bordering of a circle, tire, edge," Breton cant "circle"). The ultimate connections of these are uncertain. Greek kanthos "corner of the eye," and Russian kutu "corner" sometimes are suggested, but there are difficulties (see Beekes)."
+
+canton (n.)
+1530s, "corner, angle," from French canton "angle, corner (of a room); piece, portion of a country" (13c.), from Italian (Lombard dialect) cantone "region," especially in the mountains, augmentative of Latin canto "section of a country," literally "corner" (see cant (n.2)).
+
+
+From 1570s as a term in heraldry and flag descriptions. From c. 1600 as "a subdivision of a country;" applied to the sovereign states of the Swiss republic from 1610s.
+
+Related entries & more"
+ 
+In this sense, the illustrations reflect the history:
+
+on p.37V, you can see the original three cantons: Uri, Schwyz, and Unterwalden
+
+![image](https://user-images.githubusercontent.com/76194453/229264802-a44c8271-48d2-45d1-a731-ecc041c6ec3f.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229264859-70ffff76-f059-4fc0-9d3c-b8974f1f04f2.png)
+
+from https://en.wikipedia.org/wiki/Old_Swiss_Confederacy#Cantons
+
+While it is said that there were 13, I am currently reading why there are 16 listed. This research follows release early, release often philosophy:
+https://en.wikipedia.org/wiki/Release_early,_release_often
+
+because I prefer my ideas be reviewed as they are conceived rather than delaying what can quickly be corrected, if I am not entirely wrong.
+
+these are the 5 cantons post 1498 and pre-1798 collapse:
+
+12	Coat of arms of Basel-City     
+
+BS	Basel-Stadt	Basle-City / Basel-City / Basel-Stadt	1501 (as Basel until 1833/1999)	Basle / Basel	37,168	189,354	201,156	37	5,444	3	German
+13	Coat of arms of Basel-Country
+      
+BL	Basel-Landschaft	Basle-Country / Basel-Country / Basel-Landschaft	1501 (as Basel until 1833/1999)	Liestal	20,567	70,866	292,955	518	566	86	German
+14	Coat of arms of Schaffhausen
+      
+SH	Schaffhausen	Schaffhouse / Schaffhausen	1501	Schaffhouse / Schaffhausen	7,244	87,569	83,107	298	278	26	German
+15	Coat of arms of Appenzell Ausserrhoden
+      
+AR	Appenzell Ausserrhoden	Appenzell Outer-Rhodes / Appenzell Ausserrhoden	1513 (as Appenzell until 1597/1999)	Herisau[note 7]	3,190	57,601	55,309	243	228	20	German
+16	Coat of arms of Appenzell Innerrhoden
+      
+AI	Appenzell Innerrhoden	Appenzell Inner-Rhodes / Appenzell Innerrhoden	1513 (as Appenzell until 1597/1999)	Appenzell	1,043	64,358	16,293	172	94	6	German
 
