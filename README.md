@@ -1435,3 +1435,25 @@ Codexes I imagine were common in the early Rennaissance, and I was reminded at t
 ![image](https://user-images.githubusercontent.com/76194453/229312124-71126e9b-9e6a-4ddb-811e-82ada27cfb91.png)
 
 By the way, my upload early last week on the SIGBOVIC was written prior to my 3/28 Google Search on recent news or claims of the Voynich manuscript, subsequent discotvery of the OTS publication by the Austrian dr., thus I began my examination of the Swiss Bishop theory in earnest after that date. In the SIGBOVIC paper, I made a joke about the Rennaissance leading to inventions, one of which I said was the "winged man", which was a tongue in cheek reference to Da Vinci's Vitruvian Man. So if I had led you on a goose hunt (on that detail), I didn't want to waste too much of your time as I too have redirected my efforts towards understanding more of the contemporary era's clues, which includes all aspects of medieval history- recent Counsel of Florence/Basel (1431-1449), the boundless mountain Ibex which were not yet extinct, and how religion was seriously viewed at the time. Thus, viewing these clues within the context of the era can help triangulate the location and increase probability of Dr. Dr. Gregor Bernhart-Königstein's claims being strongly correct.
+
+---
+4:19PM
+---
+p.6 of OTS: 
+
+Albin Meyer von Silenen is suggested to have roots in Silenen:
+
+https://en.wikipedia.org/wiki/Saint_Alban#On_the_Continent
+"On the Continent
+There has also been an extensive cult of Saint Alban on the Continent from an early date such as in Mainz, Cologne and Basel on the Rhine as well as a number of other localities in Switzerland and Italy and a notable concentration in the French Alpine regions and the Rhone Valley.[36] Sometimes, the 'Saint Alban' concerned is regarded as a separate figure, other times, he is alternatively called Albinus (and often identified with 6th c. bishop, Saint Albinus of Angers), and at other times he is identified with the British martyr.
+
+
+Stained-glass window in Lancaster Priory designed by Carl Almquist
+Saint Pantaleon's Church, Cologne holds relics said to be those of the British martyr Alban (as noted above). In fact, although identified with the British martyr, he was locally known as Albinus. His relics were said to have been brought from Rome by Empress Theophanu and placed in St Pantaleon's church in about 984:[37] the relics were miraculously saved from destruction in an accident on the way at a place that a later version of 1502, was identified as Silenen, Switzerland.[38] The original record was in a 12th-century manuscript that alleged that the relics were actually those of the British martyr, having been delivered to Ravenna by Germanus himself and taken from there to Rome.[39] Another church at Cologne is known to have been dedicated to the British Alban from the 12th century.[40]
+
+The Saint Alban of Basel is recorded in the Berne recension of the Martyrologium Hieronymianum of circa 800: "Basilea civitate sancti Albani martyris", where he would appear to be an independent local figure, being celebrated on 24 August but later identified with the Saint Alban of Mainz.[41]
+
+St Alban of Mainz is recorded from 756.[42] He was regarded as a separate figure in sources from Raban Maur's early 9th century martyrology, including a 10th-century Life by Gozwin of 1060–2[43] However, Hippolyte Delehaye suggested that he very probably represents, in origin, a localised version of the British martyr since his feast date was recorded as June 21 in the Martyrologium Hieronymianum (just a day before that of the British one, who actually appears on the 21st and 22nd in early recensions).[44]
+
+The story in Raban Maur associates Alban of Mainz with a martyred bishop, Aureus of Mainz and two other martyrs, Ursus and Theonestus[45] the latter of whom is said to have originated on the Greek island of Naxos, together with Alban. A Saint Alban of Burano (near Altino, Italy), meanwhile was associated with one Domenicus in a legendary tale reminiscent of one told about Dionysus.[46]"
+
