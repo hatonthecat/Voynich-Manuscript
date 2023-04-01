@@ -1056,7 +1056,7 @@ A comparison of the original, early three cantons (referred to as the "Growth"
 ![image](https://user-images.githubusercontent.com/76194453/229263727-4cf5d8f0-469f-40ff-9b53-4cfe28179c97.png)
 
 
-There were 16 cantons by 1513 (Kaspar survived Jossse after 1498 and could have etched in the blackish (erase marks?) for Appenzell Innerrhoden, which, while they may not have been a member at the time of drawing, may have had sufficient promises (a loyalty oath for example- though it is something I will examine more) and no new ones until 1803: 
+There were 16 cantons by 1513 (Kaspar survived Jossse after 1498 and could have etched in the blackish (erase marks?) for Appenzell Innerrhoden, which, while they may not have been a member at the time of drawing, may have had sufficient promises (a loyalty oath for example- though it is something I will examine more) and no new ones until 1803: (update 4/1/23:  "Eidgenossen (literally: comrades by oath" from https://en.wikipedia.org/wiki/Switzerland#Etymology suggests no written record of the earliest membership)
 
 ![image](https://user-images.githubusercontent.com/76194453/229264135-f3efc00f-ed44-49a3-acb7-a8500481550c.png)
 
@@ -1231,7 +1231,152 @@ The Council entered a second phase after Emperor Sigismund's death in 1437. Pope
 
 After becoming the Council of Florence (having moved to avoid the plague in Ferrara), the Council concluded in 1445 after negotiating unions with the various eastern churches. This bridging of the Great Schism proved fleeting, but was a political coup for the papacy. In 1447, Sigismund's successor Frederick III commanded the city of Basel to expel the Council of Basel; the rump Council reconvened in Lausanne before dissolving itself in 1449."
 
+---
+11:18AM
+---
+Adding " Eidgenossen (literally: comrades by oath)" to yesterday's entry on theory that more than 13 cantons were recognized unofficially prior to their associate status in the 1500s (14-16)
+![image](https://user-images.githubusercontent.com/76194453/229302386-39e85182-9baa-450d-bbc6-35035d3aa779.png)
+
+The origin of the cross from the flag and coat of Arms of Switzerland:
+
+https://en.wikipedia.org/wiki/Flag_of_Switzerland#Middle_Ages
+
+![image](https://user-images.githubusercontent.com/76194453/229302738-97587a56-ec28-4bf8-b218-263bc86dc44d.png)
+
+While a cross is a very common figure, it's prominent and strong prominence on p. 16V suggests a veiled, but important assertion of Swiss patriotism, what would later metamorphose into its cross.
+
+![image](https://user-images.githubusercontent.com/76194453/229302918-8412f47d-66dc-495b-9086-3124de763718.png)
+
+Other instances of the original 3 cantons 
+(Zürich (ZH), Bern / Berne (BE), Luzern 
+
+on the main stem/branch are as follows:
+
+Pre-canton, or pre-bloomed: 
+
+(Page) 1V Image ID: 1006077
+
+![image](https://user-images.githubusercontent.com/76194453/229303115-c6a69fd8-ed40-4f23-8339-84732f93464d.png)
+
+2V shows the first, upclose blooming of the first canton (in blue), 
+
+![image](https://user-images.githubusercontent.com/76194453/229303252-fc71cb3a-23cf-446b-9af8-0197e1f211e3.png)
+
+(LU)) https://en.wikipedia.org/wiki/Growth_of_the_Old_Swiss_Confederacy#The_nucleus (this indicates that each of the three bloomed, not to suggest one was first- as it was a pact, after all, not a unilateral proclamation of independence for a single microstate/region) 
+
+(Page) 9V 1006093
+![image](https://user-images.githubusercontent.com/76194453/229303015-e575d9e6-5eec-4244-a302-b1d8e3089b95.png)
+
+2R 
+![image](https://user-images.githubusercontent.com/76194453/229303147-88b39648-53eb-45b5-b458-78fd849416be.png)
+
+4R
+
+Still following a pattern of 3 branches and bulbs:
+
+![image](https://user-images.githubusercontent.com/76194453/229303504-bc1363ad-4d63-476e-9d4e-01fbf405bad0.png)
+
+5V
+
+![image](https://user-images.githubusercontent.com/76194453/229303546-12231c32-f83a-4211-bd12-f5c392b34f9a.png)
+An alternate rendering of three cantons, with 2 on the main stem, suggesting imbalance and "weaker" from separated stems (though not top heavy) 
+
+"slope, slant," late 14c., first in Scottish writing and apparently meaning "edge, brink," a word of uncertain origin. "words identical in form and corresponding in sense are found in many languages, Teutonic, Slavonic, Romanic, Celtic" [OED]. It was rare in English before c. 1600. Meaning "slope, slanting or tilting position" is from 1847."
+
+7R
+
+The Proto-typical Swiss Cross
+![image](https://user-images.githubusercontent.com/76194453/229303767-57e2eb16-4f36-497e-b0ae-021b05acaa54.png)
+
+7V
+
+The burgeoning three cantons up top and the cross at the stem:
+![image](https://user-images.githubusercontent.com/76194453/229303861-dca61678-5cd5-40da-860d-c3ada8884526.png)
+
+8V
+![image](https://user-images.githubusercontent.com/76194453/229303884-c1d5cc9d-5ec8-4c73-9b7b-967f2238f87c.png)
+
+4th canton: if, if using this Wikipedia source, would be Lucerne:
+https://en.wikipedia.org/wiki/Old_Swiss_Confederacy#List_of_territories
+![image](https://user-images.githubusercontent.com/76194453/229303973-66a05d6e-85b8-4bed-b2ea-fd078730d9c6.png)
+
+14th century: expansion to the Achtörtige Eidgenossenschaft following the battles of Morgarten and Laupen:
+Lucerne-coat of arms.svg Lucerne, city canton, since 1332
+
+9V Lucerne and Zurich now present (1351):
+
+![image](https://user-images.githubusercontent.com/76194453/229303999-b0875c18-e4f5-4cf8-8d7f-207ee354c4d3.png)
+
+10R
+The wilting or browing of the leaves can military setbacks, and/or a convenient cloak using perrenial leaf falling:
+![image](https://user-images.githubusercontent.com/76194453/229304164-9dcaaae1-1a2d-4edf-beda-3f67c4952213.png)
+
+13V and 14V- 3 Cantons
+
+![image](https://user-images.githubusercontent.com/76194453/229304212-5bcd4144-694f-49c8-be2f-af16ae31e287.png)
+
+15V
+
+The Swiss Cross:
+
+![image](https://user-images.githubusercontent.com/76194453/229304244-1ed5e155-71ce-42bb-b2fb-535932f8ed79.png)
+
+17r - 3 Cantons
+
+![image](https://user-images.githubusercontent.com/76194453/229304261-5fca994d-f8b6-48c1-9021-d534117abaad.png)
+
+19r- 3 cantons depicted as leaves to a single flower; 19v- three cantons:
+
+![image](https://user-images.githubusercontent.com/76194453/229304321-153ef198-04cf-440b-8f97-f85e9ea087af.png)
+
+20r
+
+3 cantons atop, though a natural growth too:
+
+![image](https://user-images.githubusercontent.com/76194453/229304385-4af46b08-834e-4dbc-ba19-37c25cb84c4e.png)
+
+20v
+
+![image](https://user-images.githubusercontent.com/76194453/229304409-42774660-4669-4727-81b4-35314dcd93b6.png)
+
+Interestingly, one of the blue cantons appears slightly darkened, similar to to the other illustration depicting 16, suggesting the last canton had a black coat of arms, or, merely that it was overcolored:
+
+![image](https://user-images.githubusercontent.com/76194453/229304546-19322d24-bbad-494c-8908-583a64ced366.png)
 
 
+21v
 
+Additional cantons added:
+![image](https://user-images.githubusercontent.com/76194453/229304453-24de5bf0-061e-48dd-8d22-118b6abbafd2.png)
+
+tri-canton growth normalized
+
+22r
+
+3 cantons
+
+![image](https://user-images.githubusercontent.com/76194453/229304565-2d0bbcf5-504e-4585-9c30-faf56364ba68.png)
+
+22v- 3 cantons
+
+![image](https://user-images.githubusercontent.com/76194453/229304608-c34bc008-4e8b-4ee8-a1a6-fc403601a61e.png)
+
+23V
+![image](https://user-images.githubusercontent.com/76194453/229304638-3e8c5d2a-8ae5-4abc-9ee5-41c7b78fb717.png)
+
+24V -5 cantons
+
+![image](https://user-images.githubusercontent.com/76194453/229304663-5ec898e3-6aa8-4085-979c-e29da8fc299f.png)
+
+28 & 29V
+
+![image](https://user-images.githubusercontent.com/76194453/229304709-8b6be65b-79dc-4478-830a-5eb8dfdb9f46.png)
+
+Remarkably, the 29V appear to show swiss monasteries/castles of the Swiss Prince Bishops:
+
+![image](https://user-images.githubusercontent.com/76194453/229304816-1e855c9f-e015-4534-9271-be326b4a6bbb.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229304975-28dce991-2039-4ce0-83c6-7aa9c9481c75.png)
+
+Additional three flowers seen on p.31r, 32r (above 2 flanking ), 32V, 33R (as unbloomed and in green, not blue), 33V, with one wilted/down, 34r, 34v (3 prominently, 2 background). More to be added.
 
