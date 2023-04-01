@@ -1217,6 +1217,8 @@ https://www.bbc.com/news/world-europe-50303932
 
 https://de.wikipedia.org/wiki/Kanton_Wallis
 
+" King Rudolph III of Burgundy handed over the County of Valais with all rights and privileges to the Bishop of Sion in 999. From the second half of the 15th century until 1798, Valais was divided into seven tenths and was therefore also called the Republic of the Seven Tenths . This republic asserted its independence from the bishops of Sitten in the 16th century."
+
 https://fr.wikipedia.org/wiki/Canton_du_Valais
 
 https://it.wikipedia.org/wiki/Canton_Vallese
