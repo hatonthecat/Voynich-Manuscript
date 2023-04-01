@@ -1088,6 +1088,10 @@ https://www.etymonline.com/search?q=canton
 
 Perhaps via Old North French cant "corner" (itself perhaps via Middle Low German kante or Middle Dutch kant), from Vulgar Latin *canthus, from Latin cantus "iron tire of a wheel," which is possibly from a Celtic word meaning "rim of wheel, edge, brim" (compare Welsh cant "bordering of a circle, tire, edge," Breton cant "circle"). The ultimate connections of these are uncertain. Greek kanthos "corner of the eye," and Russian kutu "corner" sometimes are suggested, but there are difficulties (see Beekes)."
 
+"![image](https://user-images.githubusercontent.com/76194453/229269861-d07cc42c-ea42-44a7-89a1-ff03f1e4ee1a.png)"
+
+Iron tire of a wheel ^ canton bishops are represented as quarters of a wheel, there being 3-4 early on.
+
 canton (n.)
 1530s, "corner, angle," from French canton "angle, corner (of a room); piece, portion of a country" (13c.), from Italian (Lombard dialect) cantone "region," especially in the mountains, augmentative of Latin canto "section of a country," literally "corner" (see cant (n.2)).
 
@@ -1203,6 +1207,7 @@ The Council of Florence is the seventeenth ecumenical council recognized by the 
 The Council entered a second phase after Emperor Sigismund's death in 1437. Pope Eugene IV translated the Council to Ferrara on 8 January 1438, where it became the Council of Ferrara and succeeded in drawing some of the Byzantine ambassadors who were in attendance at Basel to Italy. Some Council members rejected the papal decree and remained at Basel: this rump Council suspended Eugene, declared him a heretic, and then in November 1439 elected an antipope, Felix V.
 
 After becoming the Council of Florence (having moved to avoid the plague in Ferrara), the Council concluded in 1445 after negotiating unions with the various eastern churches. This bridging of the Great Schism proved fleeting, but was a political coup for the papacy. In 1447, Sigismund's successor Frederick III commanded the city of Basel to expel the Council of Basel; the rump Council reconvened in Lausanne before dissolving itself in 1449.
+
 
 
 
