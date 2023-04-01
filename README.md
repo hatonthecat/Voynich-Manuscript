@@ -1095,7 +1095,10 @@ canton (n.)
 From 1570s as a term in heraldry and flag descriptions. From c. 1600 as "a subdivision of a country;" applied to the sovereign states of the Swiss republic from 1610s.
 
 Related entries & more"
- 
+
+---
+11:18PM
+---
 In this sense, the illustrations reflect the history:
 
 on p.37V, you can see the original three cantons: Uri, Schwyz, and Unterwalden
