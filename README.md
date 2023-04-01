@@ -1470,4 +1470,7 @@ That was also 500 years prior, thus there is probably another Albin from 1300. I
 
 https://en.wikipedia.org/wiki/White_Book_of_Sarnen 
 
+"The White Book of Sarnen was composed in 1474 by a country scribe called Hans Schriber.[1]"
+
+"The only surviving copy of the White Book of Sarnen, which was long believed to be lost, was accidentally discovered in 1856.[3] However, researchers disagree on whether the White Book of Sarnen, which is preserved in the public record office of the canton of Obwalden, is merely a copy of an older manuscript written around 1426.[4]"
 "This second part, 25 pages in length, makes mention of the Rütli oath (German: Rütlischwur), the Burgenbruch, and William Tell’s heroic deeds.[1]"
