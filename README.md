@@ -1489,8 +1489,10 @@ Excerpt of the White Book translated and overlapped in attachment. Extracted tex
 ---
 6:45 PM
 ---
-https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chevron (this was all I could find- doesn't list a family but a residence. 
+ https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chevron (this was all I could find- doesn't list a family but a residence. 
 https://en.wikipedia.org/wiki/Mercury,_Savoie
 "The inhabitants are called Chevronnais."
-
+from p.6 
 ![image](https://user-images.githubusercontent.com/76194453/229323118-a09aff73-987b-4a1a-977f-90dfb98ce27d.png)
+
+https://en.wikipedia.org/wiki/Guillaume_d%27Estouteville (attachment)
