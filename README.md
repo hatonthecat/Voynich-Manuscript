@@ -1193,6 +1193,10 @@ f.70V (This appears to be an Ibex, based on the ~~antlers~~ horns, and this is a
 
 ![image](https://user-images.githubusercontent.com/76194453/229268251-aaaa960e-b547-4784-b843-f9afb2a9ea57.png)
 
+![image](https://user-images.githubusercontent.com/76194453/229312997-50967567-7a37-4186-8895-cc0910ff597f.png)
+from
+https://en.wikipedia.org/wiki/Alpine_ibex  https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bouquetin01.jpg/330px-Bouquetin01.jpg
+
 f71v (the rest of these drawings aren't the same kind of antler)
 
 ![image](https://user-images.githubusercontent.com/76194453/229268338-012f6677-0940-483e-b0df-fed5b04c288f.png)
