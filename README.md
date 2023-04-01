@@ -309,8 +309,9 @@ The phrase vagrant has decreased but cannot be found often adjacent "intellectua
 
 ![image](https://user-images.githubusercontent.com/76194453/228403944-ef5b26d1-e476-4540-8b0d-6978b4c9e42e.png)
 
-
+---
 10:24 PM 
+---
 
 An Austrian website claims to have decoded the Voynich Manuscript, and published a German and English translation - 
 
