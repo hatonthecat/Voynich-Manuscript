@@ -1210,11 +1210,11 @@ The Alpine ibex is a mountain goat instantly recognizable by the male's large sc
 
 https://en.wikipedia.org/wiki/Council_of_Florence
 
-The Council of Florence is the seventeenth ecumenical council recognized by the Catholic Church, held between 1431 and 1449. It was convoked as the Council of Basel by Pope Martin V shortly before his death in February 1431 and took place in the context of the Hussite Wars in Bohemia and the rise of the Ottoman Empire. At stake was the greater conflict between the conciliar movement and the principle of papal supremacy.
+"The Council of Florence is the seventeenth ecumenical council recognized by the Catholic Church, held between 1431 and 1449. It was convoked as the Council of Basel by Pope Martin V shortly before his death in February 1431 and took place in the context of the Hussite Wars in Bohemia and the rise of the Ottoman Empire. At stake was the greater conflict between the conciliar movement and the principle of papal supremacy.
 
 The Council entered a second phase after Emperor Sigismund's death in 1437. Pope Eugene IV translated the Council to Ferrara on 8 January 1438, where it became the Council of Ferrara and succeeded in drawing some of the Byzantine ambassadors who were in attendance at Basel to Italy. Some Council members rejected the papal decree and remained at Basel: this rump Council suspended Eugene, declared him a heretic, and then in November 1439 elected an antipope, Felix V.
 
-After becoming the Council of Florence (having moved to avoid the plague in Ferrara), the Council concluded in 1445 after negotiating unions with the various eastern churches. This bridging of the Great Schism proved fleeting, but was a political coup for the papacy. In 1447, Sigismund's successor Frederick III commanded the city of Basel to expel the Council of Basel; the rump Council reconvened in Lausanne before dissolving itself in 1449.
+After becoming the Council of Florence (having moved to avoid the plague in Ferrara), the Council concluded in 1445 after negotiating unions with the various eastern churches. This bridging of the Great Schism proved fleeting, but was a political coup for the papacy. In 1447, Sigismund's successor Frederick III commanded the city of Basel to expel the Council of Basel; the rump Council reconvened in Lausanne before dissolving itself in 1449."
 
 
 
