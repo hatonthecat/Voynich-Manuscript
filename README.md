@@ -1422,3 +1422,10 @@ possible reference to the Valais coat of arms- between 8 and 10 stars, although 
 
 ![image](https://user-images.githubusercontent.com/76194453/229311054-17b9beb2-454f-4443-93e1-c936c65f8fdf.png)
 
+3:11 PM
+
+Codexes I imagine were common in the early Rennaissance, and I was reminded at times of Da Vinci's Vitruvian Man (1490), who lived in the same time as von Silenen,  1452-1519, while on a different topic, but no less inspired:
+
+![image](https://user-images.githubusercontent.com/76194453/229312124-71126e9b-9e6a-4ddb-811e-82ada27cfb91.png)
+
+By the way, my upload early last week on the SIGBOVIC was written prior to my 3/28 Google Search on recent news or claims of the OTS publication by the Austrian dr., thus I began my examination in earnest after that date. In the SIGBOVIC paper, I made a joke about the Rennaissance leading to inventions, one of which I said was the "winged man", which was a tongue in cheek reference to Da Vinci's Vitruvian Man. So if I had led you on a goose hunt (on that detail), I didn't want to waste too much of your time as I too have redirected my efforts towards understanding more of the contemporary era's clues, which includes all aspects of medieval history- recent Counsel of Florence/Basel (1431-1449), the boundless mountain Ibex which were not yet extinct, and how religion was seriously viewed at the time. Thus, viewing these clues within the context of the era can help triangulate the location and increase probability of Dr. Dr. Gregor Bernhart-Königstein's claims being strongly correct.
