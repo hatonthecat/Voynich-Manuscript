@@ -1393,3 +1393,12 @@ The building is referring to a tower with 3 windows in a vertical orientation, p
 
 Additional three flowers seen on p.31r, 32r (above 2 flanking ), 32V, 33R (as unbloomed and in green, not blue), 33V, with one wilted/down, 34r, 34v (3 prominently, 2 background). More to be added.
 
+Josse von Silenen grew up in Silenen, before becoming bishop of Sitten/Sion. Thus, as he was from one of the oldest families in the Uri province/region, he may have been referring to a castle using a design different from later iterations.
+
+https://en.wikipedia.org/wiki/Attinghausen_Castle
+
+https://en.wikipedia.org/wiki/Silenen
+
+https://en.wikipedia.org/wiki/Eidgenossenschaft
+
+https://en.wikipedia.org/wiki/Unterwalden#/media/File:Braun_Dreizehn_Orte_Unterwalden_UBHD.jpg
