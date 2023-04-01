@@ -1063,7 +1063,7 @@ There were 16 cantons by 1513 (Kaspar survived Jossse after 1498 and could have 
 
 ![image](https://user-images.githubusercontent.com/76194453/229263803-a98a9914-4d3d-4c8f-b51d-5472772339d4.png)
 
-The coat of arms color of Appernzell Innerrhoden is black, and, while not an unprecdented color- Berne, Uri, Friborg, Basel-Stadt, and Schaffhausen have half of their colors that, may have been added between 1513-1517, as the 16th blue flower (bulb) before Kaspar von Silenen died in 1517.
+The coat of arms color of Appernzell Innerrhoden is black, and, while not an unprecedented color- Berne, Uri, Friborg, Basel-Stadt, and Schaffhausen have half of their colors that, may have been added between 1513-1517, as the 16th blue flower (bulb) before Kaspar von Silenen died in 1517. It's clear none of the other cantons display any other colors, thus Blue would appear to be the unifying color of all the cantons, regardless of coat of arms differences (while common knowledge, I have not seen any Voynich theories before Dr. Gregor Bernhart-Königstein make this claim, although I am new to this and it is possible someone suggested it at some time. That said, viewing all of the information in this light/perspective could increase the possibility that this theory receives more consideration.
 
 The green leafed branches also would appear to reference Suchy of Savoy, Suchy of Milan, Republic of Venice, Burgundy, Swabia (one branch could denote more than one Duchy.)
 
