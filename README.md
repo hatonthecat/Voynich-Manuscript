@@ -1402,3 +1402,16 @@ https://en.wikipedia.org/wiki/Silenen
 https://en.wikipedia.org/wiki/Eidgenossenschaft
 
 https://en.wikipedia.org/wiki/Unterwalden#/media/File:Braun_Dreizehn_Orte_Unterwalden_UBHD.jpg
+
+----
+1:27PM
+---
+Changing gears, reviewing the machine translated German section of Dr. BernhartKonigstein's paper, as he covers the early Swiss history in detail, and I have not checked all the references, but I wanted to annotate names that I have not familiarized before:
+
+![image](https://user-images.githubusercontent.com/76194453/229308326-d3079a0a-5aec-4dea-8265-4deb428e13ee.png)
+
+by Schiller, he is referring to the early 1800s playwright, who wrote a famous story on Wilhelm Tell:
+
+p. 5 https://en.wikipedia.org/wiki/William_Tell_(play)
+https://en.wikipedia.org/wiki/Friedrich_Schiller
+"In September 2008, Schiller was voted by the audience of the TV channel Arte as the second most important playwright in Europe after William Shakespeare."
