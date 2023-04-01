@@ -1132,3 +1132,8 @@ AR	Appenzell Ausserrhoden	Appenzell Outer-Rhodes / Appenzell Ausserrhoden	1513 (
       
 AI	Appenzell Innerrhoden	Appenzell Inner-Rhodes / Appenzell Innerrhoden	1513 (as Appenzell until 1597/1999)	Appenzell	1,043	64,358	16,293	172	94	6	German
 
+---
+11:24
+---
+(12) Basel-Stadt and Basel-Landschaft are considered two different cantons, with capitals in Basel and Liestal. Similarly Appenzell-Ausserrhoden and Appenzell-Innerrhoden have two capitals- Herisau and Appenzell, suggesting their capitals may not have considered at one point different cantons (aspirational or not), thus including more bulbs was not necessarily a doctrine, but a strategy, as 16 capitals are listed, even though 13 cantons were in effect. 
+
