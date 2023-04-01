@@ -1442,7 +1442,7 @@ By the way, my upload early last week on the SIGBOVIC was written prior to my 3/
 p.6 of OTS: 
 ![image](https://user-images.githubusercontent.com/76194453/229314431-1a4448d8-8750-492b-bf82-2a4d7279f40b.png)
 
-Albin Meyer von Silenen is suggested to have roots in Silenen: [39] Baker op.cit. pp. 212, 250
+Albin Meyer von Silenen is suggested to have ~~roots~~shrine/relics in Silenen: [39] Baker op.cit. pp. 212, 250
  p. 211 in Baker, E. P. (1938) "The Cult of St Alban at Cologne", in 'The Archaeological Journal' 94.
 
 https://en.wikipedia.org/wiki/Saint_Alban#On_the_Continent
