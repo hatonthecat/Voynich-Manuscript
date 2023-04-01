@@ -1056,7 +1056,10 @@ A comparison of the original, early three cantons (referred to as the "Growth"
 ![image](https://user-images.githubusercontent.com/76194453/229263727-4cf5d8f0-469f-40ff-9b53-4cfe28179c97.png)
 
 
-There were 16 cantons by 1513 (Kaspar survived Jossse after 1498 and could have etched in the blackish (erase marks?) Appenzell Innerrhoden and no new ones until 1803:
+There were 16 cantons by 1513 (Kaspar survived Jossse after 1498 and could have etched in the blackish (erase marks?) for Appenzell Innerrhoden, which, while they may not have been a member at the time of drawing, may have had sufficient promises (a loyalty oath for example- though it is something I will examine more) and no new ones until 1803: 
+
+![image](https://user-images.githubusercontent.com/76194453/229264135-f3efc00f-ed44-49a3-acb7-a8500481550c.png)
+
 
 ![image](https://user-images.githubusercontent.com/76194453/229263803-a98a9914-4d3d-4c8f-b51d-5472772339d4.png)
 
