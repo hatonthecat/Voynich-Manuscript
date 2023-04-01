@@ -1483,3 +1483,5 @@ https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Weisses%20Buch%20von
 https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen
 
 https://www.ow.ch/_docn/57539/Text_und_Uebersetzung_Chronik_Weisses_Buch.PDF (German, 28 pages)
+
+Excerpt of the White Book translated and overlapped in attachment. Extracted text will be uploaded in a separate attachment.
