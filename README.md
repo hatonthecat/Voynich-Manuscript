@@ -1144,3 +1144,30 @@ https://ia803208.us.archive.org/20/items/VoynichManuscriptAnElegantEnigma/Voynic
 Voynich Manuscript: An Elegant Enigma  Publication date 1978 
 
 https://archive.org/details/VoynichManuscriptAnElegantEnigma/page/n49/mode/2up 
+
+The PDF files are properly formatted from the Archive.org site- the files converted into PDF and Text have margin issues, though the source can be viewed in the html version for extraction
+
+12:38PM
+
+Valais Wikipedia article uploaded. https://en.wikipedia.org/wiki/Valais
+
+Some important details, for Sion/Sitten, and (Jost/Josse): 
+
+"In 1529, Valais became an associate member of the Swiss Confederation. After having resisted the Protestant Reformation and remained faithful to the Roman Catholic Church, it became a republic under the guidance of the prince-bishop of Sion in 1628. In 1815, Valais finally entered the Swiss Confederation as a canton. In 1878, the Simplon Railway connected most of Valais with the cities of the Swiss Plateau. The canton was further opened up by the Lötschberg Railway in 1913."
+
+In 1400s Valais was fighting for this memebership, and the nature of the manuscript appears quite fierce in many regards- why would someone go to such lengths to protect the information, suggests that these notes protected the conspirators/patriots.
+
+"By the late 14th century, the counts of Savoy acquired the bishopric of Sion. The Zenden resisted his attempts to gather both spiritual and secular power in the valley. In 1375–76, Zenden forces defeated the army of the house of La Tour-Chatillon, and in 1388 routed the forces of the bishop, the count, and his nobles at Visp. The German-speaking Zenden spread further into the valley. Starting in 1384 the Morge stream (a little below Sion) was recognized as the boundary between Savoyard, French-speaking Lower Valais and German-speaking episcopal Upper Valais.
+
+During the Raron affair rebellion from 1414 to 1420, some cantons of the Swiss Confederation took sides in the conflict. Lucerne, Uri and Unterwalden supported the Upper Valais rebels, while Bern supported the noble Raron family. The uprising was successful in driving out the Rarons and almost brought the Confederation to civil war.[6]
+
+Following the Raron affair, the canton was the location of the Valais witch trials between 1428 and 1447 in which at least 367 men and women were put to death. This event marks one of the earliest witch scares in late medieval Europe. The phenomenon later spread to other parts of the continent.
+
+
+Earliest known map of Valais, drawn by Johannes Schalbetter in 1545.
+
+![image](https://user-images.githubusercontent.com/76194453/229267909-24ba39bf-3e15-4c61-84e1-e108efd3a1f2.png)
+
+Looking south, only the lower portion of the valley from Leuk to Saint-Maurice is depicted.
+
+With the election of Walther von Supersax of Conches as bishop in 1457, the German-speaking part of the valley finally attained supremacy. At the outbreak of the Burgundian Wars in 1475, the bishop of Sion and the Zenden made a treaty with Bern. In November of the same year, they seized all Lower or Savoyard Valais up to Martigny. In March 1476, after the victory of Grandson, they advanced and captured St Maurice, Évian, Thonon and Monthey. They had to give up the last three districts in 1477 but won them again in 1536. In the treaty of Thonon in 1569, Monthey, Val-d'llliez, and Le Bouveret were permanently annexed to Valais. These conquered districts in the Lower Valais were ruled as subject lands by the bishop and the Tithings of the Upper Valais until 1798. On March 12, 1529, Valais became an associate member (Zugewandter Ort) of the Swiss Confederation.[5]"
