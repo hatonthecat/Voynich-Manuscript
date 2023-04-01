@@ -1440,8 +1440,10 @@ By the way, my upload early last week on the SIGBOVIC was written prior to my 3/
 4:19PM
 ---
 p.6 of OTS: 
+![image](https://user-images.githubusercontent.com/76194453/229314431-1a4448d8-8750-492b-bf82-2a4d7279f40b.png)
 
-Albin Meyer von Silenen is suggested to have roots in Silenen:
+Albin Meyer von Silenen is suggested to have roots in Silenen: [39] Baker op.cit. pp. 212, 250
+ p. 211 in Baker, E. P. (1938) "The Cult of St Alban at Cologne", in 'The Archaeological Journal' 94.
 
 https://en.wikipedia.org/wiki/Saint_Alban#On_the_Continent
 "On the Continent
@@ -1457,3 +1459,15 @@ St Alban of Mainz is recorded from 756.[42] He was regarded as a separate figure
 
 The story in Raban Maur associates Alban of Mainz with a martyred bishop, Aureus of Mainz and two other martyrs, Ursus and Theonestus[45] the latter of whom is said to have originated on the Greek island of Naxos, together with Alban. A Saint Alban of Burano (near Altino, Italy), meanwhile was associated with one Domenicus in a legendary tale reminiscent of one told about Dionysus.[46]"
 
+While the shrine of Alban was temporarily on the continent (now in England), it is unlikely this is the same ancestor referred to, who existed 1000 years later. That said, it is mentioned of another local Alban:
+
+"The Saint Alban of Basel is recorded in the Berne recension of the Martyrologium Hieronymianum of circa 800: "Basilea civitate sancti Albani martyris", where he would appear to be an independent local figure, being celebrated on 24 August but later identified with the Saint Alban of Mainz.[41]"
+
+"Baker op.cit. p. 254; G.Allmang, 1366 in "Dictionnaire d'Histoire et de Geographie Ecclesiastique", ed A . Baudrillart, Paris 1912; G.B. Villiger, 655 in Bibliotheca Sanctorum, Istituto Giovanni XXIII, Pontificale Universate Lateranense"
+
+That was also 500 years prior, thus there is probably another Albin from 1300. I will examine the Rutli claim later" 
+"The Rütli Oath (German: Rütlischwur, German pronunciation: [ˈryːtliˌʃvuːr]) is the legendary oath taken at the foundation of the Old Swiss Confederacy (traditionally dated to 1307)" 
+
+https://en.wikipedia.org/wiki/White_Book_of_Sarnen 
+
+"This second part, 25 pages in length, makes mention of the Rütli oath (German: Rütlischwur), the Burgenbruch, and William Tell’s heroic deeds.[1]"
