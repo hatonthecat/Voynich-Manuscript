@@ -1171,3 +1171,39 @@ Earliest known map of Valais, drawn by Johannes Schalbetter in 1545.
 Looking south, only the lower portion of the valley from Leuk to Saint-Maurice is depicted.
 
 With the election of Walther von Supersax of Conches as bishop in 1457, the German-speaking part of the valley finally attained supremacy. At the outbreak of the Burgundian Wars in 1475, the bishop of Sion and the Zenden made a treaty with Bern. In November of the same year, they seized all Lower or Savoyard Valais up to Martigny. In March 1476, after the victory of Grandson, they advanced and captured St Maurice, Évian, Thonon and Monthey. They had to give up the last three districts in 1477 but won them again in 1536. In the treaty of Thonon in 1569, Monthey, Val-d'llliez, and Le Bouveret were permanently annexed to Valais. These conquered districts in the Lower Valais were ruled as subject lands by the bishop and the Tithings of the Upper Valais until 1798. On March 12, 1529, Valais became an associate member (Zugewandter Ort) of the Swiss Confederation.[5]"
+
+The goat/deer: ![image](https://user-images.githubusercontent.com/76194453/229268089-e42a5c15-4680-4c4b-a2b0-b9bc8e9193a4.png)
+
+compared to contemporary illustrations (decades after Kaspar, but not impossible to have known each other, or copied regional sketches:)
+
+f.70V 
+
+![image](https://user-images.githubusercontent.com/76194453/229268251-aaaa960e-b547-4784-b843-f9afb2a9ea57.png)
+
+f71v
+
+![image](https://user-images.githubusercontent.com/76194453/229268338-012f6677-0940-483e-b0df-fed5b04c288f.png)
+
+f72r2
+
+![image](https://user-images.githubusercontent.com/76194453/229268349-124f0607-97b1-4c6d-8421-eb914830bb0c.png)
+
+f72r3
+
+![image](https://user-images.githubusercontent.com/76194453/229268370-8f8b5d03-69cc-4a7b-9063-765a662f3016.png)
+
+https://en.wikipedia.org/wiki/Valais_witch_trials
+
+"The influence of the Valais on the much larger phenomenon of the witch trials in the early modern period, lasting throughout the 16th and 17th centuries in much of Western Europe, may have been amplified by the Council of Basel which took place during the same period, during 1431–1437. Here, theologians discussed the evidence for the new phenomenon of witchcraft and collected the court proceedings from the Valais, Vaud, and Savoy region. These documents were perused by the first generation of authors on witchcraft, such as Johannes Nider, the author of Formicarius (written 1436–1438).[12]"
+
+https://en.wikipedia.org/wiki/Council_of_Florence
+
+The Council of Florence is the seventeenth ecumenical council recognized by the Catholic Church, held between 1431 and 1449. It was convoked as the Council of Basel by Pope Martin V shortly before his death in February 1431 and took place in the context of the Hussite Wars in Bohemia and the rise of the Ottoman Empire. At stake was the greater conflict between the conciliar movement and the principle of papal supremacy.
+
+The Council entered a second phase after Emperor Sigismund's death in 1437. Pope Eugene IV translated the Council to Ferrara on 8 January 1438, where it became the Council of Ferrara and succeeded in drawing some of the Byzantine ambassadors who were in attendance at Basel to Italy. Some Council members rejected the papal decree and remained at Basel: this rump Council suspended Eugene, declared him a heretic, and then in November 1439 elected an antipope, Felix V.
+
+After becoming the Council of Florence (having moved to avoid the plague in Ferrara), the Council concluded in 1445 after negotiating unions with the various eastern churches. This bridging of the Great Schism proved fleeting, but was a political coup for the papacy. In 1447, Sigismund's successor Frederick III commanded the city of Basel to expel the Council of Basel; the rump Council reconvened in Lausanne before dissolving itself in 1449.
+
+
+
+
