@@ -1044,3 +1044,24 @@ Not necessarily based on it, but it was completed in 1363.
 ![image](https://user-images.githubusercontent.com/76194453/229238703-d842f2fc-c1f6-48ab-95b4-9ee160cfbd6b.png)
 
 The topless towers appear somewhat like plants that haven' yet been uprooted. It suggests the plants are cut before they are pulled out and laid bare.
+
+---
+10:29PM
+---
+
+A comparison of the original, early three cantons (referred to as the "Growth"
+
+![image](https://user-images.githubusercontent.com/76194453/229263574-e6801540-2cdc-4564-9849-98f1ad1b68e0.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229263727-4cf5d8f0-469f-40ff-9b53-4cfe28179c97.png)
+
+
+There were 16 cantons by 1513 (Kaspar survived Jossse after 1498 and could have etched in the blackish (erase marks?) Appenzell Innerrhoden and no new ones until 1803:
+
+![image](https://user-images.githubusercontent.com/76194453/229263803-a98a9914-4d3d-4c8f-b51d-5472772339d4.png)
+
+The coat of arms color of Appernzell Innerrhoden is black, and, while not an unprecdented color- Berne, Uri, Friborg, Basel-Stadt, and Schaffhausen have half of their colors that, may have been added between 1513-1517, as the 16th blue flower (bulb) before Kaspar von Silenen died in 1517.
+
+The green leafed branches also would appear to reference Suchy of Savoy, Suchy of Milan, Republic of Venice, Burgundy, Swabia (one branch could denote more than one Duchy.)
+
+
