@@ -1474,3 +1474,9 @@ https://en.wikipedia.org/wiki/White_Book_of_Sarnen
 
 "The only surviving copy of the White Book of Sarnen, which was long believed to be lost, was accidentally discovered in 1856.[3] However, researchers disagree on whether the White Book of Sarnen, which is preserved in the public record office of the canton of Obwalden, is merely a copy of an older manuscript written around 1426.[4]"
 "This second part, 25 pages in length, makes mention of the Rütli oath (German: Rütlischwur), the Burgenbruch, and William Tell’s heroic deeds.[1]"
+
+The Deutsch version has a lot more information, and recently edited too:
+https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Weisses%20Buch%20von%20Sarnen%20%E2%80%93%20Wikipedia%20-translated%20to%20Eng.pdf
+https://de.wikipedia.org/wiki/Weisses_Buch_von_Sarnen
+
+https://www.ow.ch/_docn/57539/Text_und_Uebersetzung_Chronik_Weisses_Buch.PDF (German, 28 pages)
