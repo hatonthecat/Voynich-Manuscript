@@ -1418,7 +1418,7 @@ https://en.wikipedia.org/wiki/Friedrich_Schiller
 
 ![image](https://user-images.githubusercontent.com/76194453/229311009-f89c551d-bf72-46d5-b800-9ac853492e20.png)
 
-possible reference to the Valais coat of arms- between 8 and 10 stars, although (10, 8, 8)
+possible reference to the Valais coat of arms- between 8 and 10 stars, although (10, 8, 8) - perhaps Jost, Albin and Kaspar
 
 ![image](https://user-images.githubusercontent.com/76194453/229311054-17b9beb2-454f-4443-93e1-c936c65f8fdf.png)
 
