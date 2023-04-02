@@ -1500,3 +1500,26 @@ from p.6
 p.7
 https://en.wikipedia.org/wiki/Guillaume_d%27Estouteville (attachment) 
 https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Guillaume%20d'Estouteville%20-%20Wikipedia.pdf
+
+This Guillaume sounded like quite a teacher's pet, more loyal to Rome than his home of France:
+
+"Bishop
+The Bishop of Angers, Hardouin du Brueil, died on 18 January 1439.[14] Guillaume D'Estouteville, who was ambitious for the post, immediately rushed to Rome and obtained bulls from Pope Eugene IV on 20 February[15] naming him to the bishopric. '
+
+"King Charles VII of France was angered at the interference of the Pope in French church affairs and threatened, in support of the Gallican church, to apply the Pragmatic Sanction and exclude the Pope's bulls.[16] Pope Eugene escaped from the danger by giving d'Estouteville the bishopric of Digne in the Alpes-de-Haute-Provence, a suffragan of Embrun.[17] "
+
+"The Cardinal's hat probably softened the disappointment of losing the bishopric of Angers. Pope Eugene probably derived a bit of satisfaction at granting a red hat to a member of the French royalty without the request or consent of the King."
+
+I should really quiet down when I complain of how long it takes to get a doctorate:
+"He shortened the course leading to the Doctorate in theology from fifteen to fourteen years, and he removed the requirement that Doctors of Medicine be in holy orders.[32]" Denifle (1897), Chartularium IV, no. 2690, pp. 713-734.
+
+Jost/Josse born around 1435, probably did not venture out to Rome to be mentored under Cardinal Estoutville until late 1460s, after the latter's exoneration of Joan of Arc, thus he probably influenced Jost on his historical retelling of any Valais Witch trials symbolism in the Voynich Manuscript.
+
+![image](https://user-images.githubusercontent.com/76194453/229324645-7f3ecd9f-275f-496f-87fb-6133f4738a1d.png)
+
+
+![image](https://user-images.githubusercontent.com/76194453/229324931-bbc69814-99d8-4c4f-9e42-d3d383e4672d.png)
+
+
+ 
+
