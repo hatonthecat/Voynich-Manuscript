@@ -1532,3 +1532,5 @@ https://www.ortsgeschichte-kuesnacht.ch/pdf/1967-1970/Kuesnachter-Jahrheft-1970-
 https://digital.idiotikon.ch/idtkn/id3.htm#!page/30529/mode/1up
 
 https://search.ortsnamen.ch/de/record/802001331/
+
+![image](https://user-images.githubusercontent.com/76194453/229325908-8df16f52-b47f-43d5-8c9d-cf0442f57865.png)
