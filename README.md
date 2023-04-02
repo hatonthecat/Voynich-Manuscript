@@ -1915,4 +1915,10 @@ Show additional description"
 
 Working theory:
 
-So the 1st edition, released in 1493, was before his Naples campaign in 1494, thus he was at home in Lucerne or in the vicinity, visiting his uncle, who told him, "hey! can you draw these figures?" Then he returned to Lucerne in 1497, where his uncle was still alive, but had not yet fled to Lyon perhaps, and have kaspar his books to complete, for both the breviary and the secret manuscript. By 1506 he was stationed in the Vatican as the 1st Swiss guard commander, and may have taken his books with him, but got stored in church repositories for some time until the purchase by Rudolph.
+So the 1st edition, released in 1493, was before his Naples campaign in 1494, thus he was at home in Lucerne or in the vicinity, visiting his uncle, who told him, "hey! can you draw these figures?" Then he returned to Lucerne in 1497, where his uncle was still alive, but had not yet fled to Lyon perhaps, and gave kaspar his books to complete, for both the breviary and the secret manuscript. By 1506 he was stationed in the Vatican as the 1st Swiss guard commander, and may have taken his books with him, but got stored in church repositories for some time until the purchase by Rudolph. As he died in Rimn, unexpectedly due to an ambush from his troops' hangover, it is unclear whether he secured the books ahead of time.
+
+To be continued:
+
+![image](https://user-images.githubusercontent.com/76194453/229377905-bbd733c0-e290-405b-a52e-d8568bf51cc1.png)
+
+
