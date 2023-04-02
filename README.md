@@ -1547,4 +1547,6 @@ The red checkmarks indicate the birth place (Schwyz) and region where Josse last
 
 ![image](https://user-images.githubusercontent.com/76194453/229326652-439e1b2f-33e8-4f02-be62-f372e6223225.png) chechmarks are not comprehensive list of cantons where he had resided in, merely a personal reference.
 
+Language of Kussnacht SZ canton in early 1400s: https://de.wikipedia.org/wiki/Fr%C3%BChneuhochdeutsche_Sprache
+
 
