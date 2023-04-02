@@ -1836,3 +1836,42 @@ The beady circles are a recurring aspect of both the breviary and the manuscript
 
 
 ![image](https://user-images.githubusercontent.com/76194453/229349096-677ff725-27e8-447b-b505-2188d8460356.png)
+
+----
+12:45 PM Dimensions
+----
+
+Voynich Manuscript: 
+Size	≈ 23.5 cm × 16.2 cm × 5 cm (9.3 in × 6.4 in × 2.0 in) (Source: Wikipdia)
+
+Voynich.nu: "The Voynich MS is a parchment codex measuring approximately 225 x 160 mm (1). It is about 5 cm thick. It has a parchment cover without any indication of its origin (year, title or author). This cover, which is a later addition and has its own story to tell, is described at the bottom of this page."
+https://www.voynich.nu/descr.html
+
+Original binding:
+
+![image](https://user-images.githubusercontent.com/76194453/229370660-374c03a9-e8e2-4c19-927d-62a47701263d.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229370665-6f326c9f-ce81-4451-90d4-858e2102c231.png)
+
+While probably not intended for a polished edition, the length, width, and thickness of the pages, including the vellum, binding material, and ink of the Voynich manuscript could reveal much about whether the some or all of the same components were used or sourced from the same region and the Silenen Breviary.  
+
+![image](https://user-images.githubusercontent.com/76194453/229371783-fd717a36-8301-49b9-b694-349c2f54dfe8.png)
+
+
+Breviary of Jost von Silenen: length: 21.6cm:
+
+![image](https://user-images.githubusercontent.com/76194453/229369914-4b0d12cc-63ef-4d93-9dcf-d7fe767a8e72.png)
+
+https://www.e-codices.ch/en/snm/LM004624-2/bindingRulerS/0/
+
+https://www.e-codices.ch/en/thumbs/snm/LM004624-2/ Click 4 rectangles to view all 450 pages ![image](https://user-images.githubusercontent.com/76194453/229370225-aff55cf2-381f-4fd4-a0f3-f056acc59edc.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229370582-417ac7b3-4fd7-4ef3-9693-83e28cbc6da1.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229370593-1d00e840-6499-48fa-9032-33e21129e1de.png)
+
+
+
+![image](https://user-images.githubusercontent.com/76194453/229370275-761742d8-0938-438f-b2f8-d3882c360ec8.png)
+
+
