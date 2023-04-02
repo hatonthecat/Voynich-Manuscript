@@ -1885,3 +1885,17 @@ Louis XI, who ruled from 1461-1483, probably tasked Jost von Silenen with some e
 
 Locations of King Louis XI circa 1472: https://fr.wikipedia.org/wiki/Louis_XI#Le_duel_avec_Charles_le_T%C3%A9m%C3%A9raire 
 
+p.169r of Breviary
+![image](https://user-images.githubusercontent.com/76194453/229375571-f81ade59-847f-4a29-9627-0c5f51699b04.png)
+While not resembling the faces of the Voynich females, the infiniteness of their queueing appears similar  (f81r)
+
+![image](https://user-images.githubusercontent.com/76194453/229375747-0601b1fe-9c78-4e4b-9948-e0e94cf02b0f.png)
+
+428r
+![image](https://user-images.githubusercontent.com/76194453/229375931-16892f00-8bc8-4626-9624-81188fbc6736.png)
+
+compare to f71r
+
+![image](https://user-images.githubusercontent.com/76194453/229375983-7e47fc5d-04d9-4ba8-a4a8-27b9881eabaa.png)
+
+It was mentioned that Jost von silenen employed an artist as well for his breviary, who was itinerant, thus the characters in the breviary may not have been drawn by the same person, considering the shape of the faces, as seen in the figure in the foreground on the left, with black and gold cap, has finer contours than the wide chiseled faces.
