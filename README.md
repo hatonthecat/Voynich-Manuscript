@@ -1513,12 +1513,13 @@ The Bishop of Angers, Hardouin du Brueil, died on 18 January 1439.[14] Guillaume
 I should really quiet down when I complain of how long it takes to get a doctorate:
 "He shortened the course leading to the Doctorate in theology from fifteen to fourteen years, and he removed the requirement that Doctors of Medicine be in holy orders.[32]" Denifle (1897), Chartularium IV, no. 2690, pp. 713-734.
 
-Jost/Josse born around 1435, probably did not venture out to Rome to be mentored under Cardinal Estoutville until late 1460s, after the latter's exoneration of Joan of Arc, thus he probably influenced Jost on his historical retelling of any Valais Witch trials symbolism in the Voynich Manuscript.
+Jost/Josse born around 1435, did not venture out to Rome to be mentored under Cardinal Estoutville until late 1469  (being ~34 years old, having been in Pavia since 1459 for 10 years and 24yro), after the latter's exoneration of Joan of Arc, thus he probably influenced Jost on his historical retelling of any Valais Witch trials symbolism in the Voynich Manuscript.
 
 ![image](https://user-images.githubusercontent.com/76194453/229324645-7f3ecd9f-275f-496f-87fb-6133f4738a1d.png)
 
 
 ![image](https://user-images.githubusercontent.com/76194453/229324931-bbc69814-99d8-4c4f-9e42-d3d383e4672d.png)
+
 
 
  
