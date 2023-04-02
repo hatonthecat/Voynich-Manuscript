@@ -1529,6 +1529,8 @@ https://de.wikipedia.org/wiki/K%C3%BCssnacht_SZ
 [8] Hans Kläui : The municipal coat of arms of Küsnacht. In: Küsnachter Jahresblatt 1970, pp. 5-14. 
 https://www.ortsgeschichte-kuesnacht.ch/pdf/1967-1970/Kuesnachter-Jahrheft-1970-Gemeindewappen-von-Kuesnacht.pdf
 
+English- Machine translated: https://github.com/hatonthecat/Voynich-Manuscript/blob/main/English%20Das%20Gemeindewappen%20von%20K%C3%BCsnacht.pdf
+
 https://digital.idiotikon.ch/idtkn/id3.htm#!page/30529/mode/1up
 
 https://search.ortsnamen.ch/de/record/802001331/
