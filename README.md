@@ -1928,3 +1928,5 @@ Although, this location is quite an interesting place to begin a search:
 "The collection holds 226,000 books, including 60,000 rare books (among which are 380 incunabula and nearly 5,000 16th-century editions), 1,350 codices, 6,000 prints, ca. 2,400 periodicals (330 current serials), music scores, cd-roms, audiocassettes, and films. An 11th-century Evangelarium and an early 12th-century codex of Honorius Augustodunensis and a codex by Hugh of Saint Victor are examples of the Beneventan script."
 
 350 prior to 1500, and 5,000 16th century editions-perhaps some indicate more information on the records as to what Kaspar was carrying at the time of his ambush, and what possibly happened to his belongings? Assuming these records are not all digitized yet, it is possible that some of the records might have some information as to what books transferred, perhaps from a sale record.
+
+![image](https://user-images.githubusercontent.com/76194453/229378492-5f5c3a85-ca59-4e75-92e4-395e7f30c52f.png)
