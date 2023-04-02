@@ -1795,6 +1795,8 @@ Coat of Arms
 80V
 ![image](https://user-images.githubusercontent.com/76194453/229342883-2524482c-4d38-4160-9ee5-2e7ba8b9690c.png)
 
+![image](https://user-images.githubusercontent.com/76194453/229346097-66167ef1-8488-4138-9e47-781ea1aa9081.png)
+
 
 ![image](https://user-images.githubusercontent.com/76194453/229342744-986afa0f-9480-4a73-aa7f-93747a78e7df.png)
 The Chapel Bridge in Lucerne was constructed in 1339, although there is only one of this kind- the pillars of the bridge appear to be the sticks on the Voynich page Ros, rotated 180 degrees although they resemble more the background walls
@@ -1812,6 +1814,10 @@ https://chapel-bridge.ch/hintergruende/water-tower/
 https://en.wikipedia.org/wiki/Kapellbr%C3%BCcke
 
 ![image](https://user-images.githubusercontent.com/76194453/229345988-305f78f4-1893-4e44-ae59-4bc1819a8b37.png)
+
+I had missed 85V section in the last crop- I had only the page to the right- as Dr. Bernhart-Konigstein suggests on p.17, it is the Lucerne lookout point, but I have not been able to locate any present buildings- likely they are some of the current towers along the bridge:
+![image](https://user-images.githubusercontent.com/76194453/229346401-964fb973-99d6-48df-a30d-d60f90d96c35.png)
+
 
 
 
