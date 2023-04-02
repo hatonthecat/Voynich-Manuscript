@@ -1521,6 +1521,14 @@ Jost/Josse born around 1435, did not venture out to Rome to be mentored under Ca
 ![image](https://user-images.githubusercontent.com/76194453/229324931-bbc69814-99d8-4c4f-9e42-d3d383e4672d.png)
 
 
+https://de.wikipedia.org/wiki/K%C3%BCssnacht_SZ
+![image](https://user-images.githubusercontent.com/76194453/229325668-fe71de65-407b-443d-b2c9-0013768d18d5.png)
 
- 
+[7] " «The coat of arms of Küssnacht, a pillow, represents a folk etymological reminiscence. This can only be explained by the fact that mda. Chüss- to schwzdt. Chüssi 'cushion' remembered. The attempts to connect the name Küssnacht with an OHD PN *Kusso and OHD aha 'Bach, flowing water' are not valid." Viktor Weibel: Schwyzer name book. The place and field names of the canton of Schwyz. 6 volumes. Schwyz 2012, quoted from ortsnamen.ch ; Schweizerisches Idiotikon , volume III, columns 329 f, article Chüssi ."
 
+[8] Hans Kläui : The municipal coat of arms of Küsnacht. In: Küsnachter Jahresblatt 1970, pp. 5-14. 
+https://www.ortsgeschichte-kuesnacht.ch/pdf/1967-1970/Kuesnachter-Jahrheft-1970-Gemeindewappen-von-Kuesnacht.pdf
+
+https://digital.idiotikon.ch/idtkn/id3.htm#!page/30529/mode/1up
+
+https://search.ortsnamen.ch/de/record/802001331/
