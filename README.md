@@ -1824,3 +1824,7 @@ https://www.e-codices.ch/en/search/all?sQueryString=Jost+of+Silenen&sSearchField
 
 ![image](https://user-images.githubusercontent.com/76194453/229348505-110f5d05-9f10-4c7b-b2e8-268bdfb970ec.png)
 
+appears to be a cameo in his breviary:
+![image](https://user-images.githubusercontent.com/76194453/229348743-68256a16-8e64-4e28-a049-7e40273d7cd9.png)
+compare to:
+![image](https://user-images.githubusercontent.com/76194453/229348778-c6487f47-2bec-4d2f-829f-712422641fb4.png)
