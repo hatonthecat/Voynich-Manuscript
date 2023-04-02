@@ -2,11 +2,9 @@
 Update: 4/1/2023: 
 --
 
-A portable copy of this readme file can be downloaded from my dropbox - it is 161.23MB thus it could not be uploaded here:
+A portable copy of this readme file can be downloaded from my dropbox:
 
-https://www.dropbox.com/s/pe69hdki71bopaa/Portable%20Copy%20of%20Readme-%20main%20analysis%20and%20timeline-%20PDF.pdf?dl=0 (<-12:46PM -now older copy)
-
-2nd updated copy: 3:48PM https://www.dropbox.com/s/v0yu5m2rxavyvn0/Updated%20Portable%20README.md%20at%20main%20%C2%B7%20hatonthecat_Voynich-Manuscript.pdf?dl=0
+https://www.dropbox.com/s/0iuptnyaitbsjz8/Portable%20copy%20of%20Readme.pdf?dl=0
 
 # Voynich-Manuscript-(also a new claim it is the Silenen Codex)- see 3/28 10pm entry
 Analysis, notes, resources, and theories about the unsolved Voynich Manuscript
