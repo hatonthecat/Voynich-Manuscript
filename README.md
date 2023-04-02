@@ -1608,3 +1608,22 @@ For reference, "The Tschachtlanchronik of 1470 is the oldest of the still existi
 Thus even if Jost von Silenen was not aware of this book, it most certainly reflects what some of the towers and buildings looked like in his era.
 
 ![image](https://user-images.githubusercontent.com/76194453/229332503-e4413371-fb2f-46c1-adc2-d91dc763c8ba.png) Lots of illustrations of Swiss towers with red colored roofs, either because red was a more common pigment, or they used a different roof to indicate perhaps Burgundy or German rule (I'm sure there's someone knows)
+
+---
+4/2/2023
+---
+On page 30 of OTS, I am astounded by this plant- it suggests that Josse von Silenen's blue flowered drawings appear in another volume:
+
+![image](https://user-images.githubusercontent.com/76194453/229333038-38ffda84-ba3f-4509-8ce9-ff03a7dc7a4b.png)
+
+possibly this breviary: https://www.abebooks.com/first-edition/Br%C3%A9viaire-Josse-Silenen-1493-%C3%A9v%C3%AAque-Sion/22803199669/bd#&gid=1&pid=2
+
+The Zion & byzantine reference is quite similar to the Egyptian & turkish mosque idea- with Judaism and Gnosticism being hypothesized early last week (3/23 or so), but not as a Catholic source written.
+
+The shape of this building  looks quite similar to the large square in the foldout: (p.226 of Berner Chronicle)
+
+https://www.abebooks.com/first-edition/Br%C3%A9viaire-Josse-Silenen-1493-%C3%A9v%C3%AAque-Sion/22803199669/bd#&gid=1&pid=2
+
+![image](https://user-images.githubusercontent.com/76194453/229333279-62641db6-e9c2-447f-95f3-8e0b7aec8af8.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229333524-c33222de-1b04-4d4e-87a8-18392f40604f.png)
