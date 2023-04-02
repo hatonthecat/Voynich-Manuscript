@@ -1549,4 +1549,27 @@ The red checkmarks indicate the birth place (Schwyz) and region where Josse last
 
 Language of Kussnacht SZ canton in early 1400s: https://de.wikipedia.org/wiki/Fr%C3%BChneuhochdeutsche_Sprache
 
+---
+Switzerland's Best Kept Secret
+---
+![image](https://user-images.githubusercontent.com/76194453/229329144-f4e1823f-74a1-4553-a3ed-c63748ff5f16.png)
 
+"The inclusion of Lucerne as a "fourth" Waldstätte is first mentioned in an addition dated to the 1450s in the Silver Book of Egloff Etterlin."
+
+More probable in the second of the following two:
+
+![image](https://user-images.githubusercontent.com/76194453/229329387-23db48d7-4f3e-47ff-847d-2dbffebc6043.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229329400-e9a41335-e25b-4d26-b579-e4f5e6cdc9c4.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229329525-ea732ecb-cedf-4d07-be4c-c8aeae85cb5b.png)
+
+"Silver Book , begun in 1433 ( Lucerne State Archives, Cod. 1080, Fol. 3r ; e-codices).
+
+The initial I in the form of a bird forms the beginning of the introductory text "In nomine sancte et individue trinitatis ...", in which the author gives his name, origin and titles."
+
+Translated from Latin to mean, "In the name of the holy and individual Trinity"
+
+https://hls-dhs-dss.ch/de/articles/014113/2005-11-22/
+Author: Gregor Egloff
+between 1469 and 1477 Lucerne, from Brugg. Probably son of the aarg. Landscribes Rudolf. ​1 ) Agnes Stutzenbergin ( 1439), probably a sister of the long-distance merchant Klaus Stutzenberg from Basel, with whom E. worked together in trading via the Gotthard, 2) Mechthild von Löwenbach. E. came to Lucerne as a baccalaureate and scribe and acquired citizenship in 1422. 1427 election as town clerk, 1452 resignation. Nurse to Franciscans. teacher. Ambassador to diets and foreign courts, especially to Milan. From 1458 on in the small council, E. served as council judge from 1458-59. Already during the Council of Basel he cultivated relationships with Veronese merchants, then in the interests of Klaus Stutzenberg, later Hans Irmis of Basel and other merchants also with the Duke of Milan. E. was one of the correspondents of the humanist Niklaus von Wyle. In 1431 he received the monopoly for writing letters of tenure, with which both the magistrate control of the notarial system and the income of the town clerk was secured. As the author of the "Silver Book" from 1433 (a magnificently designed cartulary from 1505 with an introductory section, translations of Latin documents and notes on the location of the documents), he initiated a reorganization of the Lucerne Chancellery's central accounting system. The introduction of double-entry bookkeeping based on the Italian model made it easier to keep track of the growing volume of state financial transactions and financial control over stewards and officials. For this administrative reform, Lucerne was forced to hold a daily council, administer an enlarged territory and as a federal To be able to serve office and suburb. The expansion of the law firm's activities made it possible for E. to train both his sons (Petermann) and people like Hans Fründ as chancellery clerks, which benefited their chronicling. It is disputed whether E. himself wrote a (lost) chronicle.
