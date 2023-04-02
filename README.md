@@ -1828,3 +1828,11 @@ appears to be a cameo in his breviary:
 ![image](https://user-images.githubusercontent.com/76194453/229348743-68256a16-8e64-4e28-a049-7e40273d7cd9.png)
 compare to:
 ![image](https://user-images.githubusercontent.com/76194453/229348778-c6487f47-2bec-4d2f-829f-712422641fb4.png)
+
+
+The beady circles are a recurring aspect of both the breviary and the manuscript:
+
+![image](https://user-images.githubusercontent.com/76194453/229348954-73fe0ef5-a5d1-4f02-a543-759aadfc15ce.png)
+
+
+![image](https://user-images.githubusercontent.com/76194453/229349096-677ff725-27e8-447b-b505-2188d8460356.png)
