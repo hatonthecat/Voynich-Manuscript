@@ -1822,5 +1822,5 @@ Quite a few results (26) found, many which have striking resemblance to the Voyn
 
 https://www.e-codices.ch/en/search/all?sQueryString=Jost+of+Silenen&sSearchField=fullText&sSortField=score&iResultsPerPage=20&aSelectedFacets=
 
-
+![image](https://user-images.githubusercontent.com/76194453/229348505-110f5d05-9f10-4c7b-b2e8-268bdfb970ec.png)
 
