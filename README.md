@@ -1495,4 +1495,8 @@ https://en.wikipedia.org/wiki/Mercury,_Savoie
 from p.6 
 ![image](https://user-images.githubusercontent.com/76194453/229323118-a09aff73-987b-4a1a-977f-90dfb98ce27d.png)
 
-https://en.wikipedia.org/wiki/Guillaume_d%27Estouteville (attachment)
+![image](https://user-images.githubusercontent.com/76194453/229323931-bd00a0cd-83b1-4fdd-9db8-7d1e362ae6d8.png)
+
+p.7
+https://en.wikipedia.org/wiki/Guillaume_d%27Estouteville (attachment) 
+https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Guillaume%20d'Estouteville%20-%20Wikipedia.pdf
