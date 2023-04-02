@@ -1595,4 +1595,12 @@ https://de.wikipedia.org/wiki/Tschachtlanchronik
 
 Covering almost anything that happened in Valais in the 1400s:
 
-https://doc.rero.ch/record/22050/files/I-N-268_2005_10_00.pdf German (but machine translation uploaded in English-quick and dirty (Q&D hereafter) selection missing info probably)
+
+
+https://doc.rero.ch/record/22050/files/I-N-268_2005_10_00.pdf German (but machine translation uploaded in English-quick and dirty (Q&D hereafter) selection missing info probably: https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Machine%20Translation%20of%20Hans%20Frund%20account%20of%20Valais%20Witch%20Trials.pdf)
+
+Berner Chronicles 232MB -Full color, German, OCR/GT unfortunately won't be able to convert this- but a text version might exist somewhere: 
+
+https://www.e-manuscripta.ch/zuz/doi/10.7891/e-manuscripta-85723 
+
+
