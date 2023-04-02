@@ -1590,3 +1590,9 @@ Well, true, but there's a lot more uncovered in this manuscript, apparently!
 
 
 https://dbpedia.org/page/Johannes_Fr%C3%BCnd 
+
+https://de.wikipedia.org/wiki/Tschachtlanchronik
+
+Covering almost anything that happened in Valais in the 1400s:
+
+https://doc.rero.ch/record/22050/files/I-N-268_2005_10_00.pdf German (but machine translation uploaded in English-quick and dirty (Q&D hereafter) selection missing info probably)
