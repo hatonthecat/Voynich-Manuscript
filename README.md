@@ -1564,6 +1564,8 @@ More probable in the second of the following two:
 
 ![image](https://user-images.githubusercontent.com/76194453/229329525-ea732ecb-cedf-4d07-be4c-c8aeae85cb5b.png)
 
+https://en.wikipedia.org/wiki/Egloff_Etterlin
+
 "Silver Book , begun in 1433 ( Lucerne State Archives, Cod. 1080, Fol. 3r ; e-codices).
 
 The initial I in the form of a bird forms the beginning of the introductory text "In nomine sancte et individue trinitatis ...", in which the author gives his name, origin and titles."
@@ -1585,3 +1587,6 @@ So as it may be apparent for any of my lurkers, this is a live, open-source cras
 --
 "Ancient historiography made the forest cantons the starting point and the nucleus of the Confederation. This vision persisted until very recently, helped to form the historical consciousness of the Swiss and became, in the form of a myth, an essential part of Swiss identity." https://hls-dhs-dss.ch/de/articles/007465/2014-12-27/
 Well, true, but there's a lot more uncovered in this manuscript, apparently!
+
+
+https://dbpedia.org/page/Johannes_Fr%C3%BCnd 
