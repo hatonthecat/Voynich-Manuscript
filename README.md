@@ -1778,7 +1778,11 @@ Deep in history and religion- the past couple days I was thinking, those who wil
 p.16
 ![image](https://user-images.githubusercontent.com/76194453/229342237-d4e86b74-569c-4cbe-9b16-ab503c108a1a.png)
 
+
+![image](https://user-images.githubusercontent.com/76194453/229342668-b5c99d7e-ae77-4808-a1a6-08cbef604a9c.png)
+
 ![image](https://user-images.githubusercontent.com/76194453/229342695-1627fb5f-90ff-415c-bd73-add5f5dc2426.png)
+
 Coat of Arms 
 78V
 
@@ -1797,4 +1801,3 @@ Coat of Arms
 ![image](https://user-images.githubusercontent.com/76194453/229342744-986afa0f-9480-4a73-aa7f-93747a78e7df.png)
 
 
-![image](https://user-images.githubusercontent.com/76194453/229342668-b5c99d7e-ae77-4808-a1a6-08cbef604a9c.png)
