@@ -1796,8 +1796,7 @@ Coat of Arms
 ![image](https://user-images.githubusercontent.com/76194453/229342883-2524482c-4d38-4160-9ee5-2e7ba8b9690c.png)
 
 
-
-
 ![image](https://user-images.githubusercontent.com/76194453/229342744-986afa0f-9480-4a73-aa7f-93747a78e7df.png)
+The Chapel Bridge in Lucerne was constructed in 1339, although there is only one of this kind- the pillars of the bridge appear to be the sticks on the Voynich page Ros, although they resemble more the background walls
 
-
+![image](https://user-images.githubusercontent.com/76194453/229344988-23aa4783-7756-4726-acea-87e21070e13b.png)
