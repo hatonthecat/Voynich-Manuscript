@@ -1629,3 +1629,17 @@ https://www.abebooks.com/first-edition/Br%C3%A9viaire-Josse-Silenen-1493-%C3%A9v
 ![image](https://user-images.githubusercontent.com/76194453/229333524-c33222de-1b04-4d4e-87a8-18392f40604f.png)
 
 ![image](https://user-images.githubusercontent.com/76194453/229333650-62e6e247-bdc6-49f2-8eb1-ccb853098bfb.png)
+
+---
+3 Hill Curiosity
+---
+The names appear different- Bruggs, kungfeld(?), Hapsburg? Just wanted to juxtapose these for later analysis:
+
+<moie torberge , vomMine, voonet (I'm probably way off, as it's German, not french)  
+![image](https://user-images.githubusercontent.com/76194453/229334003-e08102fd-4ea8-4fd7-b3e1-375275f55400.png)
+
+
+![image](https://user-images.githubusercontent.com/76194453/229334124-5c1a98e0-248f-4890-874e-08def6241a36.png)
+
+
+https://en.wikipedia.org/wiki/K%C3%B6nigsfelden_Monastery#/media/File:Ermordung_Albrecht_I.jpg
