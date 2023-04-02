@@ -1633,13 +1633,14 @@ https://www.abebooks.com/first-edition/Br%C3%A9viaire-Josse-Silenen-1493-%C3%A9v
 ---
 3 Hill Curiosity
 ---
-The names appear different- Bruggs, kungfeld(?), Hapsburg? Just wanted to juxtapose these for later analysis:
+
 
 <moie torberge , vomMine, voonet (I'm probably way off, as it's German, not french)  
 ![image](https://user-images.githubusercontent.com/76194453/229334003-e08102fd-4ea8-4fd7-b3e1-375275f55400.png)
 
-
+The names appear different- Bruggs, kungfeld(?), Hapsburg? Just wanted to juxtapose these for later analysis:
 ![image](https://user-images.githubusercontent.com/76194453/229334124-5c1a98e0-248f-4890-874e-08def6241a36.png)
 
+It could have been a convention, and economy to shrink three hills for single-page storytelling. Objects in rear may be closer than they appear.
 
 https://en.wikipedia.org/wiki/K%C3%B6nigsfelden_Monastery#/media/File:Ermordung_Albrecht_I.jpg
