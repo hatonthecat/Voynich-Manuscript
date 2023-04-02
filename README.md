@@ -1537,7 +1537,7 @@ https://search.ortsnamen.ch/de/record/802001331/
 
 ![image](https://user-images.githubusercontent.com/76194453/229325908-8df16f52-b47f-43d5-8c9d-cf0442f57865.png)
 
-Update: I had the cantons pictured above in the wrong order- sorted:
+Update: I had the cantons pictured above in the wrong order- sorted year by official membership for historical context (this may or may not not indicate associate memberships as in those from 1501-1513:
 
 ![image](https://user-images.githubusercontent.com/76194453/229326550-e9cf05dd-029c-49ec-8cdd-16174f2cabc0.png
 
