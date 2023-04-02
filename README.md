@@ -2005,3 +2005,16 @@ https://archive.org/download/mundussubterrane00unse
 ![image](https://user-images.githubusercontent.com/76194453/229382981-8513ccd7-3488-4994-9645-6d4ca8fa4b8a.png)
 
 For the time being, this information is being presented, without any claim to chronological order. It is merely acknowledging that Kirchner wrote about dragons in Mundus Subterraneusw, whether from the Voynich Manuscript or other source.  In a sea of information, I can sort out the sequence (navigation) later.
+---
+5:49PM
+---
+For reference, p 1R
+
+![image](https://user-images.githubusercontent.com/76194453/229383389-460b9690-cdb1-4ab8-b6f7-fa2cc34fefaf.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229383419-5bc40f78-07ee-4879-a403-ea998ad249f2.png)
+
+
+p.18 by doctor, suggests they are initials- they look like V, dragon, and/or or serpent, esp the one on the top right of 1r and the bottom left of 1R
+
+
