@@ -1899,3 +1899,20 @@ compare to f71r
 ![image](https://user-images.githubusercontent.com/76194453/229375983-7e47fc5d-04d9-4ba8-a4a8-27b9881eabaa.png)
 
 It was mentioned that Jost von silenen employed an artist as well for his breviary, who was itinerant, thus the characters in the breviary may not have been drawn by the same person, considering the shape of the faces, as seen in the figure in the foreground on the left, with black and gold cap, has finer contours than the wide chiseled faces.
+
+This also suggests an earlier rendering- Kaspar was born in 1467, thus he was only 20 years old in 1487, it is unlikely his drawing skills were as good as they were in 1493, at 26 and at 31: 
+"LM 4624.2
+Manuscript Title:	Breviary of Jost von Silenen, pars aestivalis
+Caption:	Parchment · I + 438 + II ff. · 21.6-22 x 15-15.3 cm · 1493
+Language:	Latin
+Manuscript Summary:	Breviary in two volumes, created in 1493 for Jost von Silenen († 1498), the Bischop of Sion from 1482 until his dismissal in 1497. Richly decorated, the miniatures are the work of an itinerant artist active in Fribourg, Bern and Sion during the final decades of the 15th century and known by the name Master of the breviary of Jost von Silenen. At the beginning of the 16th century, he continued his work in Aosta and Ivrea, where he took the name Master of George of Challant. (ber)
+Standard description:	Description edited and bibliography added by Marina Bernasconi for the internet, 2016; based on: Jörger Albert, The miniaturist of the breviary of Jost von Silenen. An anonymous illuminator around 1500 and his works in Fribourg, Bern, Sitten, Ivrea and Aosta, Sitten 2001 (supplement to Vallesia 6), especially 509-627.
+Show standard description
+Additional description:	Mohlberg Leo Cunibert, Catalog of the manuscripts of the Zurich Central Library I, Medieval Manuscripts, Zurich 1952, pp. 298-300.
+Show additional description"
+
+" He participated in the Naples campaign of Charles VIII of France in 1494. He was reeve of Ebikon from 1497 to 1499, and member of the Lucerne city council from 1497 until 1503, when he was convicted of the illegal recruitment of mercenaries on behalf of France." 
+
+Working theory:
+
+So the 1st edition, released in 1493, was before his Naples campaign in 1494, thus he was at home in Lucerne or in the vicinity, visiting his uncle, who told him, "hey! can you draw these figures?" Then he returned to Lucerne in 1497, where his uncle was still alive, but had not yet fled to Lyon perhaps, and have kaspar his books to complete, for both the breviary and the secret manuscript. By 1506 he was stationed in the Vatican as the 1st Swiss guard commander, and may have taken his books with him, but got stored in church repositories for some time until the purchase by Rudolph.
