@@ -1599,8 +1599,12 @@ Covering almost anything that happened in Valais in the 1400s:
 
 https://doc.rero.ch/record/22050/files/I-N-268_2005_10_00.pdf German (but machine translation uploaded in English-quick and dirty (Q&D hereafter) selection missing info probably: https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Machine%20Translation%20of%20Hans%20Frund%20account%20of%20Valais%20Witch%20Trials.pdf)
 
-Berner Chronicles 232MB -Full color, German, OCR/GT unfortunately won't be able to convert this- but a text version might exist somewhere: 
+Berner Chronicles 232MB -1,123 Pages in Full color, German, OCR/GT unfortunately won't be able to convert this- but a text version might exist somewhere: 
 
 https://www.e-manuscripta.ch/zuz/doi/10.7891/e-manuscripta-85723 
 
+For reference, "The Tschachtlanchronik of 1470 is the oldest of the still existing Swiss illustrated chronicles, compiled by Bendicht Tschachtlan and Heinrich Dittlinger of Bern. The chronicle is now kept in Zentralbibliothek Zürich, where a facsimile can be viewed."
 
+Thus even if Jost von Silenen was not aware of this book, it most certainly reflects what some of the towers and buildings looked like in his era.
+
+![image](https://user-images.githubusercontent.com/76194453/229332503-e4413371-fb2f-46c1-adc2-d91dc763c8ba.png) Lots of illustrations of Swiss towers with red colored roofs, either because red was a more common pigment, or they used a different roof to indicate perhaps Burgundy or German rule (I'm sure there's someone knows)
