@@ -1644,3 +1644,18 @@ The names appear different- Bruggs, kungfeld(?), Hapsburg? Just wanted to juxtap
 It could have been a convention, and economy to shrink three hills for single-page storytelling. Objects in rear may be closer than they appear.
 
 https://en.wikipedia.org/wiki/K%C3%B6nigsfelden_Monastery#/media/File:Ermordung_Albrecht_I.jpg
+
+---
+1:09 AM
+https://en.wikipedia.org/wiki/Mammotrectus_super_Bibliam#cite_note-Franout-1
+![image](https://user-images.githubusercontent.com/76194453/229334917-4cc29808-1dab-40f6-a782-1606d0918a89.png)
+
+https://godieu.com/doc/samuelberger/la_bible_16e_siecle.html#Chapitre2
+from Age of Erasmus
+
+![image](https://user-images.githubusercontent.com/76194453/229335069-60dc7f0a-25a6-4b73-9665-9979bc2a6659.png)
+
+from Guten https://web.archive.org/web/20120317050310/http://www.cddc.vt.edu/gutenberg/1/5/8/1/15810/15810-h/15810-h.htm
+![image](https://user-images.githubusercontent.com/76194453/229335126-ab2b2c4b-9f84-4b2e-a488-1ca6a9b66471.png)
+
+
