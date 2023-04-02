@@ -1663,3 +1663,9 @@ from Guten https://web.archive.org/web/20120317050310/http://www.cddc.vt.edu/gut
 "Adam Driver as Francisco Garupe.[15] Both Driver and Garfield went through a 7-day Jesuit silent prayer vigil arranged with the help of the Jesuit scholar Martin to prepare them for their roles in the film. Garfield, in an interview with Stephen Colbert, stated that both actors felt emaciated in preparing for their roles and that Driver lost close to 50 pounds in preparation to play his role in the film.[14]" https://en.wikipedia.org/wiki/Silence_(2016_film)
 
 If I had to choose between reading everything I can for 7 days straight on Josse von Silenen and losing 50 pounds, this reading effort is a breeze by comparison.
+https://www.etymonline.com/word/stove
+
+![image](https://user-images.githubusercontent.com/76194453/229337000-078effb1-3241-47bb-8a9c-87814acc40b8.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229337030-0a3808a4-f11f-429d-a08c-630adff54330.png)
+
