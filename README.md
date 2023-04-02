@@ -1554,6 +1554,8 @@ Switzerland's Best Kept Secret (Proposition Pending ™)
 ---
 ![image](https://user-images.githubusercontent.com/76194453/229329144-f4e1823f-74a1-4553-a3ed-c63748ff5f16.png)
 
+https://en.wikipedia.org/wiki/Waldst%C3%A4tte
+
 "The inclusion of Lucerne as a "fourth" Waldstätte is first mentioned in an addition dated to the 1450s in the Silver Book of Egloff Etterlin."
 
 More probable in the second of the following two:
