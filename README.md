@@ -1751,3 +1751,22 @@ The red opening line reads: "How a slaughter at Buchennans [Buonas ZG] is besche
 
 ![image](https://user-images.githubusercontent.com/76194453/229340093-36b18a55-55e9-4a58-b25e-d786a627b92a.png)
 
+![image](https://user-images.githubusercontent.com/76194453/229340871-1d6d3eed-69c8-4b63-8233-9d04083dc3ad.png)
+
+" Due to his incorrect behavior in the trial of Bishop Jost von Silinen from Lucerne, who was expelled from Valais by Der Matze, he was involved in a lengthy injury trial with the influential mayor Ludwig Seiler of Lucerne in 1496 and on May 18, 1498 for a long time, if not forever Time banned from the Lucerne area. R. , who first moved to Valais and then to Uri, tried to initiate a revision of the process in 1498 by arguing that he had accidentally put the documents in his favor instead of the files in his beret. When the Confederates' war against the German Empire broke out in 1499, R.under the banner of Uri as a simple mercenary on the field. On March 28, 1499 he was occupied at Rheineck. From there his comrades-in-arms, even Mayor Seiler, applied to the Council of Lucerne for a pardon for the impoverished, unfortunate knight. On July 20, 1499, Count Itelfritz von Zollern attacked Rheineck and R. was killed. The Diet honored the memory of the unfortunate by paying off the debts that R. had contracted in Rheineck during the war.
+
+literature
+A. Bernoulli, Die Luzerner Chronik des Melchior Ruß, Basel 1872. — Leaves of the Society for Regional Studies of Lower Austria XIII, 393 to 397. —
+Hungerbühler, Étude critique sur les traditions , 60—62. —
+Kleissner, The Sources of the Battle of Sempach, 57-63. —
+Kopp, Documents on the history of the eidgen. Bünde I, 22. —
+Historical Journals from Switzerland II, 351-353. — Th. Liebenau, Knight Melchior Russ. Swiss Journals for Science and Art, 1870. —
+R. v. Liliencron, historian. Folk songs I, 145. - O. Lorenz, historical sources of Germany, 2nd edition, I, 103 to 106; II, 336. —
+New Year's Journal of the City Library of Zurich, 1817. —
+Rilliet, Swiss origin.
+Confederation (German by K. Brunner), 226 ff ., 345 ff. A.Ph.v. Segesser, Relations of the Confederates to M. Corvinus, Lucerne, 43 ff., 87-113; Segesser, Collection of Small Writings II, 209, 217, 252 ff., 393-397. — W. Bischer, The legend of the liberation of the forest site. 49-55.
+
+author
+v. Liebenau" from https://www.deutsche-biographie.de/gnd100960154.html 
+
+
