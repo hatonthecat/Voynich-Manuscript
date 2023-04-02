@@ -1769,4 +1769,9 @@ Confederation (German by K. Brunner), 226 ff ., 345 ff. A.Ph.v. Segesser, Relati
 author
 v. Liebenau" from https://www.deutsche-biographie.de/gnd100960154.html 
 
+![image](https://user-images.githubusercontent.com/76194453/229341512-69a977cd-aa00-4b45-bfa6-dbef4ec55fab.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229341792-54c52aec-0751-46f1-ab96-09c9c7b186aa.png)
+
+Deep in history and religion- the past couple days I was thinking, those who will first understand the story are of the faith, but I will not limit myself to that idea. That said, it would not be the first time that this attitude would be understood by only the truly pious.
 
