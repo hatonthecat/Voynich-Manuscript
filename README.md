@@ -1541,7 +1541,7 @@ Update: I had the cantons pictured above in the wrong order- sorted year by offi
 
 ![image](https://user-images.githubusercontent.com/76194453/229326550-e9cf05dd-029c-49ec-8cdd-16174f2cabc0.png
 
-The red checkmarks indicate the birth place (Schwyz) and region where Josse last presided over (Sitten) (Click on chart for full list, as some are  cut off- i only included 25, because my monitor didn't allow me to snip it without shrinkng the text- the last canton was in 1900, but clicking the chart allows you to see the Valais checkmark, as the PDF cuts off past ~22)
+The red checkmarks indicate the birth place (Schwyz) and region where Josse last presided over (Sitten) (Click on chart for full list, as some are  cut off- i only included 25, because my monitor didn't allow me to snip it without shrinkng the text- the last canton was in 1900, but clicking the chart for viewers of the  PDF version with internet connection allows you to see the Valais checkmark at 23, as the PDF cuts off past ~22)
 
 ![image](https://user-images.githubusercontent.com/76194453/229326652-439e1b2f-33e8-4f02-be62-f372e6223225.png) chechmarks are not comprehensive list of cantons where he had resided in, merely a personal reference.
 
