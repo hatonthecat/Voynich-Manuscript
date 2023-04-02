@@ -1775,3 +1775,26 @@ v. Liebenau" from https://www.deutsche-biographie.de/gnd100960154.html
 
 Deep in history and religion- the past couple days I was thinking, those who will first understand the story are of the faith, but I will not limit myself to that idea. That said, it would not be the first time that this attitude would be understood by only the truly pious.
 
+p.16
+![image](https://user-images.githubusercontent.com/76194453/229342237-d4e86b74-569c-4cbe-9b16-ab503c108a1a.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229342695-1627fb5f-90ff-415c-bd73-add5f5dc2426.png)
+Coat of Arms 
+78V
+
+![image](https://user-images.githubusercontent.com/76194453/229342926-ac5b8e04-fd6a-4925-833a-c258ab53d5c1.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229342988-4162e1f9-3aba-42e1-8f9e-54dcad9ceaa8.png)
+
+
+
+80V
+![image](https://user-images.githubusercontent.com/76194453/229342883-2524482c-4d38-4160-9ee5-2e7ba8b9690c.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/76194453/229342744-986afa0f-9480-4a73-aa7f-93747a78e7df.png)
+
+
+![image](https://user-images.githubusercontent.com/76194453/229342668-b5c99d7e-ae77-4808-a1a6-08cbef604a9c.png)
