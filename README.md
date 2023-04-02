@@ -1922,3 +1922,9 @@ To be continued:
 ![image](https://user-images.githubusercontent.com/76194453/229377905-bbd733c0-e290-405b-a52e-d8568bf51cc1.png)
 
 constructed 1610: https://en.wikipedia.org/wiki/Biblioteca_Civica_Gambalunga (no information suggests this library was a repository for Kaspar's secret manuscript, as it began construction 93 years prior his death. Picture was chosen for aesthetics.
+
+Although, this location is quite an interesting place to begin a search:
+
+"The collection holds 226,000 books, including 60,000 rare books (among which are 380 incunabula and nearly 5,000 16th-century editions), 1,350 codices, 6,000 prints, ca. 2,400 periodicals (330 current serials), music scores, cd-roms, audiocassettes, and films. An 11th-century Evangelarium and an early 12th-century codex of Honorius Augustodunensis and a codex by Hugh of Saint Victor are examples of the Beneventan script."
+
+350 prior to 1500, and 5,000 16th century editions-perhaps some indicate more information on the records as to what Kaspar was carrying at the time of his ambush, and what possibly happened to his belongings? Assuming these records are not all digitized yet, it is possible that some of the records might have some information as to what books transferred, perhaps from a sale record.
