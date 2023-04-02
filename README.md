@@ -2017,4 +2017,4 @@ For reference, p 1R
 
 p.18 by doctor, suggests they are initials- they look like V, dragon, and/or or serpent, esp the one on the top right of 1r and the bottom left of 1R
 
-
+Also, based on the age of the red dragon ink, and even though I am not an expert, appear to be part of the text and not added later. i.e as an initial, or the technical word for a non-historiated (or obliquely historiated) letter  https://en.wikipedia.org/wiki/Initial
