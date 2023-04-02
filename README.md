@@ -1818,6 +1818,9 @@ https://en.wikipedia.org/wiki/Kapellbr%C3%BCcke
 I had missed 85V section in the last crop- I had only the page to the right- as Dr. Bernhart-Konigstein suggests on p.17, it is the Lucerne lookout point, but I have not been able to locate any present buildings- likely they are some of the current towers along the bridge:
 ![image](https://user-images.githubusercontent.com/76194453/229346401-964fb973-99d6-48df-a30d-d60f90d96c35.png)
 
+Quite a few results (26) found, many which have striking resemblance to the Voynich manuscript:
+
+https://www.e-codices.ch/en/search/all?sQueryString=Jost+of+Silenen&sSearchField=fullText&sSortField=score&iResultsPerPage=20&aSelectedFacets=
 
 
 
