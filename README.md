@@ -1745,3 +1745,9 @@ https://de.wikipedia.org/wiki/Melchior_Russ -every single reference is astoundin
 
 ![image](https://user-images.githubusercontent.com/76194453/229339535-de6cf733-8680-49d0-bd62-c2578f237a55.png)
 
+"Initial from his chronicle, around 1482 ( Lucerne Central and University Library, special collection, Ms. 1a fol., p. 23 ).
+
+The red opening line reads: "How a slaughter at Buchennans [Buonas ZG] is beschechenn." According to Russ, the meeting between the Confederates and Austria took place in 1333."
+
+![image](https://user-images.githubusercontent.com/76194453/229340093-36b18a55-55e9-4a58-b25e-d786a627b92a.png)
+
