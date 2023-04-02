@@ -2004,7 +2004,7 @@ https://archive.org/details/mundussubterrane00unse/page/n9/mode/2up
 https://archive.org/download/mundussubterrane00unse
 ![image](https://user-images.githubusercontent.com/76194453/229382981-8513ccd7-3488-4994-9645-6d4ca8fa4b8a.png)
 
-For the time being, this information is being presented, without any claim to chronological order. It is merely acknowledging that Kirchner wrote about dragons in Mundus Subterraneusw, whether from the Voynich Manuscript or other source.  In a sea of information, I can sort out the sequence (navigation) later.
+For the time being, this information is being presented, without any claim to chronological order. It is merely acknowledging that Kirchner wrote about dragons in Mundus Subterraneus, whether from the Voynich Manuscript or other source.  In a sea of information, I can sort out the sequence (navigation) later.
 ---
 5:49PM
 ---
