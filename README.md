@@ -1958,4 +1958,50 @@ https://www.europediaries.com/mythslegends-and-folklore-from-switzerland-mythica
 
 This Legend coincides around the time that Kaspar was on the Lucerne council, and possibly in charge of the tourism department :)
 
+https://stock.adobe.com/search?k=basel+basilisk&asset_id=40666332 
 
+http://basel.all-about-switzerland.info/basilisk-fable-heraldic-animal.html
+
+https://www.basellife.com/basels-basilisks/
+
+https://en.wikipedia.org/wiki/Pilatus_(mountain) (Dragon ride)
+
+https://www.youtube.com/watch?v=vuL1C5D1ejM Dragon World 
+https://www.pilatus.ch/en/discover/dragon-world
+
+https://abookofcreatures.com/2017/12/18/the-mysterious-dragon-of-lucerne/
+
+![image](https://user-images.githubusercontent.com/76194453/229382630-dd8500ea-6204-47d2-b80f-fe70b4e74448.png)
+
+"I’m going to tell you a story. The marvelous tale of Vietor, the cooper of Lucerne. His adventures are told in Kircher’s Mundus Subterraneus. Scheuchzer copies the story and adds the image you see above in his Itinera Alpina.
+
+Vietor was a humble cooper (that is, he makes barrels) who lived in Lucerne around 1420. He set out one day to fetch wood on the slopes of Mount Pilatus, only to fall through a deep pit. The cave Vietor ended up had no exit save the one he fell in from, and the walls were too steep and dangerous to scale. Somehow this situation got even worse when two hideous dragons showed up!
+
+Fortunately for Vietor, his prayers were answered and the dragons were not allowed to harm him (or maybe they were already harmless? The text makes it clear that it’s a miracle though). They weren’t much help either. The dragons spent their time sleeping or eating a sort of oozy liquid that came out of the rocks. Vietor followed their example. On this meager diet and in the slithery companionship of the dragons he survived from November 6 to April 10 – 6 months. On the last day the dragons took to the air to find greener fields, and Vietor held on to the second dragon’s tail as it took off.
+
+Thus Vietor escaped his imprisonment in the cave and returned to Lucerne, where he had long been thought dead. But his liquid diet had ruined his digestive system, and he died two months later.
+
+I bet you’re wondering what the dragon image has to do with all this. Well, before Vietor died he had the dragons and himself embroidered on a chasuble, which was presented to Saint Leodegarius’ Church in Lucerne. Scheuchzer reproduces the image of one of the dragons.
+
+And that’s where Scheuchzer gets sassy about it, pointing out that it looks a lot like an imperial Chinese dragon. So what exactly happened? My guess is that a piece of far Eastern embroidery somehow ended up in Lucerne*, and the story of Vietor grew around that piece of cloth long after its origin was forgotten. At any rate all records of the event were destroyed in a fire.
+
+*Now there’s an Indiana Jonesesque adventure plot if I’ve ever seen one.
+
+Which just goes to prove how much cultural cross-pollination was constantly happening. Folklore and mythology doesn’t happen in a vacuum.
+
+Vietor’s dragonscapades were also colorfully retold in Usborne’s Stories For Young Children by Christopher Rawson and Stephen Cartwright. It’s also where I first read the story, long before embarking on ABC. Here he has the more common name of Victor."
+
+
+Kircher, who wrote Mundus Subterraneus book, is said to be one of the owners of the Voynich Manuscript:
+
+![image](https://user-images.githubusercontent.com/76194453/229382847-1b9e6102-78ce-4b2f-9f08-0700ee7adea5.png)
+
+https://en.wikipedia.org/wiki/Mundus_Subterraneus_(book) So does this mean there is a connection? Or that Kirchner added the dragons in the margins after the fact, having been aware of Lucerne's folklore? Or did he do his own research and later tell the story of the Pilates dragons, seeing Kaspar or Jost's dragon on page 1R? 
+The full book is available at internet archive: PDF is 150MB, larger size formas avaialble:
+
+https://archive.org/details/mundussubterrane00unse/page/n9/mode/2up 
+
+https://archive.org/download/mundussubterrane00unse
+![image](https://user-images.githubusercontent.com/76194453/229382981-8513ccd7-3488-4994-9645-6d4ca8fa4b8a.png)
+
+For the time being, this information is being presented, without any claim to chronological order. It is merely acknowledging that Kirchner wrote about dragons in Mundus Subterraneusw, whether from the Voynich Manuscript or other source.  In a sea of information, I can sort out the sequence (navigation) later.
