@@ -1533,6 +1533,8 @@ English- Machine translated: https://github.com/hatonthecat/Voynich-Manuscript/b
 
 https://digital.idiotikon.ch/idtkn/id3.htm#!page/30529/mode/1up
 
+There doesn't appear to be any significant information of Jost von Silenen's Kussnacht am Rigi's hometown's coat of arms information from this translated paper, although I included it in case any early influence went into the design of his later manuscript, such as the stars or other features that could have been present in the 14th and 15th century. 
+
 https://search.ortsnamen.ch/de/record/802001331/
 
 ![image](https://user-images.githubusercontent.com/76194453/229325908-8df16f52-b47f-43d5-8c9d-cf0442f57865.png)
