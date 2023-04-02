@@ -1930,3 +1930,21 @@ Although, this location is quite an interesting place to begin a search:
 350 prior to 1500, and 5,000 16th century editions-perhaps some indicate more information on the records as to what Kaspar was carrying at the time of his ambush, and what possibly happened to his belongings? Assuming these records are not all digitized yet, it is possible that some of the records might have some information as to what books transferred, perhaps from a sale record.
 
 ![image](https://user-images.githubusercontent.com/76194453/229378492-5f5c3a85-ca59-4e75-92e4-395e7f30c52f.png)
+
+4:02PM
+
+Murten coat of arms:
+
+![image](https://user-images.githubusercontent.com/76194453/229378873-66cc8261-bbf5-47a3-a33e-fa1aa8896528.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229378898-daef27e4-1b5f-48e6-b6fe-69faebfb1a80.png)
+![image](https://user-images.githubusercontent.com/76194453/229378921-69b4e5d9-ee9e-43bb-91ed-fef1d064a82a.png)
+https://www.e-codices.ch/en/list/one/snm/LM004624-2
+https://en.wikipedia.org/wiki/Murten
+
+p 132
+https://en.wikipedia.org/wiki/Basilisk p.2?
+https://www.europediaries.com/mythslegends-and-folklore-from-switzerland-mythicalmondays/
+https://en.wikipedia.org/wiki/Visconti_of_Milan 
+
+![image](https://user-images.githubusercontent.com/76194453/229379348-c3458c3f-ee30-403f-b61a-ee1269a10e23.png)
