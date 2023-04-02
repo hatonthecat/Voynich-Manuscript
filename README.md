@@ -2018,3 +2018,20 @@ For reference, p 1R
 p.18 by doctor, suggests they are initials- they look like V, dragon, and/or or serpent, esp the one on the top right of 1r and the bottom left of 1R
 
 Also, based on the age of the red dragon ink, and even though I am not an expert, appear to be part of the text and not added later. i.e as an initial, or the technical word for a non-historiated (or obliquely historiated) letter  https://en.wikipedia.org/wiki/Initial
+
+I will return to the dragon later- somehow Kirchner knew of the Lucerne folklore- either by being able ot decipher the text, or having been told it from a previous owner. Basing it on the above information saying he tells a of a tale from Lucerne.
+
+6:25PM
+
+Switching gears, yesterday I located a Wikipedia entry mentioning Jost's father, Christian, and that he was the bailiff. As a note, not all wikipedia pages include all the information in each summary, thus toggling between the two and from external link sources reveals quite a bit. I had been curious of the Valais witch trials, and it now reveals p.20 how much of a role his father had: 
+
+![image](https://user-images.githubusercontent.com/76194453/229384761-173b59d4-7885-4be3-aca3-fff06f4ff67e.png)
+
+"He is the son of Christophe de Silenen, first vice-bailiff/lieutenant of the grand bailiff of Valais (or Landeshauptmann Statthalter ) (1426) and grand castellan of Sierre (1428), and Isabella de Chevron 1 , 3 ." 
+
+![image](https://user-images.githubusercontent.com/76194453/229384837-cf02a666-ccaf-43a1-8b57-9fe6a79faf1b.png)
+Wolff, 1963 , p.  433. [3] Son of Christoph, lieutenant of the grand bailiff of Valais (1426) 
+https://fr.wikipedia.org/wiki/Jost_von_Silenen
+
+
+
