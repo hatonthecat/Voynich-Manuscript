@@ -1944,7 +1944,18 @@ https://en.wikipedia.org/wiki/Murten
 
 p 132
 https://en.wikipedia.org/wiki/Basilisk p.2?
-https://www.europediaries.com/mythslegends-and-folklore-from-switzerland-mythicalmondays/
+
 https://en.wikipedia.org/wiki/Visconti_of_Milan 
 
 ![image](https://user-images.githubusercontent.com/76194453/229379348-c3458c3f-ee30-403f-b61a-ee1269a10e23.png)
+
+https://www.europediaries.com/mythslegends-and-folklore-from-switzerland-mythicalmondays/
+5.The dragons of Mt.Pilatus– Mount Pilatus in the Lucerne region is a hotspot for tourists.However, interesting stories and legends stem from there. For instance, one legend says that dragons with healing powers lived in the crevices of the mountain. Another story also details how a young cooper was stuck on Mount Pilatus, but stayed safe in a dragon’s cave through the winter. A different legend also stems from the region, according to which, the body of Pontius Pilate was sunk in the Lake Oberalp on Mount Pilatus,after trying to sink the body in other rivers.The ghost of Pilate appeared to cause thunderstorms in the area. People believed that it rose every year on Good Friday, ‘to wash the blood of Christ from its hands’. He is said to  have ultimately found peace in Pilatus.
+
+![image](https://user-images.githubusercontent.com/76194453/229382126-fd1b3726-db44-49c2-93c6-7a64b5dafd12.png)
+
+"In the early morning hours of 26 May 1499 there was a wondrous spectacle in Lucerne. After a terrible storm a gigantic, wingless dragon emerged from the tumultuous waters of the Reuss river near Spreuer bridge. The storm had probably caught the Lindworm by surprise and swept it from the Pilatus into Krienbach stream, which flows into the Reuss downriver of the Jesuit church. Several honorable and educated citizens vouched for the authenticity of this story."
+
+This Legend coincides around the time that Kaspar was on the Lucerne council, and possibly in charge of the tourism department :)
+
+
