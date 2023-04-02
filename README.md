@@ -1735,3 +1735,12 @@ Isaiah 11:6 Hebrew; Septuagint lion will feed
 Isaiah 11:11 That is, the upper Nile region
 Isaiah 11:11 Hebrew Shinar
 Isaiah 11:13 Or hostility"
+
+
+2:34AM
+
+I've googled Melchior Ross, and found a higher res image of the page with blue flowers:
+https://de.wikipedia.org/wiki/Melchior_Russ -every single reference is astounding 
+![image](https://user-images.githubusercontent.com/76194453/229339256-1753fa23-0a87-415d-b52d-258056abdb42.png)
+
+
