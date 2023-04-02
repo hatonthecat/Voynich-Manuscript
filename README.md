@@ -1580,3 +1580,10 @@ between 1469 and 1477 Lucerne, from Brugg. Probably son of the aarg. Landscribes
 10:33PM Day's Summary
 ---
 So as it may be apparent for any of my lurkers, this is a live, open-source crash course into early Swiss history- I am posting/live-blogging/micro-tweeting the snippets of information from any coincidental events during this period and region which I may find relevant. All this information is being researched in an improvised manner- very few assumptions are being made about "unrelated" cantons, as all regions, spanning from Western France, to Hapsburg, to Kingdoms of Italy are being examined- as Josse de Sion was a diplomat and travelled much of the lower continent, he certainly was well-rounded and exposed to many aspects of world-class events, placing no minor emphasis on any of his encounters or influences.
+
+
+--
+10:48PM
+--
+"Ancient historiography made the forest cantons the starting point and the nucleus of the Confederation. This vision persisted until very recently, helped to form the historical consciousness of the Swiss and became, in the form of a myth, an essential part of Swiss identity." https://hls-dhs-dss.ch/de/articles/007465/2014-12-27/
+Well, true, but there's a lot more uncovered in this manuscript, apparently!
