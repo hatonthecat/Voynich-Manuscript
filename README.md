@@ -1851,7 +1851,6 @@ Original binding:
 
 ![image](https://user-images.githubusercontent.com/76194453/229370660-374c03a9-e8e2-4c19-927d-62a47701263d.png)
 
-![image](https://user-images.githubusercontent.com/76194453/229370665-6f326c9f-ce81-4451-90d4-858e2102c231.png)
 
 While probably not intended for a polished edition, the length, width, and thickness of the pages, including the vellum, binding material, and ink of the Voynich manuscript could reveal much about whether the some or all of the same components were used or sourced from the same region and the Silenen Breviary.  
 
@@ -1870,8 +1869,19 @@ https://www.e-codices.ch/en/thumbs/snm/LM004624-2/ Click 4 rectangles to view al
 
 ![image](https://user-images.githubusercontent.com/76194453/229370593-1d00e840-6499-48fa-9032-33e21129e1de.png)
 
+from https://voynich.nu/illustr.html
+
+![image](https://user-images.githubusercontent.com/76194453/229372067-e780bc38-cdcb-46c9-9f8d-0d8d545e0897.png)
 
 
 ![image](https://user-images.githubusercontent.com/76194453/229370275-761742d8-0938-438f-b2f8-d3882c360ec8.png)
 
+"As an envoy of the Confederation, he stayed at the court of King Louis XI in 1472, among other things. and in 1474, on his behalf, made a significant contribution to the conclusion of the eternal direction between the Confederates and Duke Sigismund von Habsburg."
+from https://hls-dhs-dss.ch/de/articles/012798/2011-11-25/ 
+
+"He became a supporter of the French cause in Switzerland 1 . King Louis XI of France made him his delegate to the Swiss Confederation between 1473 and 1480 4 ."  from French wiki entry:  https://fr.wikipedia.org/wiki/Jost_von_Silenen
+
+Louis XI, who ruled from 1461-1483, probably tasked Jost von Silenen with some errands in Paris even if he was not in Paris himself when me met/appointed him. 
+
+Locations of King Louis XI circa 1472: https://fr.wikipedia.org/wiki/Louis_XI#Le_duel_avec_Charles_le_T%C3%A9m%C3%A9raire 
 
