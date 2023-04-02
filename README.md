@@ -1550,7 +1550,7 @@ The red checkmarks indicate the birth place (Schwyz) and region where Josse last
 Language of Kussnacht SZ canton in early 1400s: https://de.wikipedia.org/wiki/Fr%C3%BChneuhochdeutsche_Sprache
 
 ---
-Switzerland's Best Kept Secret
+Switzerland's Best Kept Secret (Proposition Pending ™)
 ---
 ![image](https://user-images.githubusercontent.com/76194453/229329144-f4e1823f-74a1-4553-a3ed-c63748ff5f16.png)
 
