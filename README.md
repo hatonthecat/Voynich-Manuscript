@@ -2114,4 +2114,7 @@ from https://upload.wikimedia.org/wikipedia/commons/4/4e/Piatnik_Tell_Vilmos_186
 
  https://blog.nationalmuseum.ch/2017/10/kuessnacht-hohle-gasse-geschichte-raus-mythos-rein/
  
- 
+ ---
+9:03 PM 
+---
+I am still on page 32 of 42 of the machine translated German section (the first part) of the Doctor's summary. I can completely understand why he wrote the summary, as, if he began this research as early as 2020, I can see how long it could have taken to research all this, and, may have been also just recently cracked within a matter of months. In any case, tracking each reference takes quite a bit of time, and, I initially skimmed most of the material in my first read. I imagine completing the references from 32-42 will take me another day, and while I already skipped some, may return to those later, as I have just focused on the recognizeable clues and the more central events, such as the Rutli oath and the cantons' coat of arms. I plan to post more tomorrow but may post more tonight as well.
