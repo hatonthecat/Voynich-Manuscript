@@ -2185,6 +2185,9 @@ It's All German to Me, No longer
 
 ![image](https://user-images.githubusercontent.com/76194453/229411156-3fa59215-068a-4146-828f-244e7b704a68.png)
 
+ p.36
+ ![image](https://user-images.githubusercontent.com/76194453/229412215-b1729a5d-9b6a-43c6-b83b-13cc14db0ed9.png)
+
  
  https://en.wikipedia.org/wiki/Brugg Out of context, a missing letter would certainly throw off intelligible reading of Bruggs, the northern Swiss municipality in the canton of Aargau, prompting me to think of that Monty Python scene in the Quest for the Holy Grail, The Caves of Caerbannog where they read about "here may be found the last words of Joseph of Arimathea he who is valiant and pure of spirit may find the Holy Grail in the castle of Aaargh...." 
  https://www.youtube.com/watch?v=GEcvSq4SDkc 
