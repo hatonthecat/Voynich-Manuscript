@@ -2238,6 +2238,15 @@ Congratulations to Gregor Bernhart-Königstein for finding this discovery, I am 
 
 This is a project where fewer, to no search filters are going to help more than too many, because of the breadth of topics. I do not know how much of the Voynichese he has decoded, but this is certainly an example where individual disciplines are too overfitted for analysis. Unravelling this manuscript requires a constant play between metaphorical and literal meanings, and knowing the contemporary folklore of the 1400s.
 
+In a way, since the industrial age (the 1800s onwards), we've all been a little overfitted! https://en.wikipedia.org/wiki/Overfitting The specialization of labor has led to many lost knowledge, even if production gains improved: https://en.wikipedia.org/wiki/Division_of_labour
+
+![image](https://user-images.githubusercontent.com/76194453/229584730-9a27686e-5ebb-4992-88ef-93345ce8eff0.png)
+
+p.22
+![image](https://user-images.githubusercontent.com/76194453/229584685-ad4aceb8-3469-468a-a983-aac01c61c5fe.png)
+
+And too, we have lost our geniuses and Rennaissance men. See this wonderful article by Erik Hoel: https://erikhoel.substack.com/p/why-we-stopped-making-einsteins
+
 With the 100 years war ending in the 1450s, Valais witch trials, internal civil war in Switzerland, and Papal challenges, it is no surprise this thorny book made its way throughout the annals of history imperceptably to virtually everyone. 
 ![image](https://user-images.githubusercontent.com/76194453/229583258-fb14515c-ea47-42cc-a3dc-8862c34361b1.png)
 
