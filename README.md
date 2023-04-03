@@ -2053,3 +2053,13 @@ Valsch aBvey (Valais Abbey) According to the Dr. on p.26, he says the last page 
 ![image](https://user-images.githubusercontent.com/76194453/229388171-c3371d73-a14d-47d9-8bcd-84d9e0dd94ad.png)
 
 https://en.wikipedia.org/wiki/Abbey_of_Saint-Maurice_d%27Agaune
+
+It has taken me a while to figure out what tower it is in the center fold out, but I had not read the entire translation- it does appear to resemble Sforza castle much more:
+
+![image](https://user-images.githubusercontent.com/76194453/229388554-e962bb49-c23f-4eab-bb43-5625dcb874ea.png)
+![image](https://user-images.githubusercontent.com/76194453/229388660-058352cb-8cb9-41c8-a03a-60c1bf9040e5.png)
+
+Of course it is! 
+
+https://en.wikipedia.org/wiki/Castello_Sforzesco 
+Built	1360–1499
