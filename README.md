@@ -1017,6 +1017,16 @@ Historically, different breviaries were used in the various parts of Christendom
 
 Well, the Voynichese probably isn't an attempt at hymn/sheet music, but one can wonder: https://en.wikipedia.org/wiki/Hymn#Western_church  
 
+Edit: The  Master of the Breviary: https://de.wikipedia.org/wiki/Meister_des_Breviers_des_Jost_von_Silenen  
+
+https://www.e-codices.unifr.ch/de/list/one/psle/0003a
+
+"The unknown miniaturist got his notname from his researcher Albert Jörger for his main work, a Latin breviary from 1493. This book of hours was provided with magnificent miniatures for the at times powerful diplomat and church prince Jost von Silenen (* 1435/1445, † 1498). has been kept in the Landesmuseum Zurich since 1899 .
+
+Thirteen works can be attributed to this illuminator. His oldest dated work from 1488 is a Latin antiphonary ( Antiphonale ) with musical notes for the book owner Rudolph Stos (alias Roletus Stoss, frater OFM, fl. 1483/1500), now preserved in Friborg (Switzerland), Franciscan monastery (Cordeliers, library Ms. 6)."
+
+
+
 I imagine it was more likely used to store more important diplomatic, historical foundings of Swiss Confederacy, and constitutional charters, him being a Prince-Bishop.
 
 4:16PM
