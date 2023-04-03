@@ -2118,3 +2118,36 @@ from https://upload.wikimedia.org/wikipedia/commons/4/4e/Piatnik_Tell_Vilmos_186
 9:03 PM 
 ---
 I am still on page 32 of 42 of the machine translated German section (the first part) of the Doctor's summary. I can completely understand why he wrote the summary, as, if he began this research as early as 2020, I can see how long it could have taken to research all this, and, may have been also just recently cracked within a matter of months. In any case, tracking each reference takes quite a bit of time, and, I initially skimmed most of the material in my first read. I imagine completing the references from 32-42 will take me another day, and while I already skipped some, may return to those later, as I have just focused on the recognizeable clues and the more central events, such as the Rutli oath and the cantons' coat of arms. I plan to post more tomorrow but may post more tonight as well.
+
+---
+10:17PM
+---
+
+I continue to be amazed by this "summary" it is so packed with clues, that I have been able to see many of the hints in a convincing new light.
+p.32
+![image](https://user-images.githubusercontent.com/76194453/229403821-5525afed-4741-4982-9345-a8bbb7ae5cd9.png)
+
+Starting with the middle picture, which is easier to point out:
+![image](https://user-images.githubusercontent.com/76194453/229403694-83497f37-ed01-4794-9ade-a59bb3e8e7c6.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229404051-ca3a17af-d927-4cf6-ab0b-71f8973361f9.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229405266-9de08cbb-7844-4cf7-b1ba-371db183d17c.png)
+
+Background: 
+
+https://en.wikipedia.org/wiki/Grey_League
+
+https://en.wikipedia.org/wiki/Chur
+![image](https://user-images.githubusercontent.com/76194453/229404656-21eaf4d9-4518-4f53-9f58-0afdea318e72.png)
+
+https://en.wikipedia.org/wiki/Grisons 
+
+"The Grisons (/ɡriːˈzɒ̃/,[3] French: [ɡʁizɔ̃]) or Graubünden (German: [ɡraʊˈbʏndn̩] (listen)),[note 1] more formally the Canton of the Grisons or the Canton of Graubünden,[4] is one of the twenty-six cantons of Switzerland. It has eleven regions, and its capital is Chur. The German name of the canton, Graubünden, translates as the "Grey Leagues", referring to the canton's origin in three local alliances, the Three Leagues. The other native names also refer to the Grey League: Grischùn in Sutsilvan, Grischun in the other forms of Romansh, and Grigioni in Italian. Rhaetia is the Latin name for the area. The Alpine ibex is the canton's heraldic symbol."
+
+![image](https://user-images.githubusercontent.com/76194453/229405320-6073af4b-3332-4294-8321-cd1e10398b55.png)
+
+By Marco Zanoli, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=2050250
+
+![image](https://user-images.githubusercontent.com/76194453/229405808-43751a9b-040c-4cfe-8570-3d8a8cec63f0.png)
+
