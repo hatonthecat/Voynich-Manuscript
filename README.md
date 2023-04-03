@@ -2200,3 +2200,8 @@ It's All German to Me, No longer
  
  This is just a higher resolution comparison of the coat of Arms identified by Dr. Bernhart-Konigstein on p.35 to be referred to on the top left margin of 8v:
 ![image](https://user-images.githubusercontent.com/76194453/229421679-95dcd6c3-8a9e-4aed-abbb-5258760d1188.png)
+
+
+ p.37 footnnote
+https://en.wikipedia.org/wiki/Austrian_Chronicle_of_the_95_Rulers
+https://fedora.phaidra.univie.ac.at/fedora/objects/o:856796/methods/bdef:Book/view#
