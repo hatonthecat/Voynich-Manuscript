@@ -2234,7 +2234,7 @@ Albin Murtens (Elder brother), Jost, Kaspar, and Christopher?
 ---
 4/3/23 12:13PM
 ---
-Congratulations to Gregor Bernhart-Königstein for finding this discovery, I am your his  supporter! 
+Congratulations to Gregor Bernhart-Königstein for finding this discovery, I am his first supporter! 
 
 This is a project where fewer, to no search filters are going to help more than too many, because of the breadth of topics. I do not know how much of the Voynichese he has decoded, but this is certainly an example where individual disciplines are too overfitted for analysis. Unravelling this manuscript requires a constant play between metaphorical and literal meanings, and knowing the contemporary folklore of the 1400s.
 
