@@ -2068,3 +2068,5 @@ Built	1360–1499
 though it is unclear if it was meant to conceal complete similarity:
 
 ![image](https://user-images.githubusercontent.com/76194453/229389541-cd25c6a2-4419-42f2-b12f-7e77e1becd0d.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229389632-fe51ddda-71ee-4420-8b06-c0ccf0c0850b.png)
