@@ -2173,3 +2173,18 @@ https://en.wikipedia.org/wiki/Thun
 
 p.34
 ![image](https://user-images.githubusercontent.com/76194453/229407482-cdd4f65c-bf7c-4c6d-a056-4895cf96c9ef.png)
+
+p.35, refrence to https://en.wikipedia.org/wiki/Battle_of_Morgarten
+
+---
+It's All German to Me, No longer 
+---
+![image](https://user-images.githubusercontent.com/76194453/229410720-7e5ed646-a8ab-49e0-9a12-5486c1afc5b4.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229410982-05e6b899-06d9-4f68-a8d0-78007ea1dcc7.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229411156-3fa59215-068a-4146-828f-244e7b704a68.png)
+
+ 
+ https://en.wikipedia.org/wiki/Brugg Out of context, a missing letter would certainly throw off intelligible reading of Bruggs, the norther swiss municipality in the canton of Aargau, prompting me to think of that Monty Python scene in the Quest for the Holy Grail, The Caves of Caerbannog where they read about the "s here may be found the last words of Joseph of Arimathea he who is valiant and pure of spirit may find the Holy Grail in the castle of Aaargh...." 
+ https://www.youtube.com/watch?v=GEcvSq4SDkc 
