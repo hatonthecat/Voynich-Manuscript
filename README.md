@@ -2152,21 +2152,24 @@ By Marco Zanoli, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=2
 
 F1V
 
-
-
 ![image](https://user-images.githubusercontent.com/76194453/229406277-f679ba27-0952-4e67-be6b-7d21e6e44978.png)
-
-![image](https://user-images.githubusercontent.com/76194453/229407482-cdd4f65c-bf7c-4c6d-a056-4895cf96c9ef.png)
 
 
 ![image](https://user-images.githubusercontent.com/76194453/229407401-53e59bc9-d223-4b23-92b5-eb577fbb85b2.png)
 
-https://en.wikipedia.org/wiki/Thun
 
 ![image](https://user-images.githubusercontent.com/76194453/229408352-998565ec-aac4-4dba-a472-271345c73bd1.png)
-f52 appears similar to ![image](https://user-images.githubusercontent.com/76194453/229408628-11c2a58d-c4a9-45f8-8b85-cf334615f8d4.png)
+f52 appears similar to 
+![image](https://user-images.githubusercontent.com/76194453/229408628-11c2a58d-c4a9-45f8-8b85-cf334615f8d4.png)
 
 
 ![image](https://user-images.githubusercontent.com/76194453/229407551-fe9de8a1-9823-48ff-ad2b-e8bc2bcd9b59.png)
 
 ![image](https://user-images.githubusercontent.com/76194453/229407759-73f3b110-6d0c-4e32-bbc2-b91b5330ba61.png)
+
+
+
+https://en.wikipedia.org/wiki/Thun
+
+p.34
+![image](https://user-images.githubusercontent.com/76194453/229407482-cdd4f65c-bf7c-4c6d-a056-4895cf96c9ef.png)
