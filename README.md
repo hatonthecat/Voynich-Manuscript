@@ -2205,3 +2205,10 @@ It's All German to Me, No longer
  p.37 footnnote
 https://en.wikipedia.org/wiki/Austrian_Chronicle_of_the_95_Rulers
 https://fedora.phaidra.univie.ac.at/fedora/objects/o:856796/methods/bdef:Book/view#
+
+p.39
+![image](https://user-images.githubusercontent.com/76194453/229429541-f67aa5cc-71ac-4fdf-84e3-a7f84747159a.png)
+By for kind concession of the site http://www.ngw.nl, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=618551
+
+![image](https://user-images.githubusercontent.com/76194453/229429962-cd5833b2-e06f-4341-b3aa-ec1b0294ccd7.png)
+
