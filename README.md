@@ -2036,8 +2036,11 @@ https://fr.wikipedia.org/wiki/Jost_von_Silenen
 p.22
 ![image](https://user-images.githubusercontent.com/76194453/229385850-a7f0e620-6e9d-4369-9e2d-5cadcb0163b2.png)
 
+https://en.wikipedia.org/w/index.php?title=Leuk&oldid=1146709347
+"The town's first church dates from the 6th or 7th century and probably originated from a Roman building. This church was replaced in the 9th century by a larger building. It was replaced again in the 11th and 12th centuries. The romanesque bell tower of the current church is from this third building. The current church was built by Ulrich Ruffiner in the gothic style. It was richly furnished with altars and sculptures and was consecrated in 1494 as St. Stephan's Church by Bishop Jost von Silenen. "
 
 https://en.wikipedia.org/wiki/Leukerbad
 "In 1501, the Bishop and Cardinal Matthäus Schiner acquires the rights for the baths and speaks highly of the health resort during his visits; the thermal tourism develops. By that time, German (Walser German, brought by the Walser migrations) is spoken locally."
 https://en.wikipedia.org/wiki/Matth%C3%A4us_Schiner 
+
 
