@@ -2134,6 +2134,8 @@ Starting with the middle picture, which is easier to point out:
 
 ![image](https://user-images.githubusercontent.com/76194453/229405266-9de08cbb-7844-4cf7-b1ba-371db183d17c.png)
 
+![image](https://user-images.githubusercontent.com/76194453/229405808-43751a9b-040c-4cfe-8570-3d8a8cec63f0.png)
+
 Background: 
 
 https://en.wikipedia.org/wiki/Grey_League
@@ -2149,5 +2151,5 @@ https://en.wikipedia.org/wiki/Grisons
 
 By Marco Zanoli, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=2050250
 
-![image](https://user-images.githubusercontent.com/76194453/229405808-43751a9b-040c-4cfe-8570-3d8a8cec63f0.png)
+
 
