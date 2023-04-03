@@ -2212,3 +2212,9 @@ By for kind concession of the site http://www.ngw.nl, CC BY-SA 3.0, https://comm
 
 ![image](https://user-images.githubusercontent.com/76194453/229429962-cd5833b2-e06f-4341-b3aa-ec1b0294ccd7.png)
 
+p.40 
+
+https://en.wikipedia.org/wiki/Nicholas_of_Fl%C3%BCe
+https://commons.wikimedia.org/wiki/Category:Benedikt_von_Hertenstein_(Hans_Holbein_der_J%C3%BCngere_-_Metropolitan_Museum_of_Art)
+https://en.wikipedia.org/wiki/Alruna
+https://www.wga.hu/html_m/h/holbein/hans_y/1518/index.html
