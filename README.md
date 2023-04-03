@@ -2046,4 +2046,10 @@ https://en.wikipedia.org/wiki/Leukerbad
 "In 1501, the Bishop and Cardinal Matthäus Schiner acquires the rights for the baths and speaks highly of the health resort during his visits; the thermal tourism develops. By that time, German (Walser German, brought by the Walser migrations) is spoken locally."
 https://en.wikipedia.org/wiki/Matth%C3%A4us_Schiner 
 
+---
+7:35 PM
+---
+Valsch aBvey (Valais Abbey) According to the Dr. on p.26, he says the last page 116v refers to St. Maurice's Abbey in Valais(pictured above a few days ago)
+![image](https://user-images.githubusercontent.com/76194453/229388171-c3371d73-a14d-47d9-8bcd-84d9e0dd94ad.png)
 
+https://en.wikipedia.org/wiki/Abbey_of_Saint-Maurice_d%27Agaune
