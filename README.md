@@ -2230,3 +2230,20 @@ similarity to brothers in sky:
 85r2
 ![image](https://user-images.githubusercontent.com/76194453/229578134-f65f5354-374e-4f76-8ab7-d23a23043b43.png)
 Albin Murtens (Elder brother), Jost, Kaspar, and Christopher?
+
+---
+4/3/23 12:13PM
+---
+Congratulations to Gregor Bernhart-Königstein for finding this discovery, I am your his  supporter! 
+
+This is a project where fewer, to no search filters are going to help more than too many, because of the breadth of topics. I do not know how much of the Voynichese he has decoded, but this is certainly an example where individual disciplines are too overfitted for analysis. Unravelling this manuscript requires a constant play between metaphorical and literal meanings, and knowing the contemporary folklore of the 1400s.
+
+With the 100 years war ending in the 1450s, Valais witch trials, internal civil war in Switzerland, and Papal challenges, it is no surprise this thorny book made its way throughout the annals of history imperceptably to virtually everyone. 
+![image](https://user-images.githubusercontent.com/76194453/229583258-fb14515c-ea47-42cc-a3dc-8862c34361b1.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229583040-eefe86b2-6464-4f10-92c6-9725a9ca25b0.png)
+
+Jost had a difficult father, which doesn't mean he himself was destined to be the same, but the saying, "https://en.wiktionary.org/wiki/the_apple_does_not_fall_far_from_the_tree#:~:text=(file)-,Proverb,behavior%20and%20in%20physical%20characteristics."
+probably had more meaning back then, with family ties being much stronger. That isn't to say Jost became a terrifying bailiff and Grand Inquisitor of Sion, but that he channeled much of his reaction to the history of Valais into his codexes.
+
+Part of this was a struggle not only for his own survival, but the survival and establishment of the Swiss state!
