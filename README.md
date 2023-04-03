@@ -1851,10 +1851,17 @@ Original binding:
 
 ![image](https://user-images.githubusercontent.com/76194453/229370660-374c03a9-e8e2-4c19-927d-62a47701263d.png)
 
+New binding, side view: 
+
+![image](https://user-images.githubusercontent.com/76194453/229392602-279cb472-557b-4406-9709-46d42f41a344.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229392660-4ad0b2dc-e7b8-41a4-8c56-dd2e165369f2.png)
+
 
 While probably not intended for a polished edition, the length, width, and thickness of the pages, including the vellum, binding material, and ink of the Voynich manuscript could reveal much about whether the some or all of the same components were used or sourced from the same region and the Silenen Breviary.  
 
 ![image](https://user-images.githubusercontent.com/76194453/229371783-fd717a36-8301-49b9-b694-349c2f54dfe8.png)
+
 
 
 Breviary of Jost von Silenen: length: 21.6cm:
@@ -2088,5 +2095,16 @@ Perhaps this is Sion
 
 p.26 he suggests: ![image](https://user-images.githubusercontent.com/76194453/229391542-59dbff99-f0d3-4ea2-801e-6fda14cc8089.png)
 
+p.73V as he says, it sure looks like William Tell to me!
 
+![image](https://user-images.githubusercontent.com/76194453/229392798-93037876-7948-40c1-8d9c-aa796cc15a43.png)
 
+![image](https://user-images.githubusercontent.com/76194453/229392892-6690c19e-6bf7-4298-81cd-942a57308e5d.png)
+
+https://en.wikipedia.org/wiki/William_Tell#/media/File:Hodler_Tell_1897.jpg
+
+![image](https://user-images.githubusercontent.com/76194453/229393020-643aad7a-5fd0-4c1f-ac10-5112d9d70296.png)
+
+Here is wearing a blue hat here, although it's unclear what is meant by the long tube-like hat in the Voynich drawing. It could be a ribbon of sorts.
+
+![image](https://user-images.githubusercontent.com/76194453/229393581-3a9011b7-bba3-40fa-87d9-3719f29a1607.png)
