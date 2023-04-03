@@ -2256,3 +2256,9 @@ Jost had a difficult father, which doesn't mean he himself was destined to be th
 probably had more meaning back then, with family ties being much stronger. That isn't to say Jost became a terrifying bailiff and Grand Inquisitor of Sion, but that he channeled much of his reaction to the history of Valais into his codexes.
 
 Part of this was a struggle not only for his own survival, but the survival and establishment of the Swiss state!
+
+---
+5:03 PM
+---
+
+I have added all the remaining available translations available from Google Translate- the original document has been translated into over 125 languages- all 133 or so and are in the Translations Folder. There are 61 language pages on for the Wikipedia entry on the Voynich Manuscript, thus it can be useful for those who do not have a native translation available yet. French, Spanish, and Italian translations are listed in the main directory.
