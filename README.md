@@ -2263,7 +2263,7 @@ Part of this was a struggle not only for his own survival, but the survival and 
 
 I have added all the remaining available translations available from Google Translate- the original document has been translated into over 125 languages- all 133 or so and are in the Translations Folder. There are 61 language pages on for the Wikipedia entry on the Voynich Manuscript, thus it can be useful for those who do not have a native translation available yet. French, Spanish, and Italian translations are listed in the main directory.
 
-A presentation by Lisa Fagin Davis from 2022 has been posted on Youtube, and I referenced her early on in my 3/30 post ( https://github.com/hatonthecat/Voynich-Manuscript#3302023)  when I read Dr. Bernhart-Konigstein's mention of Kaspar von Silenen being suggested as one of the family scribes, along with Jost von Silenen (or according to Swiss archives, an intinerant master breviary. 
+A presentation by Lisa Fagin Davis from 2022 has been posted on Youtube https://www.youtube.com/watch?v=bqnaMRdBJ4U, and I referenced her early on in my 3/30 post ( https://github.com/hatonthecat/Voynich-Manuscript#3302023)  when I read Dr. Bernhart-Konigstein's mention of Kaspar von Silenen being suggested as one of the family scribes, along with Jost von Silenen (or according to Swiss archives, an intinerant master breviary. 
 
 Interestingly, one Wikipedia entry suggests, Egloff Etterlin, secretary of Lucerne who also drew in the margins of his cartularies: https://en.wikipedia.org/wiki/Egloff_Etterlin "It is uncertain whether Egloff himself was the author of a (lost) chronicle. Egloff died at some point between 1469 and 1477." Thus perhaps there are records of a different chronicle, unless 
 
