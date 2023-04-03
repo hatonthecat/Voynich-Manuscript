@@ -2220,4 +2220,13 @@ https://commons.wikimedia.org/wiki/Category:Benedikt_von_Hertenstein_(Hans_Holbe
 https://en.wikipedia.org/wiki/Alruna
 https://www.wga.hu/html_m/h/holbein/hans_y/1518/index.html
 
+
 ![image](https://user-images.githubusercontent.com/76194453/229454387-a201da75-c3c8-4a56-8570-43b057bb3a5d.png)
+similarity to brothers in sky:
+![image](https://user-images.githubusercontent.com/76194453/229577414-388efafb-9027-4e12-a80a-05a7af572b5f.png)
+
+ p.22-23 of Dr Bernhart (p.55 in English backsection)
+ 
+85r2
+![image](https://user-images.githubusercontent.com/76194453/229578134-f65f5354-374e-4f76-8ab7-d23a23043b43.png)
+Albin Murtens (Elder brother), Jost, Kaspar, and Christopher?
