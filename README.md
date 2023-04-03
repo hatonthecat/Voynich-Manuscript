@@ -2059,11 +2059,16 @@ It has taken me a while to figure out what tower it is in the center fold out, b
 ![image](https://user-images.githubusercontent.com/76194453/229388554-e962bb49-c23f-4eab-bb43-5625dcb874ea.png)
 ![image](https://user-images.githubusercontent.com/76194453/229388660-058352cb-8cb9-41c8-a03a-60c1bf9040e5.png)
 
+![image](https://user-images.githubusercontent.com/76194453/229389792-39518626-850e-4b96-bfd5-e4dd99a97528.png)
+
 Of course it is! 
 
 https://en.wikipedia.org/wiki/Castello_Sforzesco 
 Built	1360–1499
 ![image](https://user-images.githubusercontent.com/76194453/229388859-edb59b73-11a4-4389-b676-d844b4edcce3.png)
+
+
+
 
 though it is unclear if it was meant to conceal complete similarity:
 
