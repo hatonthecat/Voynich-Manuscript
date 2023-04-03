@@ -2067,7 +2067,11 @@ https://en.wikipedia.org/wiki/Castello_Sforzesco
 Built	1360–1499
 ![image](https://user-images.githubusercontent.com/76194453/229388859-edb59b73-11a4-4389-b676-d844b4edcce3.png)
 
+"German engraving from the 16th century, taken from the cabinet of M. Alfred Gérente." The main tower could have been damaged after the rendering, most likely, which would explain why the battlement is not conical and pointed
 
+"The original construction was ordered by Galeazzo II Visconti, a local nobleman, in 1358 – c. 1370;[1] this castle was known as the Castello di Porta Giova (or Porta Zubia), from the name of a gate in walls located nearby.[2] It was built in the same area of the ancient Roman fortification of Castrum Portae Jovis, which served as castra pretoria when the city was the capital of the Roman Empire. It was enlarged by Galeazzo's successors, Gian Galeazzo, Giovanni Maria and Filippo Maria Visconti, until it became a square-plan castle with 200 m-long sides, four towers at the corners and up to 7-metre-thick (23 ft) walls.[2] The castle was the main residence in the city of its Visconti lords, and was destroyed by the short-lived Golden Ambrosian Republic which ousted them in 1447.
+
+In 1450, Francesco Sforza, once he had shattered the republicans, began reconstruction of the castle to turn it into his princely residence. In 1452 he hired the sculptor and architect Filarete to design and decorate the central tower, which is still known as the Torre del Filarete. After Francesco's death, the construction was continued by his son Galeazzo Maria, under the architect Benedetto Ferrini. The decoration was executed by local painters. In 1476, during the regency of Bona of Savoy, the tower bearing her name was built."
 
 
 though it is unclear if it was meant to conceal complete similarity:
@@ -2075,3 +2079,5 @@ though it is unclear if it was meant to conceal complete similarity:
 ![image](https://user-images.githubusercontent.com/76194453/229389541-cd25c6a2-4419-42f2-b12f-7e77e1becd0d.png)
 
 ![image](https://user-images.githubusercontent.com/76194453/229389632-fe51ddda-71ee-4420-8b06-c0ccf0c0850b.png)
+
+
