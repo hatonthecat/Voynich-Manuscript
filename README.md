@@ -2108,3 +2108,10 @@ https://en.wikipedia.org/wiki/William_Tell#/media/File:Hodler_Tell_1897.jpg
 Here is wearing a blue hat here, although it's unclear what is meant by the long tube-like hat in the Voynich drawing. It could be a ribbon of sorts.
 
 ![image](https://user-images.githubusercontent.com/76194453/229393581-3a9011b7-bba3-40fa-87d9-3719f29a1607.png)
+from https://upload.wikimedia.org/wikipedia/commons/4/4e/Piatnik_Tell_Vilmos_1864.jpg
+
+![image](https://user-images.githubusercontent.com/76194453/229394332-92dc9d2d-2e19-4693-aee7-e56ccca85def.png)
+
+ https://blog.nationalmuseum.ch/2017/10/kuessnacht-hohle-gasse-geschichte-raus-mythos-rein/
+ 
+ 
