@@ -2262,3 +2262,16 @@ Part of this was a struggle not only for his own survival, but the survival and 
 ---
 
 I have added all the remaining available translations available from Google Translate- the original document has been translated into over 125 languages- all 133 or so and are in the Translations Folder. There are 61 language pages on for the Wikipedia entry on the Voynich Manuscript, thus it can be useful for those who do not have a native translation available yet. French, Spanish, and Italian translations are listed in the main directory.
+
+A presentation by Lisa Fagin Davis from 2022 has been posted on Youtube, and I referenced her early on in my 3/30 post ( https://github.com/hatonthecat/Voynich-Manuscript#3302023)  when I read Dr. Bernhart-Konigstein's mention of Kaspar von Silenen being suggested as one of the family scribes, along with Jost von Silenen (or according to Swiss archives, an intinerant master breviary. 
+
+Interestingly, one Wikipedia entry suggests, Egloff Etterlin, secretary of Lucerne who also drew in the margins of his cartularies: https://en.wikipedia.org/wiki/Egloff_Etterlin "It is uncertain whether Egloff himself was the author of a (lost) chronicle. Egloff died at some point between 1469 and 1477." Thus perhaps there are records of a different chronicle, unless 
+
+![image](https://user-images.githubusercontent.com/76194453/229638902-8d5b8a25-7375-495a-8c85-9c91478fb3b1.png)
+
+In many ways, Egloff and Jost had similar roles, as county clerks (and probably got bored at their desk jobs, thus resorted to doodling in their notebooks ; just kidding). 
+
+https://hls-dhs-dss.ch/de/articles/014113/2005-11-22/ I really don't kow if Egloff had a role- he died in 1470, while Sitten was still in Rome, but he at least had an influence on the style or tradition in the Valais region, but this edit was made three years ago:
+![image](https://user-images.githubusercontent.com/76194453/229639917-cc0dbac8-4a02-45a1-8db0-b4fd921fdcb5.png)
+
+around the time Dr. Bernhart-Konigstein's Windows folder shows VV file modifications/creations (which also suggests he has been quietly at work on this for nearly 3 years): ![image](https://user-images.githubusercontent.com/76194453/229640022-0ca648fc-059c-47d1-a748-5e8f7e38fad2.png)
