@@ -2396,8 +2396,10 @@ Skipping the the poetic aspect (Which I do agree with but included here just for
 
 https://gabebullard.substack.com/p/what-happened-to-weird-tv#details 
 
-So this post is for a certain type of armchair historians who look back at Rennaissance riddles with a mocking eye, an arrogant swagger, a dismissive attitude, because while clockmaking has surpassed church organs in Sion's economy, Jost von Silenen was a patron of the arts, because while he probably was aware of the clockmakers disruptive technology from the city centers of Paris and Milan, he probably thought that the Valère organ was the most magificent technology in the world, and no amount of watch hustlers could steer him away from the countryside to the ultramodern cities by trying to persuade him how much time he is saving. Jost von Silenen, a wiser man, needed no iPod to replace his liturgies.
+So this post is for a certain type of armchair historians who look back at Rennaissance riddles with a mocking eye, an arrogant swagger, a dismissive attitude, because while clockmaking has surpassed church organs in Sion's economy, Jost von Silenen was a patron of the arts, because while he probably was aware of the clockmakers disruptive technology from the city centers of Paris and Milan, he probably thought that the Valère organ was the most magificent technology in the world, and no amount of watch hustlers could steer him away from the countryside to the ultramodern metropolises by trying to persuade him how much time he is saving. Jost von Silenen, a wiser man, needed no iPod to replace his liturgies.
 ![image](https://user-images.githubusercontent.com/76194453/229677921-f91988d9-66d1-477a-9858-e9024cc9c59d.png)
+
+Hypthothesis: Jost-von Silenen was also the grandfather of Cottagecore.
 
 https://museum.seiko.co.jp/en/knowledge/MechanicalTimepieces01
 
