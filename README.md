@@ -1,3 +1,7 @@
+---
+4/4/2023
+----
+Since I use quotes extensively, they are key to these notes. If I am missing quotes anywhere, please let me know, as I take great effort to ensure quotes are always demarcated. Occasionally quotes will be featured within other quotes, and I may not always change the internal quotes to single apostophe, but the quotes are usually no more than a few paragraphs, so it should not be ambiguous as to where the quotes are from. If I had more time, I would indent every place where I am quoting or not quoting with a more visible marker such as boldfont and "Quote:" and "Me::" etc. 
 --
 Update: 4/3/2023: 
 --
@@ -2471,7 +2475,7 @@ https://www.youtube.com/watch?v=pl4plPGRG8o Jost's handwriting was not great, bu
 "15 April 1452 – 2 May 1519" 
 Crossbows were common, and it may have just been a coincidence that Jost sketched Sforza Palace, which was located in a city that Da Vinci frequented between 1483 and 1490:  
 
-While there is no exact date for the illustrations of Leonardo's crossbows, they are generally believed to be drafted between 1483 and the early 1490s.[4] Many scholars generally agree that Leonardo completed the drawings in the manuscript in Milan, but there is debate as to why he originally went there. Some believe he came to Milan in search of work as a painter and then he got news of Sforza's military desires upon arriving. Others suggest that the initial reason he came directly to Milan was to work for Sforza.[5]
+"While there is no exact date for the illustrations of Leonardo's crossbows, they are generally believed to be drafted between 1483 and the early 1490s.[4] Many scholars generally agree that Leonardo completed the drawings in the manuscript in Milan, but there is debate as to why he originally went there. Some believe he came to Milan in search of work as a painter and then he got news of Sforza's military desires upon arriving. Others suggest that the initial reason he came directly to Milan was to work for Sforza.[5]"
 https://en.wikipedia.org/wiki/Leonardo%27s_crossbow
 https://archive.org/details/leonardodavincis00land
 
