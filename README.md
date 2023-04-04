@@ -2571,3 +2571,19 @@ https://www.swiss-spectator.ch/deutsch-stift-st-michael-beromuenster/
 
 https://www.swiss-castles.com/st-michaels-monastery
 
+----
+
+"Knowing Like a State: The Transformation of Political Knowledge in Swiss Archives, 1450–1770
+Randolph Head
+The Journal of Modern History
+Vol. 75, No. 4 (December 2003), pp. 745-782 (38 pages)
+Published By: The University of Chicago Press"
+https://www.jstor.org/stable/10.1086/383353
+![image](https://user-images.githubusercontent.com/76194453/229916368-2347a9f7-fa23-4c5f-9ddf-7a33a9416892.png)
+
+https://www.e-codices.unifr.ch/en/list/stalu/Shelfmark
+
+https://www.e-codices.unifr.ch/en/thumbs/stalu/COD-1080/ Egloff Etterlein's cartulary The Silver Book 
+
+![image](https://user-images.githubusercontent.com/76194453/229917184-a838ecea-91cd-42d2-a2f2-3cde02b46174.png)
+
