@@ -2314,6 +2314,8 @@ Deleuze believed in Rhizomatic thinking: https://en.wikipedia.org/wiki/Rhizomati
 
 Achronism as an encipherization method, as well as a Bishops way of life. The only time that the Bishop probably needs to think about is that the world was created in six days, even though they were well aware of conventional time.
 
+https://criticalphysio.net/2015/01/22/metaphors-of-rhizomatic-thinking/#:~:text=Deleuze%20proposed%20an%20alternative%20way,'
+
 Time as assumed device for storytelling in chronological is the first error of typical narration. Narration is not synonymous with chronology. While liniguistic relativity theories such as  Sapir–Whorf were made much later (see this also: https://en.wikipedia.org/wiki/Pirah%C3%A3_language#Unusual_features_of_the_language), the expectation of of chronological storytelling is significatly more corellated to the industrial revolution when clockmaking was mass produced:
 
 "Origins and specialities
@@ -2414,4 +2416,4 @@ In Bakhtin's words: "In Rennaissance literature... the very concept that the Ren
 
 What better way to write a memoir by characterizing its era with the very playfulness that was seen in the Rennaissance's daily life? If Jost von Silenen was a patron of the arts, that alone does not suggest all of his non-chronological chronicles would necessitate a Michelangeloan brushstroke, but would at the very least hint somewhere in all of its prickliness, that there can be a comedy in a den of thieves. 
 
-https://criticalphysio.net/2015/01/22/metaphors-of-rhizomatic-thinking/#:~:text=Deleuze%20proposed%20an%20alternative%20way,'
+I think it is completely correct to begin the announcement of a deciphering the Voynich Manuscript with a poem, because it passes forward the concept of the Rennaissance, which is era the manuscript is from. None of the theories on the introductory paragraph of the Wikipedia entry have ever suggested that it is a comedy, yet comedies were not uncommon in the Rennaissance. A learned man like Jost von Silenen may have aspired to be like Dante or Chaucer, and while might not have been able to communicate poetically in letters ensnared in roots, seems to have been a master proto-Symbolist, and reveals a great mind like other Renaissance Men.  
