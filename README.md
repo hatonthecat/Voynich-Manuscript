@@ -2442,3 +2442,17 @@ In Bakhtin's words: "In Rennaissance literature... the very concept that the Ren
 What better way to write a memoir by characterizing its era with the very playfulness that was seen in the Rennaissance's daily life? If Jost von Silenen was a patron of the arts, that alone does not suggest all of his non-chronological chronicles would necessitate a Michelangeloan brushstroke, but would at the very least hint somewhere in all of its prickliness, that there can be a comedy in a den of thieves. 
 
 I think it is completely correct to begin the announcement of a deciphering the Voynich Manuscript with a poem, because it passes forward the concept of the Rennaissance, which is era the manuscript is from. None of the theories on the introductory paragraph of the Wikipedia entry have ever suggested that it is a comedy, yet comedies were not uncommon in the Rennaissance. A learned man like Jost von Silenen may have aspired to be like Dante or Chaucer, and while might not have been able to communicate poetically in letters ensnared in roots, seems to have been a master proto-Symbolist, and reveals a great mind like other Renaissance Men.  
+
+4/4/2023
+
+Many people who have stepped into Switzerland have become great philosophers- Nietsche, Herman Hesse. 
+
+https://www.youtube.com/watch?v=pqFwV2Ye3a0
+
+"But the title Magister Ludi is somewhat misleading, as it implies the book is a straightforward bildungsroman, when, in reality, the book touches on many different genres, and the bulk of the story is on one level a parody of the biography genre.[2]"
+
+Jost von Silenen created the Grimm's Fairy Tales equivalent of switzerland's folk heroes, in a compendium that is still being decoded, although it appears he has cemented his status as county clerk of Sion and county clerk of of the old Swiss Confederacy.
+
+
+
+
