@@ -2495,7 +2495,7 @@ Raphael was known to draw body-positive figures.
 Commonalities with Swiss Compatriot Egloff Eterlein
 ---
 
-Using graph theory to map commonalities might hep, such as Neo4J's GraphDBs, but a brief comparison:
+Using graph theory to map commonalities might help, such as Neo4J's GraphDBs, but a brief comparison:
 
 Jost von Silenen                   Egloff Etterlin
 
@@ -2541,7 +2541,7 @@ Regarding his father, Frederick II: https://en.wikipedia.org/wiki/Frederick_II,_
 
 https://www.newadvent.org/cathen/13218b.htm
 
-I've learned more about Swiss Late Middle Ages history in Continental Europe in the past 2 weeks than I have in a semester, although I was not necessarily unattentive when I studied in school- there was just so much information then as there is now. So it is clear that the pivotal event that led to Switzerland was an expatriate movement (it would be wrong to call it refugees) from the Habsburg regions of North-eastern cantons and Austrian territory to southwestern (or simply South) cantons such as Valais, but Jost von Silenen and Egloff Etterlein are just two examples of that trend:
+I've learned more about Swiss Late Middle Ages history in Continental Europe in the past 2 weeks than I have in a semester, although I was not necessarily unattentive when I studied in school- there was just so much information then as there is now. So it is clear that the pivotal event that led to Switzerland was an expatriate movement (it would be wrong to call it refugees) from the Habsburg regions of North-eastern cantons and Austrian territory to southwestern (or simply South) cantons such as Valais, but Jost von Silenen and Egloff Etterlein are just two examples of that trend, and makes no other claim as to any other connection, but conjecture is always important in hypothesis building:
 
 ![image](https://user-images.githubusercontent.com/76194453/229899630-ea7caa5e-4455-4883-aa12-a09491890db7.png)
 
