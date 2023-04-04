@@ -2381,7 +2381,7 @@ would be interesting to find out Jost von Silenen's date of birth and whether th
 is a specific star constellation. While specialist journals dominate in the natural
 sciences, monographs are still the highest scientific standard in the humanities."
 
-What this also suggests is, that while the scientific experts of Silenen's era probably had a role in creating the book, the humanities today are tasked with deciphering something that may be lost due to modern scientific methods. 
+What this also suggests is, that while the scientific experts of Silenen's era probably had a role in creating the book, the humanities today are tasked with deciphering something that may be lost due to modern scientific methods: 
 
 "One modern scholar, Alan Cutler, described Kircher as "a giant among seventeenth-century scholars", and "one of the last thinkers who could rightfully claim all knowledge as his domain".[4] Another scholar, Edward W. Schmidt, referred to Kircher as "the last Renaissance man". In A Man of Misconceptions, his 2012 book about Kircher, John Glassie wrote "many of Kircher's actual ideas today seem wildly off-base, if not simply bizarre,"[5] but he was "a champion of wonder, a man of awe-inspiring erudition and inventiveness," whose work was read "by the smartest minds of the time."
 ...
@@ -2391,18 +2391,20 @@ Paula Findlen: Athanasius Kircher: The Last Man Who Knew Everything. New York, R
 https://en.wikipedia.org/wiki/Athanasius_Kircher
 
 
-It isn't to say no one can put it back together, but that it requires almost like a Rennaissance mindset, one that Dr. Bernhart-Konigstein is well qualified to make. But not just any Rennaissance scholar, but one:
+Our society also doesn't have a huge market for generalist geniuses- unskilled, manual labor is hard, but doesn't require a degree- It also shares in common something on the extreme end of erudition- being so smart in many different fields, that no single field knows where to place you. One essentially becomes a vagrant to the institution unless recruited for a rare, special project. It's no secret that philosophy departments in the United Staes tend to be underfunded, and undervalued (except for Pre-Law majors, which might be the only reason it still exists, but even those departments cut back on courses except at the most resourced institutions) I recall this article from 2005, where Norway's government hired a Philosopher as a moral compass: https://www.wsj.com/articles/SB113340298608010935 Which is to suggest that Norway values philosophy more than the United States.
+
+This isn't to say no one can put the Voynich Manuscript back together, but that it requires almost like a Rennaissance mindset (and will our society look to solve other Rennaissance puzzles once this is solved, or move on to something Modern?), one that Dr. Bernhart-Konigstein is well qualified to make. But not just any Rennaissance scholar, but one:
 
 ![image](https://user-images.githubusercontent.com/76194453/229678445-e7a2ee70-81dc-4a87-b80f-6c1710c24256.png)
 
-In any case, an orderly poetic, easily readable attempt at the difficulties and the history of the manuscript
+"In any case, an orderly poetic, easily readable attempt at the difficulties and the history of the manuscript
 should be started before research breaks new ground, because, according to Bernhard von Chartre,
 we are "all just dwarfs sitting, as it were, on the shoulders of giants". The Silenen memoirs show that
 the interpreter, the exegete, the historian, the art historian, the philosopher, the writer, the philogologist,
 the theologian and in the team also the natural scientist etc. are needed in art, especially when they
-themselves understood as a mystery and yet Bletchley Park could not find a solution.
+themselves understood as a mystery and yet Bletchley Park could not find a solution."
 
-Skipping the the poetic aspect (Which I do agree with but included here just for the von Chartre quote), how can this be so? Read back to my speculation on the Tower of Babel! Earthlings haven't been punished with unintelligible languages so much as they are returned gifts from an an actor unwilling to be an improv scene partner. It takes REAL cooperation among the sciences and humanities - both carbon dating and art historians, which certainly occurred, but does not exist in a cohesive manner at a scale that existed in the distant past. Wars were certainly present, but back then there was much more of a sense of community, of tightly-knit alliances to city and state(which was the church), where secular thinking was not a given (which isn't to say it is a detriment to uncovering Rennaissance treasures, but, there is a lesson to be had: A most Rennaissance work of art does not need to impress its secular cosmopolitan gazers. I am reminded of a nostalgic blog post by Gabe Bullard:  
+Skipping the the poetic aspect (Which I do agree with but included here just for the von Chartre quote), how can this be so? Read back to my speculation on the Tower of Babel! Earthlings haven't been punished with unintelligible languages so much as they are returned gifts from an an actor unwilling to be an improv scene partner. It takes REAL cooperation among the sciences and humanities - both carbon dating (margin of error 40 years https://en.wikipedia.org/wiki/Radiocarbon_dating) and art historians, which certainly occurred, but does not exist in a cohesive manner at a scale that existed in the distant past. Wars were certainly present, but back then there was much more of a sense of community, of tightly-knit alliances to city and state(which was the church), where secular thinking was not a given (which isn't to say it is a detriment to uncovering Rennaissance treasures, but, there is a lesson to be had: A most Rennaissance work of art does not need to impress its secular cosmopolitan gazers. I am reminded of a nostalgic blog post by Gabe Bullard:  
 
 "I asked a group text if they could imagine any sitcom today adding a storyline about a machine that makes people cool and a friend pointed me to a New Yorker profile of Simpsons writer George Meyer from 2000. A few years after Stefan Urquelle’s swan song, Meyer summed up contemporary TV comedy as “a bunch of people who hang around in some generic urban setting having conversations and sniping at each other.”"
 
