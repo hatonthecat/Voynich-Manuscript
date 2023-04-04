@@ -2547,4 +2547,20 @@ I've learned more about Swiss Late Middle Ages history in Continental Europe in 
 
 ![image](https://user-images.githubusercontent.com/76194453/229900075-795367f5-dc0f-4a0d-9e74-91b604272a7f.png)
 
+--
+2:45 PM
+--
 
+Jost von Silenen was the Splinter to at least three of the Four Rennaissance Masters : Leonardo, Michelangelo, Raphael, and Donatello
+
+Don 1386 –  1466
+
+Leo   1452 – 1519
+
+Mike 1475 -  1564
+
+Ralph 1483 – 1520
+
+https://en.wikipedia.org/wiki/Splinter_(Teenage_Mutant_Ninja_Turtles)
+
+![image](https://user-images.githubusercontent.com/76194453/229904778-1acb1826-5324-422f-a11a-79167566fcde.png)
