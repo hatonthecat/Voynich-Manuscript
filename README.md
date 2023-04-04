@@ -2211,7 +2211,7 @@ It's All German to Me, No longer
  ![image](https://user-images.githubusercontent.com/76194453/229416994-82b9bae7-0d73-4057-8534-afd894dd4de7.png)
 
 
- Out of context, a missing letter would certainly throw off intelligible reading of Bruggs, the northern Swiss municipality in the canton of Aargau, prompting me to think of that Monty Python scene in the Quest for the Holy Grail, The Caves of Caerbannog where they read about "here may be found the last words of Joseph of Arimathea he who is valiant and pure of spirit may find the Holy Grail in the castle of Aaargh...." 
+ Out of context, a missing letter would certainly throw off intelligible reading of Brugg (AG), the northern Swiss municipality in the canton of Aargau, prompting me to think of that Monty Python scene in the Quest for the Holy Grail, The Caves of Caerbannog where they read about "here may be found the last words of Joseph of Arimathea he who is valiant and pure of spirit may find the Holy Grail in the castle of Aaargh...." 
  https://www.youtube.com/watch?v=GEcvSq4SDkc 
  
  This is just a higher resolution comparison of the coat of Arms identified by Dr. Bernhart-Konigstein on p.35 to be referred to on the top left margin of 8v:
