@@ -2485,4 +2485,66 @@ The picture of William Tell and his crossbow, if compared, could be a smaller re
 https://www.da-vinci-inventions.com/giant-crossbow
 https://www.davincilife.com/crossbow.html
 
+from: https://voynichrevisionist.com/2023/04/02/odonovan-notes-13-1a-opening-the-iris/
+"So again – How many medieval European manuscripts of the thirteenth-to-fifteenth centuries do you think you could find in which a crowned female is drawn unclothed, not slender and not fine of face?"
+
+https://en.wikipedia.org/wiki/Raphael (March 28 or April 6, 1483 – April 6, 1520)
+Raphael was known to draw body-positive figures.
+
+---
+Commonalities with Swiss Compatriot Egloff Eterlein
+---
+
+Using graph theory to map commonalities might hep, such as Neo4J's GraphDBs, but a brief comparison:
+
+Jost von Silenen                   Egloff Etterlin
+
+----------------                   ----------------
+Born in Küssnacht SZ, 1435         Born in Brugg AG, 1400  
+German-speaking hometown           German-speaking hometown   
+
+https://hls-dhs-dss.ch/de/articles/000715/2008-11-06/  Küssnacht
+
+https://hls-dhs-dss.ch/de/articles/001688/2020-06-09/  Brugg 
+
+"As bailiffs over Lucerne, the Habsburgs also came into possession of the bailiff over the Lucerne Dinghof in Küssnacht. Until the 14th century, the influence of Lucerne prevailed in Küssnacht. The lords of Küssnacht (extinct in 1352) can be traced as bailiffs and landowners as early as the High Middle Ages. Their castle, first mentioned in 1263, known as Gesslerburg by Aegidius Tschudi, belonged to the nobles of Silenen from Uri from 1400 onwards. After 1517 it was uninhabited, fell into disrepair and has been owned by the Swiss Confederation since 1908."
+
+A native of Brugg, Egloff received Lucerne citizenship in 1422. 
+
+Egloff spoke and wrote German and Latin
+Jost spoke German, French and Latin 
+
+Egloff's trajectory follows the history of Swiss identity being stongly tied to the events that wielded Lucerne away from Habsburg rule:
+
+"As the abbots of Murbach were often at odds with the Counts of Habsburg, who were also Landgraves in Alsace, in regard to their estates in Upper Alsace, Rudolf of Habsburg, after his election as emperor, confirmed all the privileges of the town, and declared that the citizens of Lucerne were received as a fief of the Empire. In order to conciliate the town, he bought, in 1291, from the Abbot of Murbach the estates of the abbey in Lucerne and in the Forest Cantons (Schwyz, Uri, and Unterwalden) for 2000 silver marks and five villages in Alsace. Although the town looked unfavourably on this change of ownership, it was nevertheless obliged to swear allegiance to Rudolf's son Albrecht for the confirmation of its liberties. But the Habsburg supremacy did not last long. By the renewal of the league of the above three Forest Cantons, which has revolted from Austria, the foundation of a Swiss nationality was laid. In the wars which now broke out, Lucerne had to fight against its own countrymen; still it was faithful to its Austrian suzerain until after the Battle of Morgarten (1315). The victory gained there by the Swiss encouraged the friends of liberty, and two parties were formed in Lucerne, an Austrian and a Swiss. When the town was transferred, in 1228, from the jurisdiction of Rothenburg to that of Baden, twenty-six citizens formed an association for five years to maintain the city's privileges; in 1330 this association was joined by the burgomaster and the council, and on 7 November, 1332, Lucerne entered into a perpetual league with the three Forest Cantons. Although this alliance did not contemplate complete independence, still the struggle with the House of Habsburg could not be long delayed."
+
+https://www.newadvent.org/cathen/09406b.htm
+
+Jost's trajectory follows a similar trajectory, but with much more French upbringing:
+
+"Jost von Silenen grew up in Küssnacht Castle . Until the conversion of the Benedictine monastery in Lucerne ( St. Leodegar im Hof ​​) into a canon's monastery in 1455, he had the benefices of the builders , the first benefices have been documented since he was 13 years old." https://de.wikipedia.org/wiki/Jost_von_Silenen
+
+"In 1291 the monastery was sold to the Habsburgs by Murbach because of their own difficulties . In 1433 the city of Lucerne, now a member of the Swiss Confederation , regained all rights over the monastery and in 1455 the Benedictine monastery was converted into a secular canonry .
+
+The monastery experienced a heyday during the Counter-Reformation , when Lucerne was a suburb of the Catholic cantons and the residence of the papal nuncio , who used the Hofkirche as his cathedral." [1545-] https://de.wikipedia.org/wiki/St._Leodegar_im_Hof 
+
+ The victory gained there by the Swiss encouraged the friends of liberty, and two parties were formed in Lucerne, an Austrian and a Swiss. 
+ 
+The two parties- who were they? Egloff was already a Swiss citizen by 1422. To call someone Swiss may have been slightly misleading, even though it is factually correct. Not misleading due to allegiances, but to understand the trajectories of where arguably stateless, travelling diplomats were still tring to stake their as yet unknown identity. The other Austrian? Perhaps Jost?
+
+Bio of Rudolph I:
+"German king, b. 1 May 1218; d. at Speyer, 15 July, 1291. He was the son of Albert IV, the founder of the Habsburg line, and Countess Heilwige of Kiburg. After the death of his father in the Holy Land, Rudolf pursued an independent line of politics. In the conflict between the papacy and the empire he supported the Hohenstaufens, and, during the interregnum, strove to increase the power of his house, especially in Switzerland. In his extensive domains, of which Swabia formed the centre, he showed himself a good, if stern ruler, and especially in the south won many friends. At the instigation of Gregory X, who threatened to appoint a regent to govern the empire if steps were not taken to restore order to the country by the election of a prince who would exercise an effective rule, Rudolf was chosen emperor 1 October, 1273. Towering but lean of stature, with bony cheeks and hooked nose, he was a courageous warrior, a skilled diplomat, and distinguished alike for unrelenting sternness and genial kindness. Six electors voted for Rudolf; the seventh, Ottakar of Bohemia, abstained from voting. This powerful king ruled from Meissen and the mountains in the north of Bohemia as far as the Adriatic, having added Austria, Styria, Carinthia, and Krain to his inherited domains. When Ottakar was summoned to answer for this alienation of the imperial fiefs, Rudolf proved himself an astute politician in the proceedings against Bohemia. Recognizing that it was impossible to force the German princes to the position of vassals, he utilized every opportunity to enhance the power of his house, for only the possession of great domains could ensure for a German king a position of prominence. Supported by the Church, Rudolf began the war in 1276, and on the Marchfeld on 26 August, 1278, Ottakar lost his throne and his life. The ancient possessions of the Bohemian royal house were left to Ottakar's son Wenceslaus, who was still a minor, but the Austrian lands had to be given up and were formally granted by Rudolf to his sons, as according to the prevailing laws of the empire, the sovereign could not retain confiscated lands. In this manner Ostmark came permanently into the possession of the Habsburgs. Whether the downfall of Ottakar was a German success or not, is still an open question among scholars. In recent times, the opinion has prevailed that, far from being hostile to the Germans, Ottakar favoured German immigration into Bohemia, and that, with the possession of the Austrian lands, he might perhaps have completely germanized Bohemia; and, had he secured the imperial crown, this powerful prince might have given a new importance to the imperial authority. The creation of a strong central power was also the object of Rudolf's politics." 
+
+Regarding his father, Frederick II: https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor
+
+"Frequently at war with the papacy, which was hemmed in between Frederick's lands in northern Italy and his Kingdom of Sicily (the Regno) to the south, he was excommunicated three times and often vilified in pro-papal chronicles of the time and after. Pope Gregory IX went so far as to call him an Antichrist."
+
+https://www.newadvent.org/cathen/13218b.htm
+
+I've learned more about Swiss Late Middle Ages history in Continental Europe in the past 2 weeks than I have in a semester, although I was not necessarily unattentive when I studied in school- there was just so much information then as there is now. So it is clear that the pivotal event that led to Switzerland was an expatriate movement (it would be wrong to call it refugees) from the Habsburg regions of North-eastern cantons and Austrian territory to southwestern (or simply South) cantons such as Valais, but Jost von Silenen and Egloff Etterlein are just two examples of that trend:
+
+![image](https://user-images.githubusercontent.com/76194453/229899630-ea7caa5e-4455-4883-aa12-a09491890db7.png)
+
+![image](https://user-images.githubusercontent.com/76194453/229900075-795367f5-dc0f-4a0d-9e74-91b604272a7f.png)
+
 
