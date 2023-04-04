@@ -2462,6 +2462,18 @@ https://www.youtube.com/watch?v=pqFwV2Ye3a0
 
 "But the title Magister Ludi is somewhat misleading, as it implies the book is a straightforward bildungsroman, when, in reality, the book touches on many different genres, and the bulk of the story is on one level a parody of the biography genre.[2]"
 
+https://en.wikipedia.org/wiki/The_Glass_Bead_Game#Plot something about this manuscript suggests it requires a syncretic view:
+
+"The game
+The Glass Bead Game is "a kind of synthesis of human learning"[11] in which themes, such as a musical phrase or a philosophical thought, are stated. As the Game progresses, associations between the themes become deeper and more varied.[11] Although the Glass Bead Game is described lucidly, the rules and mechanics are not explained in detail.[12]"
+https://web.archive.org/web/20110131032029/http://www.time.com/time/magazine/article/0,9171,853996,00.html
+![image](https://user-images.githubusercontent.com/76194453/229918770-6d612508-b465-47b3-9147-0affb8511e56.png)
+ Clement, Samuel (1970-01-17), "An act of mental synthesis", Montreal Gazette, p. 17, retrieved 2010-02-07
+
+
+"Description
+The Glass Bead Game takes place at an unspecified date centuries in the future. Hesse suggested that he imagined the book's narrator writing around the start of the 25th century.[5] The setting is a fictional province of central Europe called Castalia, which was reserved by political decision for the life of the mind; technology and economic life are kept to a strict minimum. Castalia is home to an austere order of intellectuals with a twofold mission: to run boarding schools, and to cultivate and play the Glass Bead Game, whose exact nature remains elusive and whose devotees occupy a special school in Castalia known as Waldzell. The rules of the game are only alluded to—they are so sophisticated that they are not easy to imagine. Playing the game well requires years of hard study of music, mathematics, and cultural history. The game is essentially an abstract synthesis of all arts and sciences. It proceeds by players making deep connections between seemingly unrelated topics.[citation needed]"
+
 Jost von Silenen created the Grimm's Fairy Tales equivalent of switzerland's real folk heroes, in a compendium that is still being decoded, although it appears he has cemented his status as county clerk of Sion and recorder of of the old Swiss Confederacy.
 
 ---
