@@ -2451,7 +2451,7 @@ https://www.youtube.com/watch?v=pqFwV2Ye3a0
 
 "But the title Magister Ludi is somewhat misleading, as it implies the book is a straightforward bildungsroman, when, in reality, the book touches on many different genres, and the bulk of the story is on one level a parody of the biography genre.[2]"
 
-Jost von Silenen created the Grimm's Fairy Tales equivalent of switzerland's folk heroes, in a compendium that is still being decoded, although it appears he has cemented his status as county clerk of Sion and county clerk of of the old Swiss Confederacy.
+Jost von Silenen created the Grimm's Fairy Tales equivalent of switzerland's real folk heroes, in a compendium that is still being decoded, although it appears he has cemented his status as county clerk of Sion and recorder of of the old Swiss Confederacy.
 
 
 
