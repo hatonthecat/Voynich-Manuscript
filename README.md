@@ -2312,7 +2312,7 @@ My path of research doesn't follow a straight line. I sometimes bounce from topi
 
 Deleuze believed in Rhizomatic thinking: https://en.wikipedia.org/wiki/Rhizomatic_learning In it, there is no hiearchical view of concepts, as present in most Western thinking. This is crucial, because, as Dr. Bernhart-Konigstein points out, the story begins in the middle, and, pictures tell only of regional proximities (Milan, Switzerland/Lucerne), not of chronological events (a circle is a classic example of this, as is a wheel);
 
-Achronism as an encipherization method, as well as a Bishops way of life. The only time that the Bishop probably needs to think about is that the world was created in six days, even though they were well aware of conventional time.
+Anachronism order as an encipherization method, as well as a Bishops way of life. The only time that the Bishop probably needs to think about is that the world was created in six days, even though they were well aware of conventional time. Prochronism, metachronism, parachronisms, variants of one the other, all tools of the encipherer, but it is our parachronisms, if the clues to the authorship were hidden in plain sight, but we attributed more of our worldview to that of the Voynich manuscript's author.
 
 https://criticalphysio.net/2015/01/22/metaphors-of-rhizomatic-thinking/#:~:text=Deleuze%20proposed%20an%20alternative%20way,'
 
