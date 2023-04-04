@@ -2285,3 +2285,133 @@ https://hls-dhs-dss.ch/de/articles/014113/2005-11-22/ I really don't kow if Eglo
 ![image](https://user-images.githubusercontent.com/76194453/229639917-cc0dbac8-4a02-45a1-8db0-b4fd921fdcb5.png)
 
 around the time Dr. Bernhart-Konigstein's Windows folder shows VV file modifications/creations (which also suggests he has been quietly at work on this for nearly 3 years): ![image](https://user-images.githubusercontent.com/76194453/229640022-0ca648fc-059c-47d1-a748-5e8f7e38fad2.png)
+
+---
+8:43 PM On Why I Use Google Translate for nearly everything
+---
+While I have been critical of some of the hype surrounding new AI products, I have been aware of the use of AI in several products for many years. One of them is Google Translate. 
+https://en.wikipedia.org/wiki/Google_Translate#Google_Neural_Machine_Translation
+Google Neural Machine Translation
+Main article: Google Neural Machine Translation
+In September 2016, a research team at Google announced the development of the Google Neural Machine Translation system (GNMT) to increase fluency and accuracy in Google Translate[2][110] and in November announced that Google Translate would switch to GNMT.
+
+Google Translate's neural machine translation system uses a large end-to-end artificial neural network that attempts to perform deep learning,[2][111][112] in particular, long short-term memory networks.[113][114][14][115] GNMT improves the quality of translation over SMT in some instances because it uses an example-based machine translation (EBMT) method in which the system "learns from millions of examples."[111] According to Google researchers, it translates "whole sentences at a time, rather than just piece by piece. It uses this broader context to help it figure out the most relevant translation, which it then rearranges and adjusts to be more like a human speaking with proper grammar".[2] GNMT's "proposed architecture" of "system learning" has been implemented on over a hundred languages supported by Google Translate.[111] With the end-to-end framework, Google states but does not demonstrate for most languages that "the system learns over time to create better, more natural translations."[2] The GNMT network attempts interlingual machine translation, which encodes the "semantics of the sentence rather than simply memorizing phrase-to-phrase translations",[111][90] and the system did not invent its own universal language, but uses "the commonality found in between many languages".[116] GNMT was first enabled for eight languages: to and from English and Chinese, French, German, Japanese, Korean, Portuguese, Spanish and Turkish.[2][110] In March 2017, it was enabled for Hindi, Russian and Vietnamese,[117] followed by Bengali, Gujarati, Indonesian, Kannada, Malayalam, Marathi, Punjabi, Tamil and Telugu in April.[118]
+
+If I could employ several graduates well versed in French, German, and Italian I might not need Google Translate. But since I do not have funds for that, I am using Google Translate.  
+
+AI software will continue to make independent research easier and cheaper, for one-man crews:
+
+https://medium.com/sort-of-like-a-tech-diary/the-problems-that-attract-the-smartest-people-a384d2f8af
+
+"Making inference cheaper and more efficient is perhaps the most important reaction to the AI spring we’re currently enduring. In a follow-up text, I will outline what I think is at stake, but to summarise here, democratising the means of digital production is the difference between a dystopian authoritarian future and an empowered (and admittedly chaotic) humanity.
+
+Such a mission calls out to no slouches. Artificial Intelligence is hard. Large Language Models are more than glorified autocorrect. They are hard. Making them efficient is hard. It is also not in the immediate interests of large corporations and well-endowed research labs that can afford several thousands of dollars of compute, storage and mass deployment."
+https://github.com/ggerganov/llama.cpp
+
+My path of research doesn't follow a straight line. I sometimes bounce from topic to topic, either running into a wall from being unable to comprehend something, or losing interest. Some topics I embrace eagerly, only to take a break, which only neems natural. While I don't have a PhD, I try to approach any topic with the same level of academic rigor, as I once hoped to become a scholar. Of course, the typical reaction to reading a sentence like this is to discard a sub par statement. The problem with this is that even the experts have been wrong at times. While many academics tend to err on the side of caution, there are different ways of viewing this issue. One might see it as a reductionist issue- something that encodes just a single story. Others see it as a chronolongical issue. But there is no reason assume that, and can be part of the problem in deciphering.
+
+Deleuze believed in Rhizomatic thinking: https://en.wikipedia.org/wiki/Rhizomatic_learning In it, there is no hiearchical view of concepts, as present in most Western thinking. This is crucial, because, as Dr. Bernhart-Konigstein points out, the story begins in the middle, and, pictures tell only of regional proximities (Milan, Switzerland/Lucerne), not of chronological events (a circle is a classic example of this, as is a wheel);
+
+Achronism as an encipherization method, as well as a Bishops way of life. The only time that the Bishop probably needs to think about is that the world was created in six days, even though they were well aware of conventional time.
+
+Time as assumed device for storytelling in chronological is the first error of typical narration. Narration is not synonymous with chronology. While liniguistic relativity theories such as  Sapir–Whorf were made much later (see this also: https://en.wikipedia.org/wiki/Pirah%C3%A3_language#Unusual_features_of_the_language), the expectation of of chronological storytelling is significatly more corellated to the industrial revolution when clockmaking was mass produced:
+
+"Origins and specialities
+The earliest use of the term clokkemaker is said to date from 1390, about a century after the first mechanical clocks appeared.[1] From the beginning in the 15th century through the 17th century, clockmaking was considered the "leading edge", most technically advanced trade existing. " https://en.wikipedia.org/wiki/Clockmaker#Origins_and_specialities
+
+Even though clocks did exist in the 1400s (and certainly in Rome and Switzerland), they were considered rare, leading edge, something a bishop was probably not too pre-occupied with, although Sion's first church organ (and oldest operational) was also a leading edge (see above). Scholars from the 19th, 20th, and 21st century century are all too accustomed to the normalization of all things clockwork. But at the turn of the 15th century, clock making was probably only becoming a thing in most medium sized cities of the time:
+
+"By 1290, Lucerne had become a self-sufficient city of reasonable size with about 3000 inhabitants. About this time King Rudolph I von Habsburg gained authority over the Monastery of St. Leodegar and its lands, including Lucerne. The populace was not content with the increasing Habsburg influence, and Lucerne allied with neighboring towns to seek independence from their rule. Along with Lucerne, the three other forest cantons of Uri, Schwyz and Unterwalden formed the "eternal" Swiss Confederacy, known as the Eidgenossenschaft, on November 7, 1332.
+
+Later the cities of Zürich, Zug and Bern joined the alliance. With the help of these additions, the rule of Austria over the area came to an end. The issue was settled by Lucerne's victory over the Habsburgs in the Battle of Sempach in 1386. For Lucerne this victory ignited an era of expansion. The city shortly granted many rights to itself, rights which had been withheld by the Habsburgs until then. By this time the borders of Lucerne were approximately those of today.
+
+From city to city-state (1386–1520)
+In 1415 Lucerne gained Reichsfreiheit from Emperor Sigismund and became a strong member of the Swiss confederacy. The city developed its infrastructure, raised taxes, and appointed its own local officials. The city's population of 3000 dropped about 40% due to the Black Plague and several wars around 1350.
+
+In 1419 town records show the first witch trial against a male person."
+
+https://en.wikipedia.org/wiki/Lucerne
+
+Sion is even smaller. Today, it has 35,000 residents, while Lucerne has over 200,000. While Switzerland today is known among many thing for its watches, you can count at least one early resident as almost anti-watch. The first foil, chronology has been unravelled.
+
+The second, as mentioned earlier, is the complete originality of the claim- to call it original is almost against the premise of what it is- a discovery. Something original implies creation of knowledge, in a way, whereas finding facts where they have remained elusive is a different ordeal.
+
+When I took an improv class in late 2007 in Chicago, one of my teachers taught us the concept of a gift in improv acting. When someone declares something to a partner actor, the expectation is that the actor is supposed to accept that gift to construct the scene: 
+
+"Divide students into pairs and ask one person to be Player A and one to be Player B. Player A names and pantomimes a non-stop series of imaginary gifts that they give to player B. Player B’s job is to receive each of these gifts with as much enthusiasm as possible, no matter how strange or unexpected, and explain how they will be helpful. For example, Player A might shape their arms into a large circle and pantomime lifting a large, heavy basket as she says, I’m so thrilled to be able to give you this extra, extra large box of old banana peels. Player B would accept the gift–using the same physical gestures as A–saying, Thank you, thank you! This extra, extra large box of old banana peels is exactly what I need to put in my garden to make my plants grow. After a set time, switch roles and repeat. Encourage students to use descriptive language and pantomime skills to show the size, weight, and shape of the object being given."
+
+From https://dbp.theatredance.utexas.edu/content/gift-giving
+
+Relevance: An actor does not pick and choose which gifts he wants. in order to create a believable scene, he or she must accept all the gifts and statements made. Unfortunately, I have moderate significant hearing loss from an early age, and I was not able to hear every proposition in my scenes, so I appeared often times as an unwilling actor (in some cases I did hear the statement and was ambivalent, however, most of the time, I had done everything I could to hear the words, and contrary to scripted acting, it is much harder to improvise if you can't hear what was said and have to make up something that is a non-sequitur. Thus having good hearing is much more important in improvising. 
+
+Relevance (Part 2): In order to consider the validity of Dr. Bernhart-Konigstein's claim, imagine you are an improviser and the teacher says to accept every statement that your acting partner tells you. In that sense, you begin using method acting to train yourself that everything is positively true, without question, to picture yourself in the situation that is being presented. In this way, it allows the reader to teleport to the era of the 1400s much more thoroughly. One can't imagine it from the point of view of Jost's enemies, for they perhaps were ideologically opposed to his interest in strengthening Switzerzland:
+
+Again, re-reading this paragraph reveals much:
+
+"By 1290, Lucerne had become a self-sufficient city of reasonable size with about 3000 inhabitants. About this time King Rudolph I von Habsburg gained authority over the Monastery of St. Leodegar and its lands, including Lucerne. The populace was not content with the increasing Habsburg influence, and Lucerne allied with neighboring towns to seek independence from their rule. Along with Lucerne, the three other forest cantons of Uri, Schwyz and Unterwalden formed the "eternal" Swiss Confederacy, known as the Eidgenossenschaft, on November 7, 1332."
+
+Is a Catholic going to be more biased in supporting Jost von Silenen? I would say that an impartial Catholic is still going to be more motivated to find more facts while digging out a plethora of information to ascertain the veracity of that information. Much of the historical knowledge of Jost-von-Silenen is well established, in that he was not an unknown figure in the Swiss archives, which have extensive records on him. However, if it can be confirmed that that some Voynich calligraphy can be definitively linked to his Breviary author(s), then it should not be hard for impartiality to be the dominant form of claim. The centuries past are too distant for there to be any specific bias in the case of a priest (who can be said to be responsible for writing it, even it it somehow contains a confession that makes Catholics and/or Swiss look bad). Rather, the strongest impedance to determining the veracity of this claim  would be a bias against the implications of the claim itself. While a Catholic community can be expected to moderate and vet itself, I believe the correct, historical probability that this claim gets readily embraced by even its own groups is slim. This isn't to say he is wrong. Quite the contrary! History has a tendency of labelling dissenters heretics, unjustly, of course.
+
+Where do start? First, if the person made this claim belonged to your favorite sect, it is likely you would be more motivated to uncover everything you could about him, even if in secret (in case some dirt were found on him). Second, this kind of claim can be made without any expectation of fame or wealth, if one is already independently wealthy and/or secure in their life. To assume a claim is made to be with some ulterior motive-fame/fraud, is only to imply that most claim-makers are poor, or in an unstable part of their lives. Neither of these assumptions can be made when reviewing a document. The level of rigour required certainly benefits from a graduate degree, but not just of one subject. One's field of expertise must rest on the entire era that spanned the subject matter: The Rennaissance.
+
+"Curriculum vitae:
+Self-employed work in the publishing industry, including consulting for Neue Welt Verlag
+Speaker on art and philosophy at the ITI – Trumau, KTU – Linz, among others
+Reserve of research results on Renaissance painting at Literar Mechana
+Before that: Worked at the Ministry of Science – Academic Exchange Service
+Establishment of scholarship programs for lecturers in history, art and music history
+Doctorate 2006 at Univ. Prof. DDr. Floridus Röhrig on the painter Raffael - with distinction
+Title: Raffael's world transfiguration - the most famous painting in the world, 2007, Michael Imhof Verlag, plus: letter of appreciation from Pope Benedict XVI.
+Graduation 2004 on Raffael, Michelangelo, Leonardo da Vinci
+Title: Raffael - The universality of an artistic genius
+Studied art history and philosophy at the University of Vienna, cand. law"
+
+p.10
+![image](https://user-images.githubusercontent.com/76194453/229677000-369a522c-8608-4d74-9c59-64d75570f816.png)
+
+p.48
+"Even if many natural scientists were involved in the manuscript, and the alchemy
+and cosmology are very typical of the Renaissance, which does not yet distinguish
+between religion and nature, the work is now assigned more to the humanities. It
+would be interesting to find out Jost von Silenen's date of birth and whether there
+is a specific star constellation. While specialist journals dominate in the natural
+sciences, monographs are still the highest scientific standard in the humanities."
+
+What this also suggests is, that while the scientific experts of Silenen's era probably had a role in creating the book, the humanities today are tasked with deciphering something that may be lost due to modern scientific methods. It isn't to say no one can put it back together, but that it requires almost like a Rennaissance mindset, one that Dr. Bernhart-Konigstein is well qualified to make. But not just any Rennaissance scholar, but one:
+
+![image](https://user-images.githubusercontent.com/76194453/229678445-e7a2ee70-81dc-4a87-b80f-6c1710c24256.png)
+
+In any case, an orderly poetic, easily readable attempt at the difficulties and the history of the manuscript
+should be started before research breaks new ground, because, according to Bernhard von Chartre,
+we are "all just dwarfs sitting, as it were, on the shoulders of giants". The Silenen memoirs show that
+the interpreter, the exegete, the historian, the art historian, the philosopher, the writer, the philogologist,
+the theologian and in the team also the natural scientist etc. are needed in art, especially when they
+themselves understood as a mystery and yet Bletchley Park could not find a solution.
+
+Skipping the the poetic aspect (Which I do agree with but included here just for the von Chartre quote), how can this be so? Read back to my speculation on the Tower of Babel! Earthlings haven't been punished with unintelligible languages so much as they are returned gifts from an an actor unwilling to be an improv scene partner. It takes REAL cooperation among the sciences and humanities - both carbon dating and art historians, which certainly occurred, but does not exist in a cohesive manner at a scale that existed in the distant past. Wars were certainly present, but back then there was much more of a sense of community, of tightly-knit alliances to city and state(which was the church), where secular thinking was not a given (which isn't to say it is a detriment to uncovering Rennaissance treasures, but, there is a lesson to be had: A most Rennaissance work of art does not need to impress its secular cosmopolitan gazers. I am reminded of a nostalgic blog post by Gabe Bullard:  
+
+"I asked a group text if they could imagine any sitcom today adding a storyline about a machine that makes people cool and a friend pointed me to a New Yorker profile of Simpsons writer George Meyer from 2000. A few years after Stefan Urquelle’s swan song, Meyer summed up contemporary TV comedy as “a bunch of people who hang around in some generic urban setting having conversations and sniping at each other.”"
+
+https://gabebullard.substack.com/p/what-happened-to-weird-tv#details 
+
+So this post is for a certain type of armchair historians who look back at Rennaissance riddles with a mocking eye, an arrogant swagger, a dismissive attitude, because while clockmaking has surpassed church organs in Sion's economy, Jost von Silenen was a patron of the arts, because while he probably was aware of the clockmakers disruptive technology from the city centers of Paris and Milan, he probably thought that the Valère organ was the most magificent technology in the world, and no amount of watch hustlers could steer him away from the countryside to the ultramodern cities by trying to persuade him how much time he is saving. Jost von Silenen, a wiser man, needed no iPod to replace his liturgies.
+![image](https://user-images.githubusercontent.com/76194453/229677921-f91988d9-66d1-477a-9858-e9024cc9c59d.png)
+
+https://museum.seiko.co.jp/en/knowledge/MechanicalTimepieces01
+
+https://en.wikipedia.org/wiki/Clockmaker#Origins_and_specialities
+
+If the previous paragraph sounded serious, I am not sure how you made it this far, unless your only objective was to laugh along with me. If you recall from p.37 of 
+https://books.google.ht/books?id=TkoyEaswQKMC&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false, 
+
+"![image](https://user-images.githubusercontent.com/76194453/229686834-d1be3cfe-d370-44f1-9ffe-c7a1f813c585.png)
+
+"Perspectives on early modern and modern intellectual history : essays in honor of Nancy S. Struever ; edited by Joseph Marino and Melinda W. Schlitt.
+Bibliographic Details
+Imprint:	Rochester, NY : University of Rochester Press, 2001."
+
+In Bakhtin's words: "In rennaissance literature... the very concept that the Renaissance held of the world, was deeply permeated by a carnivaleque perception of reality, and often took on its forms and symbols.
+
+ What better way to write a memoir by characterizing its era with the very playfulness that was seen in the Rennaissance's daily life? If Jost von Silenen was a patron of the arts, that alone does not suggest all of his non-chronological chronicles would necessitate a Michelangeloan brushstroke, but would at the very least hint somewhere in all of its prickliness, that there can be a comedy in a den of wolves. 
+
+https://criticalphysio.net/2015/01/22/metaphors-of-rhizomatic-thinking/#:~:text=Deleuze%20proposed%20an%20alternative%20way,'
