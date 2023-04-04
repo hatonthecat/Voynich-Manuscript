@@ -2399,7 +2399,16 @@ https://gabebullard.substack.com/p/what-happened-to-weird-tv#details
 So this post is for a certain type of armchair historians who look back at Rennaissance riddles with a mocking eye, an arrogant swagger, a dismissive attitude, because while clockmaking has surpassed church organs in Sion's economy, Jost von Silenen was a patron of the arts, because while he probably was aware of the clockmakers disruptive technology from the city centers of Paris and Milan, he probably thought that the Valère organ was the most magificent technology in the world, and no amount of watch hustlers could steer him away from the countryside to the ultramodern metropolises by trying to persuade him how much time he is saving. Jost von Silenen, a wiser man, needed no iPod to replace his liturgies.
 ![image](https://user-images.githubusercontent.com/76194453/229677921-f91988d9-66d1-477a-9858-e9024cc9c59d.png)
 
-Hypthothesis: Jost-von Silenen was also the grandfather of Cottagecore.
+Hypthothesis: Jost-von Silenen was grandfather of Cottagecore.
+
+"While cottagecore arose as a named aesthetic in 2018, similar aesthetics and ideals existed prior to its inception. The ancient Greeks characterised Arcadia as a representation of an idyllic pastoral setting. The Greek poet Theocritus wrote poems about shepherds and shepherdesses in the third century BC, leading to him being often cited as the inventor of pastoral poetry.[21] The market for Theocritus’ work was primarily the educated urban class of Alexandria, Egypt, seeking an escape from the filth, crowding and disease of city life. In the first century BC the Roman poet Virgil’s pastoral poetry was written in response to the violence and chaos of war. However, he expanded the genre by acknowledging contemporary moral and political issues such as war whilst maintaining a distance through the pastoral trope.[21] Pastoral escapism continued to be produced for the courtly audience of the Roman Empire in the format of novels such as Daphnis and Chloe from the second century AD.[21] 
+"The fourteenth century Italian Renaissance poet Petrarch was known for his hill-walking and gardening as well as his pastoral poetry.[21] "
+" https://en.wikipedia.org/wiki/Cottagecore
+[21] Frey, Angelica (November 11, 2020). "Cottagecore debuted 2300 years ago". JSTOR Daily. Retrieved May 22, 2021.
+https://daily.jstor.org/cottagecore-debuted-2300-years-ago/
+
+"In the Renaissance
+Arcadia has remained a popular artistic subject since antiquity, both in visual arts and literature.[citation needed] Images of beautiful nymphs frolicking in lush forests have been a frequent source of inspiration for painters and sculptors. Because of the influence of Virgil in medieval European literature, e. g. in Divine Comedy, Arcadia became a symbol of pastoral simplicity. European Renaissance writers (for instance, the Spanish poet Garcilaso de la Vega) often revisited the theme, and the name came to apply to any idyllic location or paradise. Unlike "utopia", which Saint Thomas More innovated by authoring his book Utopia, "Arcadia" connotes not a human civilization, yet rather a spontaneous result of life lived naturally and thus not corrupted by civilization.[citation needed] https://en.wikipedia.org/wiki/Arcadia_(utopia)"
 
 https://museum.seiko.co.jp/en/knowledge/MechanicalTimepieces01
 
