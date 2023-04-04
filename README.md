@@ -2564,3 +2564,10 @@ Ralph 1483 – 1520
 https://en.wikipedia.org/wiki/Splinter_(Teenage_Mutant_Ninja_Turtles)
 
 ![image](https://user-images.githubusercontent.com/76194453/229904778-1acb1826-5324-422f-a11a-79167566fcde.png)
+
+-
+
+https://www.swiss-spectator.ch/deutsch-stift-st-michael-beromuenster/
+
+https://www.swiss-castles.com/st-michaels-monastery
+
