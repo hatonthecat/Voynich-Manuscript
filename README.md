@@ -2022,6 +2022,11 @@ https://archive.org/details/mundussubterrane00unse/page/n9/mode/2up
 https://archive.org/download/mundussubterrane00unse
 ![image](https://user-images.githubusercontent.com/76194453/229382981-8513ccd7-3488-4994-9645-6d4ca8fa4b8a.png)
 
+There is another dragon on f25v  
+![image](https://user-images.githubusercontent.com/76194453/229857499-5fbfb118-d5cf-44b1-a7a6-6493e2349e08.png)
+
+https://en.wikipedia.org/wiki/Voynich_manuscript#/media/File:Voynich_Manuscript_(50)_detail_((dragon)).jpg  
+
 For the time being, this information is being presented, without any claim to chronological order. It is merely acknowledging that Kirchner wrote about dragons in Mundus Subterraneus, whether from the Voynich Manuscript or other source.  In a sea of information, I can sort out the sequence (navigation) later.
 ---
 5:49PM
@@ -2453,6 +2458,25 @@ https://www.youtube.com/watch?v=pqFwV2Ye3a0
 
 Jost von Silenen created the Grimm's Fairy Tales equivalent of switzerland's real folk heroes, in a compendium that is still being decoded, although it appears he has cemented his status as county clerk of Sion and recorder of of the old Swiss Confederacy.
 
+---
+11:31 AM Was Leonardo DaVinci Jost's von Silenen's temporary tutor?
+---
+It is said on p.35 of the English translation that "DaVinci stayed in the Alps"
+![image](https://user-images.githubusercontent.com/76194453/229859134-f5363e23-31da-4f3e-bf68-359ec1e8b11c.png)
 
+
+In the 1980 movie Airplane, the pilot confesses he has a drinking problem. A flashback to him filling up a glass with gatorade and missing the pouring: 
+https://www.youtube.com/watch?v=pl4plPGRG8o Jost's handwriting was not great, but could he have been guided by the great DaVinci?
+
+"15 April 1452 – 2 May 1519" 
+Crossbows were common, and it may have just been a coincidence that Jost sketched Sforza Palace, which was located in a city that Da Vinci frequented between 1483 and 1490:  
+
+While there is no exact date for the illustrations of Leonardo's crossbows, they are generally believed to be drafted between 1483 and the early 1490s.[4] Many scholars generally agree that Leonardo completed the drawings in the manuscript in Milan, but there is debate as to why he originally went there. Some believe he came to Milan in search of work as a painter and then he got news of Sforza's military desires upon arriving. Others suggest that the initial reason he came directly to Milan was to work for Sforza.[5]
+https://en.wikipedia.org/wiki/Leonardo%27s_crossbow
+https://archive.org/details/leonardodavincis00land
+
+The picture of William Tell and his crossbow, if compared, could be a smaller replica of the intended large cross bow:
+https://www.da-vinci-inventions.com/giant-crossbow
+https://www.davincilife.com/crossbow.html
 
 
