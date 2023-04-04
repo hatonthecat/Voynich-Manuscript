@@ -2344,13 +2344,15 @@ When I took an improv class in late 2007 in Chicago, one of my teachers taught u
 
 From https://dbp.theatredance.utexas.edu/content/gift-giving
 
-Relevance: An actor does not pick and choose which gifts he wants. in order to create a believable scene, he or she must accept all the gifts and statements made. Unfortunately, I have moderate significant hearing loss from an early age, and I was not able to hear every proposition in my scenes, so I appeared often times as an unwilling actor (in some cases I did hear the statement and was ambivalent, however, most of the time, I had done everything I could to hear the words, and contrary to scripted acting, it is much harder to improvise if you can't hear what was said and have to make up something that is a non-sequitur. Thus having good hearing is much more important in improvising. 
+Relevance: An improv actor cannot pick and choose which gifts he wants once the scene begins (save fo extreme scenarios of real violence). In order to create a believable scene, he or she must accept all the gifts and statements made, so that the audience doesn't need to take their word for it. Unfortunately, I have moderate significant hearing loss from an early age, and I was not able to hear every proposition in my scenes, so I appeared often times as an unwilling/reticent actor (in some cases I did hear the statement and was ambivalent, however, most of the time, I had done everything I could to hear the words, and contrary to scripted acting, it is much harder to improvise if you can't hear what was said and have to make up something that is a non-sequitur. Thus having good hearing is much more important in improvising. 
 
-Relevance (Part 2): In order to consider the validity of Dr. Bernhart-Konigstein's claim, imagine you are an improviser and the teacher says to accept every statement that your acting partner tells you. In that sense, you begin using method acting to train yourself that everything is positively true, without question, to picture yourself in the situation that is being presented. In this way, it allows the reader to teleport to the era of the 1400s much more thoroughly. One can't imagine it from the point of view of Jost's enemies, for they perhaps were ideologically opposed to his interest in strengthening Switzerzland:
+Relevance (Part 2): In order to consider the validity of Dr. Bernhart-Konigstein's claim, imagine you are an improviser and the teacher says to accept every statement that your acting partner tells you. In that sense, you begin using method acting to train yourself that everything claimed is positively true, without question, to picture yourself in the situation that is being presented. In this way, it allows the reader to teleport to the era of the 1400s much more thoroughly. One can't imagine it from the point of view of Jost's enemies, for they perhaps were ideologically opposed to his interest in strengthening Switzerzland:
 
 Again, re-reading this paragraph reveals much:
 
 "By 1290, Lucerne had become a self-sufficient city of reasonable size with about 3000 inhabitants. About this time King Rudolph I von Habsburg gained authority over the Monastery of St. Leodegar and its lands, including Lucerne. The populace was not content with the increasing Habsburg influence, and Lucerne allied with neighboring towns to seek independence from their rule. Along with Lucerne, the three other forest cantons of Uri, Schwyz and Unterwalden formed the "eternal" Swiss Confederacy, known as the Eidgenossenschaft, on November 7, 1332."
+above from
+https://en.wikipedia.org/wiki/Lucerne#History
 
 Is a Catholic going to be more biased in supporting Jost von Silenen? I would say that an impartial Catholic is still going to be more motivated to find more facts while digging out a plethora of information to ascertain the veracity of that information. Much of the historical knowledge of Jost-von-Silenen is well established, in that he was not an unknown figure in the Swiss archives, which have extensive records on him. However, if it can be confirmed that that some Voynich calligraphy can be definitively linked to his Breviary author(s), then it should not be hard for impartiality to be the dominant form of claim. The centuries past are too distant for there to be any specific bias in the case of a priest (who can be said to be responsible for writing it, even it it somehow contains a confession that makes Catholics and/or Swiss look bad). Rather, the strongest impedance to determining the veracity of this claim  would be a bias against the implications of the claim itself. While a Catholic community can be expected to moderate and vet itself, I believe the correct, historical probability that this claim gets readily embraced by even its own groups is slim. This isn't to say he is wrong. Quite the contrary! History has a tendency of labelling dissenters heretics, unjustly, of course (and sometimes they get exonerated or rehabilitated centuries later).
 
@@ -2379,7 +2381,17 @@ would be interesting to find out Jost von Silenen's date of birth and whether th
 is a specific star constellation. While specialist journals dominate in the natural
 sciences, monographs are still the highest scientific standard in the humanities."
 
-What this also suggests is, that while the scientific experts of Silenen's era probably had a role in creating the book, the humanities today are tasked with deciphering something that may be lost due to modern scientific methods. It isn't to say no one can put it back together, but that it requires almost like a Rennaissance mindset, one that Dr. Bernhart-Konigstein is well qualified to make. But not just any Rennaissance scholar, but one:
+What this also suggests is, that while the scientific experts of Silenen's era probably had a role in creating the book, the humanities today are tasked with deciphering something that may be lost due to modern scientific methods. 
+
+"One modern scholar, Alan Cutler, described Kircher as "a giant among seventeenth-century scholars", and "one of the last thinkers who could rightfully claim all knowledge as his domain".[4] Another scholar, Edward W. Schmidt, referred to Kircher as "the last Renaissance man". In A Man of Misconceptions, his 2012 book about Kircher, John Glassie wrote "many of Kircher's actual ideas today seem wildly off-base, if not simply bizarre,"[5] but he was "a champion of wonder, a man of awe-inspiring erudition and inventiveness," whose work was read "by the smartest minds of the time."
+...
+[4]  Cutler, p. 68.
+[6]  Glassie, p. xv.
+Paula Findlen: Athanasius Kircher: The Last Man Who Knew Everything. New York, Routledge, 2004. ISBN 0-415-94016-8."
+https://en.wikipedia.org/wiki/Athanasius_Kircher
+
+
+It isn't to say no one can put it back together, but that it requires almost like a Rennaissance mindset, one that Dr. Bernhart-Konigstein is well qualified to make. But not just any Rennaissance scholar, but one:
 
 ![image](https://user-images.githubusercontent.com/76194453/229678445-e7a2ee70-81dc-4a87-b80f-6c1710c24256.png)
 
