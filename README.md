@@ -1,8 +1,10 @@
 ---
 4/4/2023
 ----
+
 Since I use quotes extensively, they are key to these notes. If I am missing quotes anywhere, please let me know, as I take great effort to ensure quotes are always demarcated. Occasionally quotes will be featured within other quotes, and I may not always change the internal quotes to single apostophe, but the quotes are usually no more than a few paragraphs, so it should not be ambiguous as to where the quotes are from. If I had more time, I would indent every place where I am quoting or not quoting with a more visible marker such as boldfont and "Quote:" and "Me::" etc. 
---
+
+---
 Update: 4/3/2023: 
 --
 A portable copy of this readme file can be downloaded from my dropbox: (299MB)
