@@ -1216,7 +1216,7 @@ f72r2
 
 ![image](https://user-images.githubusercontent.com/76194453/229268349-124f0607-97b1-4c6d-8421-eb914830bb0c.png)
 
-f72r3
+f72r3 (said to be Cancer crab, but also seems symbolic for the hidden story) 
 
 ![image](https://user-images.githubusercontent.com/76194453/229268370-8f8b5d03-69cc-4a7b-9063-765a662f3016.png)
 
