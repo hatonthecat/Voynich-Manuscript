@@ -2410,8 +2410,8 @@ https://books.google.ht/books?id=TkoyEaswQKMC&printsec=frontcover&hl=fr&source=g
 Bibliographic Details
 Imprint:	Rochester, NY : University of Rochester Press, 2001."
 
-In Bakhtin's words: "In rennaissance literature... the very concept that the Renaissance held of the world, was deeply permeated by a carnivaleque perception of reality, and often took on its forms and symbols.
+In Bakhtin's words: "In Rennaissance literature... the very concept that the Renaissance held of the world, was deeply permeated by a carnivaleque perception of reality, and often took on its forms and symbols."
 
- What better way to write a memoir by characterizing its era with the very playfulness that was seen in the Rennaissance's daily life? If Jost von Silenen was a patron of the arts, that alone does not suggest all of his non-chronological chronicles would necessitate a Michelangeloan brushstroke, but would at the very least hint somewhere in all of its prickliness, that there can be a comedy in a den of wolves. 
+What better way to write a memoir by characterizing its era with the very playfulness that was seen in the Rennaissance's daily life? If Jost von Silenen was a patron of the arts, that alone does not suggest all of his non-chronological chronicles would necessitate a Michelangeloan brushstroke, but would at the very least hint somewhere in all of its prickliness, that there can be a comedy in a den of thieves. 
 
 https://criticalphysio.net/2015/01/22/metaphors-of-rhizomatic-thinking/#:~:text=Deleuze%20proposed%20an%20alternative%20way,'
