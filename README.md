@@ -301,6 +301,9 @@ As I suspected, he purchased some heavily discounted texts using questionable pr
 Buying rare books on the cheap and marking them up is certainly a way to make a living, but I would recommend those in posession of such valuable goods to hold on to them, try to digitize them carefully(some require expensive equipment to prevent it from crumbling/fading), and ensure they stay in good hands- certainly a musuem could make a business out of it, but so can a private collector:
 
 http://www.voynich.nu/curricula.html#wvoynich
+Obviously some things do belong in a museum, though if something is priceless then it should not have a price tag (other than the effort for it to change hands)
+
+Interestingly, Voynich's will was released within the past 6 months: https://ceur-ws.org/Vol-3313/paper14.pdf (2022)
 
 "Among the books he acquired as a result of this transaction was a peculiar volume, of some age and obviously written in code, which was to provide him with a more than contemporary notability. (There are some arguments that the volume did not originate in the stated location - inter alia he said that he had acquired it from 'a castle' - and used the Villa as misdirection.)"
 
