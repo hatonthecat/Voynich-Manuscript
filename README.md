@@ -2599,3 +2599,9 @@ https://www.e-codices.unifr.ch/en/thumbs/stalu/COD-1080/ Egloff Etterlein's cart
 
 ![image](https://user-images.githubusercontent.com/76194453/229917184-a838ecea-91cd-42d2-a2f2-3cde02b46174.png)
 
+---
+8:36 PM Return of the Polymath
+---
+
+![image](https://user-images.githubusercontent.com/76194453/229969909-532fcf87-94c3-4cb5-a08d-2ec9d81433f9.png)
+
