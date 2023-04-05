@@ -2674,3 +2674,22 @@ https://academic.oup.com/mbe/article/21/2/255/1187993
 Recent research: 
 https://ceur-ws.org/Vol-3313/paper11.pdf
 This approach is interesting because determining the right association of glyphs could reveal something that a linear chart might not be able to. Combining different associations might lead to one correct temporal lineage of word usage, but categorization is a very meta and subjective tool. 
+
+
+---
+Radiocarbon
+---
+
+Regarding Radiocarbon dating, I am not sure if this has any effect, but the margin of error at one point was +/-:
+
+"Calculating radiocarbon ages also requires the value of the half-life for 14
+C. In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al.[25] This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years,[26] and this value was in use for more than a decade. It was revised again in the early 1960s to 5,730 ± 40 years,[27][28] which meant that many calculated dates in papers published prior to this were incorrect (the error in the half-life is about 3%).[note 5] For consistency with these early papers, it was agreed at the 1962 Radiocarbon Conference in Cambridge (UK) to use the "Libby half-life" of 5568 years. Radiocarbon ages are still calculated using this half-life, and are known as "Conventional Radiocarbon Age". Since the calibration curve (IntCal) also reports past atmospheric 14
+C concentration using this conventional age, any conventional ages calibrated against the IntCal curve will produce a correct calibrated age. When a date is quoted, the reader should be aware that if it is an uncalibrated date (a term used for dates given in radiocarbon years) it may differ substantially from the best estimate of the actual calendar date, both because it uses the wrong value for the half-life of 14
+C, and because no correction (calibration) has been applied for the historical variation of 14
+C in the atmosphere over time.[23][24][30][note 6]"
+
+https://en.wikipedia.org/wiki/Radiocarbon_dating#Principles
+
+Whether or not this impacts the expected range from early 1400s to mid to late 1400s only affects whether a suspected author was alive during the earlier period, which can include a wider range of authors from the late 1300s, to the late 1400s. 
+
+I do not know if how many radiocarbon tests were performed, and how many different parts of the manuscript were tested, but it could reveal some additional information on whether one scribe wrote part of it during a certain era, other than the expected later 1400s towards the 100+v pages.
