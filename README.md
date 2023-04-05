@@ -2612,7 +2612,8 @@ If a true polymath created the manuscript, then it might take a polymath to decr
 ---
 It would appear the "Austrian and a Swiss" could be in reference to those of the Rutli Oath, from the time of William Tell (as it was from 1315)
 
-![Europe_at_the_Accession_of_the_Emperor_Charles_V_(1519)](https://user-images.githubusercontent.com/76194453/229973612-db7002ba-467b-452b-8d27-4732b5f63fe8.jpg)
+![Europe_at_the_Accession_of_the_Emperor_Charles_V_(1519)](https://user-images.githubusercontent.com/76194453/229974155-690a5796-23fb-40c6-b61b-a7af8aab2401.jpg)
+
 https://upload.wikimedia.org/wikipedia/commons/3/3f/Europe_at_the_Accession_of_the_Emperor_Charles_V_%281519%29.jpg
 
 ![image](https://user-images.githubusercontent.com/76194453/229973905-3b334bcf-89a4-4334-83a0-82a0e7ebbe87.png)compard to today 
