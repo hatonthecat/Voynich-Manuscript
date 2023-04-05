@@ -2605,3 +2605,4 @@ https://www.e-codices.unifr.ch/en/thumbs/stalu/COD-1080/ Egloff Etterlein's cart
 
 ![image](https://user-images.githubusercontent.com/76194453/229969909-532fcf87-94c3-4cb5-a08d-2ec9d81433f9.png)
 
+If a true polymath created the manuscript, then it might take a polymath to decrypt it. That or enough minds put together.
