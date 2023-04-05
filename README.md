@@ -2680,7 +2680,7 @@ This approach is interesting because determining the right association of glyphs
 Radiocarbon
 ---
 
-Regarding Radiocarbon dating, I am not sure if this has any effect, but the margin of error at one point was +/-:
+Regarding Radiocarbon dating, I am not sure if this has any effect, but the margin of error at one point was +/-47 uears:
 
 "Calculating radiocarbon ages also requires the value of the half-life for 14
 C. In Libby's 1949 paper he used a value of 5720 ± 47 years, based on research by Engelkemeir et al.[25] This was remarkably close to the modern value, but shortly afterwards the accepted value was revised to 5568 ± 30 years,[26] and this value was in use for more than a decade. It was revised again in the early 1960s to 5,730 ± 40 years,[27][28] which meant that many calculated dates in papers published prior to this were incorrect (the error in the half-life is about 3%).[note 5] For consistency with these early papers, it was agreed at the 1962 Radiocarbon Conference in Cambridge (UK) to use the "Libby half-life" of 5568 years. Radiocarbon ages are still calculated using this half-life, and are known as "Conventional Radiocarbon Age". Since the calibration curve (IntCal) also reports past atmospheric 14
