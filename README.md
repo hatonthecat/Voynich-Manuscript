@@ -294,7 +294,13 @@ https://www.historyfiles.co.uk/FeaturesEurope/EasternPoland_Voynich01.htm
 
 "Wilfrid was a regular visitor to the Continent, in particular to Italy (during which he became friends with Achille Ratti, at that point a librarian, who would eventually become Pope Pius XI). He was able to buy large quantities of old books and manuscripts, from religious houses and other places, on one occasion persuading the religious in question to take what he considered to be modern tat in exchange for some wonderful old texts. In 1912 he visited the Villa Mondragone, Frascati, at the request of the Jesuits there - who wished to sell some of their books in order to raise funds (this being done, apparently, without the knowledge of their superiors)."
 
-As I suspected, he purchased some heavily discounted texts using questionable practices, then marking them up in the UK and U.S.
+As I suspected, he purchased some heavily discounted texts using questionable practices, then marking them up in the UK and U.S:
+
+"Following up on the advice of Garnett, Wilfrid became a regular visitor to the Continent, in particular to Italy. He was able to buy large quantities of old books and manuscripts from religious houses and other places. On one occasion he visited a convent in Italy and the monks showed him their library of early printed books and codices. He reportedly told the monks they could have a most interesting and valuable collection of modern theological works to replace their dusty rubbish. Within a month he owned the whole valuable library in exchange for a lot of modern garbage (K.7). On another occasion he visited Corsica and reportedly came back with 600 incunabula (K.8)."
+
+Buying rare books on the cheap and marking them up is certainly a way to make a living, but I would recommend those in posession of such valuable goods to hold on to them or ensure they stay in good hands- certainly a musuem could make a business out of it, but so can a private collector:
+
+http://www.voynich.nu/curricula.html#wvoynich
 
 "Among the books he acquired as a result of this transaction was a peculiar volume, of some age and obviously written in code, which was to provide him with a more than contemporary notability. (There are some arguments that the volume did not originate in the stated location - inter alia he said that he had acquired it from 'a castle' - and used the Villa as misdirection.)"
 
