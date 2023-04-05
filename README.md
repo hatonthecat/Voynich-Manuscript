@@ -298,7 +298,7 @@ As I suspected, he purchased some heavily discounted texts using questionable pr
 
 "Following up on the advice of Garnett, Wilfrid became a regular visitor to the Continent, in particular to Italy. He was able to buy large quantities of old books and manuscripts from religious houses and other places. On one occasion he visited a convent in Italy and the monks showed him their library of early printed books and codices. He reportedly told the monks they could have a most interesting and valuable collection of modern theological works to replace their dusty rubbish. Within a month he owned the whole valuable library in exchange for a lot of modern garbage (K.7). On another occasion he visited Corsica and reportedly came back with 600 incunabula (K.8)."
 
-Buying rare books on the cheap and marking them up is certainly a way to make a living, but I would recommend those in posession of such valuable goods to hold on to them, try to digitize them carefully, and ensure they stay in good hands- certainly a musuem could make a business out of it, but so can a private collector:
+Buying rare books on the cheap and marking them up is certainly a way to make a living, but I would recommend those in posession of such valuable goods to hold on to them, try to digitize them carefully(some require expensive equipment to prevent it from crumbling/fading), and ensure they stay in good hands- certainly a musuem could make a business out of it, but so can a private collector:
 
 http://www.voynich.nu/curricula.html#wvoynich
 
