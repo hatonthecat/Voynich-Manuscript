@@ -2767,12 +2767,29 @@ I also downloaded another JP2 a few days ago, so I am excited to be able to have
 ---
 1:22 PM
 ---
- Internet Archive link for JP2 for Coynich Manuscript:
+ Internet Archive link for JP2/JPEG for Voynich Manuscript:
  https://archive.org/details/voynich
  
- I also was able to view https://en.wikipedia.org/wiki/Mundus_Subterraneus_(book) 
+ I also was able to view https://en.wikipedia.org/wiki/Mundus_Subterraneus_(book) https://archive.org/details/mundussubterrane00unse/page/n9/mode/2up which mentions Lucerne folklore- dragons 
  
- and Newton's Principia https://archive.org/download/newtonspmathema00newtrich (as a test and general curiousity) The resolution is much higher:
+ btw - Mary D'Imperio's has a nice drawing p.86-87 Which is suggestive of the canton roots (Rutli Oath~ "Root"- get it?:
+ 
+ ![image](https://user-images.githubusercontent.com/76194453/230467344-bcdcfc94-deda-4eb6-937c-d95ceac13803.png)
+
+![image](https://user-images.githubusercontent.com/76194453/230467641-63fd58ab-013b-4151-9085-d533c7972486.png)
+
+![image](https://user-images.githubusercontent.com/76194453/230467743-f3e497aa-c743-434f-93c1-b0a795572e1c.png)
+
+Habsburg moniary (from 1273-1804 Coat of Arms compare with ^ 46V
+
+![image](https://user-images.githubusercontent.com/76194453/230468066-fd98d938-18b9-45f1-81ca-089e079f58dc.png)
+
+Dr. Gregory Bernhart-Konigstein's theory seems very plausible! 
+
+--------
+
+ 
+and Newton's Principia https://archive.org/download/newtonspmathema00newtrich (as a test and general curiousity) The resolution is much higher:
  
 Advantages of JP2 over JPEG: "JPEG 2000 only produces ringing artifacts, manifested as
 blur and rings near edges in the image, while JPEG produces both
@@ -2784,7 +2801,7 @@ http://brbl-dl.library.yale.edu/vufind/Record/3519597
 Converted to jpg at original quality" That's if no compression was made. I can't say for sure, so I'll say it's around the same quality when zoomed at 100% .
 It's nicer than the pdf version due to the lack of margins at the very least. Not going to complain :) 
 
-Also for context, an interesting aspect is the in person view shows some revealing aspects- the colors and page texture: https://voynichmanuscript.gold/2022/06/13/a-rare-viewing-of-the-voynich-manuscript/
+Also for context, an interesting aspect is the in person view shows some revealing aspects- the colors and page texture: https://voynichmanuscript.gold/2022/06/13/a-rare-viewing-of-the-voynich-manuscript/ 
 
 It would be nice to see another scan from different angles. The Swiss library does some amazing scans, each file also around 10MB:
 
