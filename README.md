@@ -2777,3 +2777,15 @@ I also downloaded another JP2 a few days ago, so I am excited to be able to have
 Advantages of JP2 over JPEG: "JPEG 2000 only produces ringing artifacts, manifested as
 blur and rings near edges in the image, while JPEG produces both
 ringing artifacts and 'blocking' artifacts, due to its 8×8 blocks."
+
+the Jason Davies site appears to have better quality for VM. the internet archive one seems downgraded even though it says at original quality:
+"Original 2014 scan jp2 files downloaded from:
+http://brbl-dl.library.yale.edu/vufind/Record/3519597
+Converted to jpg at original quality" That's if no compression was made. I can't say for sure, so I'll say it's around the same quality when zoomed at 100% .
+It's nicer than the pdf version due to the lack of margins at the very least. Not going to complain :) 
+
+Also for context, an interesting aspect is the in person view shows some revealing aspects- the colors and page texture: https://voynichmanuscript.gold/2022/06/13/a-rare-viewing-of-the-voynich-manuscript/
+
+It would be nice to see another scan from different angles. The Swiss library does some amazing scans, each file also around 10MB:
+
+https://www.e-codices.unifr.ch/de/thumbs/snm/LM004624-2/ 
