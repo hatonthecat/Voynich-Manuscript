@@ -2793,6 +2793,11 @@ Habsburg monarchy (from 1273-1804 Coat of Arms compare and also compare Geneva C
 
 ![image](https://user-images.githubusercontent.com/76194453/230468066-fd98d938-18b9-45f1-81ca-089e079f58dc.png)
 
+Also compare to 46v: ![image](https://user-images.githubusercontent.com/76194453/230473985-83cf806e-5da6-4821-a6ab-2f9e2bdf042c.png)
+
+https://www.jasondavies.com/voynich/#f46v/0.5/0.5/5.00 (online version of 46v)
+
+
 Dr. Gregory Bernhart-Konigstein's theory seems very plausible! 
 
 --------
