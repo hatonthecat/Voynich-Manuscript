@@ -2763,3 +2763,17 @@ Here is OpenJPEG Viewer in action, with nice side-drop down menus for additional
 ![image](https://user-images.githubusercontent.com/76194453/230456550-799a2ef4-9a42-49d1-8ecc-ffdb695aa99e.png)
 
 I also downloaded another JP2 a few days ago, so I am excited to be able to have a program that actually works. :)
+
+---
+1:22 PM
+---
+ Internet Archive link for JP2 for Coynich Manuscript:
+ https://archive.org/details/voynich
+ 
+ I also was able to view https://en.wikipedia.org/wiki/Mundus_Subterraneus_(book) 
+ 
+ and Newton's Principia https://archive.org/download/newtonspmathema00newtrich (as a test and general curiousity) The resolution is much higher:
+ 
+Advantages of JP2 over JPEG: "JPEG 2000 only produces ringing artifacts, manifested as
+blur and rings near edges in the image, while JPEG produces both
+ringing artifacts and 'blocking' artifacts, due to its 8×8 blocks."
