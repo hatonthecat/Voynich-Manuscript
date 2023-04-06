@@ -2797,6 +2797,8 @@ Also compare to 46v: ![image](https://user-images.githubusercontent.com/76194453
 
 https://www.jasondavies.com/voynich/#f46v/0.5/0.5/5.00 (online version of 46v)
 
+![Flag_of_Canton_of_Geneva svg](https://user-images.githubusercontent.com/76194453/230475722-a4fccd6f-db61-47c6-b177-d24dfcdb4a7f.png)
+And Geneva (larger img comparison)
 
 Dr. Gregory Bernhart-Konigstein's theory seems very plausible! 
 
