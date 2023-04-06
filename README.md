@@ -2693,3 +2693,30 @@ https://en.wikipedia.org/wiki/Radiocarbon_dating#Principles
 Whether or not this impacts the expected range from early 1400s to mid to late 1400s only affects whether a suspected author was alive during the earlier period, which can include a wider range of authors from the late 1300s, to the late 1400s. 
 
 I do not know if how many radiocarbon tests were performed, and how many different parts of the manuscript were tested, but it could reveal some additional information on whether one scribe wrote part of it during a certain era, other than the expected later 1400s towards the 100+v pages.
+
+---
+11:36PM THE VM: An unwitting Rorschach test 
+---
+
+
+The Landa Khojki theory is interesting, because some of the characters share resemblance, but it also suggests that the Manuscript was partially synthetic if it had access to a diverse variety of languages, especially in a region such as Rome, where many travelers may have crossed paths with clergy. 
+
+
+---
+Synthetic, as in Pidgin-like?
+---
+
+As I read Mary D'Imperio's The Elegant Enigma, I am intrigues by the synthetic theory suggested by 6.6 John Tiltman (p.42-43), where he "notes the ordering of characters within word in such a way that they seem to reflect entitiees like stems and affixes. Certain symbols most often begin words, and cluster there with certain other symbols: others exhibit a preference for the ends of words, where they cluser in certain arrangements with other symbols.
+
+Sound familiar? If you have noticed the ornate and metamorphosing illustrations of roots hybridized with other plants, and stoves transforming into rivers or other impossible depictions, the style of drawing, whether it is synesthesia or something else, shares synthetic and creative intent, and the glyphs cannot be viewed separately from the drawings, in the sense that, at the very least, it strongly suggests the person who could illustrate magical drawings would not be above hybridizing/inventing glyphs that are a fusion between two alphabets to make them intentionally ambiguous, similar to a Rorschach test. But more than likely are many more unintentional interpretations, unless somehow an intelligible decoding a clear history "chronicle" could never be deciphered. It is also possible that there could have been a key /legend that was known on a code-word basis- that is orally spoken between one or more scribes, but never hinted at in the text. That would resemble the long form anagram by Friedman, (6.5), where knowing where the flanking ends of a segment  of text, that is, from page 30-70 could be read if the parts outside of it were ignored, then a verbose cipher decoded that followed a pattern that was only found between that segment. It might be harder to locate a segment of intelligible text without knowing where to begin and end the excision, but computational models, if they have not already, could apply  combinatorial (and permutational) techniques of excising code segments in a brute force way that seek for patterns by excising varieties of glyphs without including segments which could have been intentionally non-intelligible.
+
+That the author would use letters like chloroplasts to create a stem and a leaf, suggests an interesting pattern for enipherization- one that does not begin from left to right, or right to left, but in a branched manner- essentially using letters in a pictoral way, which is similar to Eastern columns, but represented in left to right form, to be later stacked like branches. This could reveal patterns, which may have already been arranged. 
+
+An important aspect to consider, I believe, is that synthetic is not a dead-end, as unattractive as it can appear. It is kind of like AI, where renderings merge two different objects, and create a bizarre composite such as an Astronaut in a spacesuit on a horse. Perhaps the interest in the Voynich Manuscript now is due to the similarities in this concept, long familiar to artistic and creative types, but never so deeply permeating all types of glyphs and illustrations, at least in such an early era. I am making too many assumptions though, it is hard to rule out even the Khojki theory, as difficult it is to understand what the translated text suggests.
+https://journals.plos.org/plosone/article/comment?id=10.1371/annotation/c768ead0-9371-4347-8d84-9e021e80c71b
+https://www.youtube.com/watch?v=Bstr8HQHuMY
+
+
+Some other interesting theories: The Grolier Codex
+
+https://proto57.wordpress.com/2014/02/10/the-grolier-codex-forgery/
