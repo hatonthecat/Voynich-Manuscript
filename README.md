@@ -2727,3 +2727,39 @@ https://proto57.wordpress.com/2014/02/10/the-grolier-codex-forgery/
 ---
 
 https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Sitten%201640.JPG Added comparison for Sion/Sitten town walls. See "..." for additional details
+
+---
+12:35 PM -  JP2 Codecs and Viewers are Difficult- OPJ Viewer is the First program that was able to display a JP2 file after several days of dead ends
+---
+
+OPJViewer http://dsplab.diei.unipg.it/~baruffa/OPJViewer/win32/ 
+
+Lots of file formats I'm seeing just JP2. I've never had worse out of the box support of this format. Not even IrfanView would work after installing *all* of the reccomended plugins.  
+
+https://en.wikipedia.org/wiki/JPEG_2000 
+https://www.openjpeg.org/
+
+If you know of JP2 viewers that work out of the box that are newer than 2008, let me know, but I am perfectly happy using 15 year old beta software, lol
+
+https://archive.org/details/VoynichManuscriptAnElegantEnigma/page/n49/mode/2up 
+
+![image](https://user-images.githubusercontent.com/76194453/230455018-8eff6413-274c-42a4-b329-3083045b92ea.png)
+
+![image](https://user-images.githubusercontent.com/76194453/230455337-0d82c571-bf13-4946-b8af-20e98d4fa15d.png)
+
+
+ After downloading All (Clicking "13 Files" will automatically start a 202MB .zip file download- you can also click Show All all to check first the directory to download separately), there is a zip file that I was able to extract, which subsequently extracted another file that needed to be extracted:
+ 
+ ![image](https://user-images.githubusercontent.com/76194453/230455244-a2caecf4-2069-475d-ae67-726a6b2d454c.png)
+
+Once extracted, it will create a folder, that looks like this: 
+
+![image](https://user-images.githubusercontent.com/76194453/230455971-2f36095b-e754-4d7b-9d61-ceaebd55ec6c.png)
+
+There are 140 files. 
+
+Here is OpenJPEG Viewer in action, with nice side-drop down menus for additional metadata:
+
+![image](https://user-images.githubusercontent.com/76194453/230456550-799a2ef4-9a42-49d1-8ecc-ffdb695aa99e.png)
+
+I also downloaded another JP2 a few days ago, so I am excited to be able to have a program that actually works. :)
