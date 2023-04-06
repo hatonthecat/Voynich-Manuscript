@@ -2720,3 +2720,10 @@ https://www.youtube.com/watch?v=Bstr8HQHuMY
 Some other interesting theories: The Grolier Codex
 
 https://proto57.wordpress.com/2014/02/10/the-grolier-codex-forgery/
+
+
+---
+4/6/20223 10:13 AM
+---
+
+https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Sitten%201640.JPG Added comparison for Sion/Sitten town walls. See "..." for additional details
