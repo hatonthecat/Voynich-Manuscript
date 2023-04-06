@@ -2789,7 +2789,7 @@ Bern 39v1 (ot 90v1) (these are quick guesses- I will try to put more time into s
 
 ![image](https://user-images.githubusercontent.com/76194453/230467743-f3e497aa-c743-434f-93c1-b0a795572e1c.png)
 
-Habsburg moniary (from 1273-1804 Coat of Arms compare with ^ 46V
+Habsburg monarchy (from 1273-1804 Coat of Arms compare and also compare Geneva Coat of Arms  with ^ 46V - could be either but seems reference to Hapsburg due to its prominence and centrality (or at least main character) in the story of Swiss
 
 ![image](https://user-images.githubusercontent.com/76194453/230468066-fd98d938-18b9-45f1-81ca-089e079f58dc.png)
 
