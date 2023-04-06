@@ -2778,6 +2778,15 @@ I also downloaded another JP2 a few days ago, so I am excited to be able to have
 
 ![image](https://user-images.githubusercontent.com/76194453/230467641-63fd58ab-013b-4151-9085-d533c7972486.png)
 
+![image](https://user-images.githubusercontent.com/76194453/230468667-ea117daf-cac6-4fda-a02f-09e24f6f4746.png)
+ 39V1
+ 
+ ![image](https://user-images.githubusercontent.com/76194453/230468888-2458f84a-d915-490a-b75a-d3e33ff6b593.png)
+Obwalden 14v
+
+![image](https://user-images.githubusercontent.com/76194453/230469436-58c0e49a-677e-4904-83f7-66a778bdb5a2.png)
+Bern 39v1 (ot 90v1) (these are quick guesses- I will try to put more time into sorting these but they kinda match)
+
 ![image](https://user-images.githubusercontent.com/76194453/230467743-f3e497aa-c743-434f-93c1-b0a795572e1c.png)
 
 Habsburg moniary (from 1273-1804 Coat of Arms compare with ^ 46V
