@@ -2822,3 +2822,15 @@ Also for context, an interesting aspect is the in person view shows some reveali
 It would be nice to see another scan from different angles. The Swiss library does some amazing scans, each file also around 10MB:
 
 https://www.e-codices.unifr.ch/de/thumbs/snm/LM004624-2/ 
+
+---
+4/15/2023
+---
+https://digital.bodleian.ox.ac.uk/objects/ca49c07b-cfb5-41cc-ab66-c215e1268a05/surfaces/3a26b616-00f7-4280-b785-7e0208b597fe/
+https://www.historyofinformation.com/detail.php?id=1562
+https://www.reddit.com/r/voynich/comments/wgqzv6/architecture_from_voynich_rosettes_page_and/
+fol132r:
+![image](https://user-images.githubusercontent.com/76194453/232253287-79e77d7b-6fa3-4eff-9342-92e96a367e6c.png)
+
+It appears to spell "Illyricvm", https://en.wikipedia.org/wiki/Illyrian_language
+Bodleian Library MS. Canon. Misc. 378  
