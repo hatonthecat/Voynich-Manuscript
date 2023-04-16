@@ -2834,3 +2834,45 @@ fol132r:
 
 It appears to spell "Illyricvm", https://en.wikipedia.org/wiki/Illyrian_language
 Bodleian Library MS. Canon. Misc. 378  
+
+---
+9:01 PM
+---
+
+Could metadata be used to discover new information about ancient history? Metadata is known to be the "most useful tool" https://www.businessinsider.com/nsa-document-metadata-2016-12 Applied to privacy, it has far a different meaning. Applied to centuries old rare books, few, if any, have made the suggestion, even though it is far less controversial.  https://www.computer.org/csdl/magazine/sp/2014/02/msp2014020084/13rRUxAASZk
+
+What is metadata? Metadata is a collection of datapoints that can suggest factual evidence of an event or relationship. Put broadly, it is a tool for examining information, even if the information alone does not suggest anything. Metadata can reveal patterns, or be used to estimate patterns. Either way, it is a tool made more powerful with supercomputers, due to the computational proccessing requirements needed to potentially make any sense of it. What might have required a datacenter a decade ago could now be run on a laptop or even a smart phone.
+
+The history of Newspapers, and the Printing Press.
+
+https://open.lib.umn.edu/mediaandculture/chapter/4-2-history-of-newspapers
+
+"Scholars commonly credit the ancient Romans with publishing the first newspaper, Acta Diurna, or daily doings, in 59 BCE. Although no copies of this paper have survived, it is widely believed to have published chronicles of events, assemblies, births, deaths, and daily gossip.
+
+In 1566, another ancestor of the modern newspaper appeared in Venice, Italy. These avisi, or gazettes, were handwritten and focused on politics and military conflicts. However, the absence of printing-press technology greatly limited the circulation for both the Acta Diurna and the Venetian papers."
+
+The Birth of the Printing Press
+
+Johannes Gutenberg’s printing press drastically changed the face of publishing. In 1440, Gutenberg invented a movable-type press that permitted the high-quality reproduction of printed materials at a rate of nearly 4,000 pages per day, or 1,000 times more than could be done by a scribe by hand. This innovation drove down the price of printed materials and, for the first time, made them accessible to a mass market. Overnight, the new printing press transformed the scope and reach of the newspaper, paving the way for modern-day journalism."
+
+Let's say the a super computer could log all of the information collected on webpages and search queries on Wilfred Voynich- it could scrape all data from websites and collect hundreds of pages that have never been assembled before. The data itself wouldn't be analyzed immediately, but it could serve as a repository for searchable information, allowing potentially new insights that have never been made before. For example, of all the documents that have been published on an author, perhaps some mentions of a city or country might appear in a number of searches that had been overlooked. for example, if someone recently digitized information about where an individual resided in a certain year, that information might not have been digitized for decades or centuries after the fact. For example, if Wilfred Voynich visited Germany in 1890 but the only record of his visit previously was 1892, then additional information could be searched in city gazettes to cross-reference activity in those cities. What events took place- a book sale, an estate sale, for example. While he may not have been collecting books at that time, the idea that metadata can be applied to historical knowledge is not exactly new, but it can be made much more efficient with searchable text and OCR.
+
+Digitization could also expedite searching the hundreds of books from a city or time period: https://www.edsurge.com/news/2017-08-10-what-happened-to-google-s-effort-to-scan-millions-of-university-library-books
+
+https://www.openculture.com/2019/09/libraries-archivists-are-digitizing-480000-books.html
+
+https://www.quora.com/Have-all-books-and-literature-available-in-the-world-been-digitised
+ from Quora:
+ 
+"No.
+
+I would say that less than a tenth has been.
+
+There are millions of “inconsequential” books, mostly novels by authors no one these days has ever heard of, that still exist in used book stores and libraries and attics somewhere, that will never be digitized because no one cares about them.
+
+There are also millions of rare books in collections that have never been digitized because they are fragile, and it takes a special team and setup to do it properly."
+
+But those "inconsequential books may not turn out to be so inconsequential. For example, there are many blogs that talk about celebrity sightings in cities. While many of those blogs reveal information that is common knowledge (celebrity lives in City A or B), it can also serve as an amateur newspaper of "record" in that it establishes a record that something happened. If, 50 years from now, someone wanted to check if a person was in a city on a certain date, they might find a blog post stating this person was here on this date- an alibi. But applied to authorship of historical literature- if a French author was also a knight and was believed to be at war in a certain year, and a Venetian gazette in the 1600s writes about a visiting French warrior visiting town, but only documented in a single municipal library, the digitization of that record could speed up the determination of whether an author may have signed a book on a certain date in Paris, if there was no way he could be in Venice on the same day he was spotted. That is one example that metadata could be used to enhance the details of a timeline of a Rennaissance era biography, since the datapoints- the idle chatter (celebrity spottings) become quite useful information for a historian tracing the gaps in historical knowledge for even some of the more famouse individuals. After all, the Rennaissance didn't have vlogs to document the record of every day occurences. Digitizing much of the written record, whether it was on the printing press for local newspaper or a national text of contemporary importance, could see much more throughput of actionable information for various historical research projects.
+
+
+
