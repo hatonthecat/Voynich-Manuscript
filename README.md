@@ -2874,5 +2874,41 @@ There are also millions of rare books in collections that have never been digiti
 
 But those "inconsequential books may not turn out to be so inconsequential. For example, there are many blogs that talk about celebrity sightings in cities. While many of those blogs reveal information that is common knowledge (celebrity lives in City A or B), it can also serve as an amateur newspaper of "record" in that it establishes a record that something happened. If, 50 years from now, someone wanted to check if a person was in a city on a certain date, they might find a blog post stating this person was here on this date- an alibi. But applied to authorship of historical literature- if a French author was also a knight and was believed to be at war in a certain year, and a Venetian gazette in the 1600s writes about a visiting French warrior visiting town, but only documented in a single municipal library, the digitization of that record could speed up the determination of whether an author may have signed a book on a certain date in Paris, if there was no way he could be in Venice on the same day he was spotted. That is one example that metadata could be used to enhance the details of a timeline of a Rennaissance era biography, since the datapoints- the idle chatter (celebrity spottings) become quite useful information for a historian tracing the gaps in historical knowledge for even some of the more famouse individuals. After all, the Rennaissance didn't have vlogs to document the record of every day occurences. Digitizing much of the written record, whether it was on the printing press for local newspaper or a national text of contemporary importance, could see much more throughput of actionable information for various historical research projects.
 
+4/25/2023
+----
+f17r Marginalia- Melker Russ? 
+![image](https://user-images.githubusercontent.com/76194453/234573618-0954f6af-bbb9-4a46-b6cf-ce8b75a4e2a7.png) 
 
+https://de.wikipedia.org/wiki/Melchior_Russ
+![image](https://user-images.githubusercontent.com/76194453/234573952-93f1f62a-23c5-4a3e-b51b-82879f59298b.png)
+
+(p.58 of Dr. Bernhart-Koenigstein)
+
+geschichtsquellen.de/autor/4678
+
+https://www.zentralplus.ch/blog/damals-blog/melchior-russ-ein-armer-luzerner-ritter-schreibt-geschichte/
+https://www.deutsche-biographie.de/gnd100960154.html
+
+![image](https://user-images.githubusercontent.com/76194453/234575363-dfa417a3-7c99-4292-9dc9-ccb85c7a9e89.png)
+St. Maurice at 116r
+
+![image](https://user-images.githubusercontent.com/76194453/234576848-5a277ad7-3a48-4e66-9193-6e581656bc55.png)
+
+![image](https://user-images.githubusercontent.com/76194453/234577386-d6b51930-e913-40f6-88d6-8eb5121d379c.png)
+
+"valsch Abtey" 116v
+
+"Swiss Cantons
+Ágoston-rendi Szent Mór-kolostor a svájci Wallis kantonban -- Augustinian Monastery of Saint Maurice in the Swiss canton of Valais -- Monasterio agustino de San Mauricio, en el cantón suizo de Valais'
+https://hu.pinterest.com/pin/506232814340824571/ 
+https://en.wikipedia.org/wiki/Abbey_of_Saint-Maurice_d%27Agaune
+
+"Valsch Abtey" does seem legible on the last line, if it can be confirmed as such. 
+
+On the 2nd to the last line: 
+This appears to be Maurix (The St. Maurice Abbey) :![image](https://user-images.githubusercontent.com/76194453/234581877-5e2c5518-3b14-45c8-91b2-92736ae8ada9.png)
+
+"morix"
+
+This appears to be Morix: ![image](https://user-images.githubusercontent.com/76194453/234580912-766bdb80-8c4b-4c06-ba5d-6de4e56a646b.png)
 
