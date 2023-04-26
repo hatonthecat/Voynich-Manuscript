@@ -2882,7 +2882,7 @@ f17r Marginalia- Melker Russ?
 https://de.wikipedia.org/wiki/Melchior_Russ
 ![image](https://user-images.githubusercontent.com/76194453/234573952-93f1f62a-23c5-4a3e-b51b-82879f59298b.png)
 
-(p.58-9 of Dr. Bernhart-Koenigstein)
+(p.58-9 of Dr. Bernhart-Konigstein)
 
 geschichtsquellen.de/autor/4678
 
