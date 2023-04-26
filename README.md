@@ -2912,3 +2912,20 @@ This appears to be Maurix (The St. Maurice Abbey) :![image](https://user-images.
 
 This appears to be Morix: ![image](https://user-images.githubusercontent.com/76194453/234580912-766bdb80-8c4b-4c06-ba5d-6de4e56a646b.png)
 
+9:41AM
+
+A Map of Europe in 1444:
+
+https://www.visualcapitalist.com/map-of-medieval-europe-in-1444/
+![image](https://user-images.githubusercontent.com/76194453/234611946-4f6a754d-2466-4a51-b8d6-1874dafc4458.png)
+
+full size 13MB
+https://www.visualcapitalist.com/wp-content/uploads/2021/06/medieval-map-of-europe-in-1444.html
+This map reveals much about the diversity of an era- not just in regional differences, but most likely dialects which most likely no longer exist:
+
+Child (1976),[75] a linguist of Indo-European languages for the U.S. National Security Agency, proposed that the manuscript was written in a "hitherto unknown North Germanic dialect".[75] He identified in the manuscript a "skeletal syntax several elements of which are reminiscent of certain Germanic languages", while the content is expressed using "a great deal of obscurity".[76]
+
+ Child, James R. (Summer 1976). "The Voynich manuscript revisited". NSA Technical Journal. XXI (3).
+ Child, James R. (2007). "Again, the Voynich manuscript" (PDF). Archived from the original (PDF) on 16 June 2009. Retrieved 8 June 2016
+ 
+ https://web.archive.org/web/20090616205410/http://voynichmanuscript.net/voynichpaper.pdf
