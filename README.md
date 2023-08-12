@@ -1,3 +1,6 @@
+8/11/2023 
+----
+Too long, didn't read: I have abandoned the venus flytrap after inconclusive results, and my current lack of interest.
 ---
 4/4/2023
 ----
