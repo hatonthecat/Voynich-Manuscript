@@ -2734,7 +2734,7 @@ https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Sitten%201640.JPG Ad
 
 OPJViewer http://dsplab.diei.unipg.it/~baruffa/OPJViewer/win32/ 
 
-Lots of file formats I'm seeing just JP2. I've never had worse out of the box support for any format. Not even IrfanView would work after installing *all* of the reccomended plugins.  
+Lots of file formats I'm seeing just JP2. I've never had worse out of the box support for any format. Not even IrfanView would work after installing *all* of the reccomended plugins. Update 8/11/2023 (IrfanView does work with JP2, it took a few tries installing the plugin and copying them to the plugin folder AND selecting the box for JP2) 
 
 https://en.wikipedia.org/wiki/JPEG_2000 
 https://www.openjpeg.org/
