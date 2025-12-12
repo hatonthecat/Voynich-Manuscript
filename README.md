@@ -1,3 +1,10 @@
+12-12-2025
+--
+
+https://www.webpronews.com/new-naibbe-cipher-revives-voynich-manuscript-encryption-theory/
+
+https://www.tandfonline.com/doi/full/10.1080/01611194.2025.2566408 
+
 8/11/2023 
 ----
 Too long, didn't read: I have abandoned the venus flytrap after inconclusive results, and my current lack of interest.
