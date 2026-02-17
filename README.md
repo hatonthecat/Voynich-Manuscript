@@ -1,3 +1,15 @@
+2-17-2026
+--
+
+Since i haven't regularly checked this page in a while, i sometimes assume this repository isn't actively accessed. fortunately, the traffic page sometimes shows visits. this week was a little busier than usual. it appears Hans Frund's account of the Valais Witch Trials were of interest:
+
+https://photos.app.goo.gl/NatY68PnMMnEjBjx7
+
+https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Machine%20Translation%20of%20Hans%20Frund%20account%20of%20Valais%20Witch%20Trials.pdf
+
+locating the original and a Fluent German speaker would be beneficial.
+
+
 12-12-2025
 --
 
