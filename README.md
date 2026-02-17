@@ -21,6 +21,8 @@ https://www.valais-en-questions.ch/service/sorcellerie-valais-222.html
 
 https://commons.wikimedia.org/wiki/File:Hans_Fr%C3%BCnd_-_Hexenverfolgungen_im_Kanton_Wallis.jpg
 
+https://gemini.google.com/share/f01c72d669b4 "Was Jost von Silenen the author of the Voynich Manuscript?"
+
 12-12-2025
 --
 
