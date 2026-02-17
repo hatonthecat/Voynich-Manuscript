@@ -9,6 +9,17 @@ https://github.com/hatonthecat/Voynich-Manuscript/blob/main/Machine%20Translatio
 
 locating the original and a Fluent German speaker would be beneficial.
 
+https://archive.org/details/diechronikdesha00schwgoog/page/n17/mode/2up biography 
+
+https://www.degruyterbrill.com/document/doi/10.1515/9780271089515-004/pdf
+
+http://www.lukemastin.com/witchcraft/trials_valais.html
+
+https://bib.rero.ch/vs/documents/689886 mentions Silenen (two e's, not silenin)
+
+https://www.valais-en-questions.ch/service/sorcellerie-valais-222.html
+
+https://commons.wikimedia.org/wiki/File:Hans_Fr%C3%BCnd_-_Hexenverfolgungen_im_Kanton_Wallis.jpg
 
 12-12-2025
 --
