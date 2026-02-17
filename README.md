@@ -15,7 +15,7 @@ https://www.degruyterbrill.com/document/doi/10.1515/9780271089515-004/pdf
 
 http://www.lukemastin.com/witchcraft/trials_valais.html
 
-https://bib.rero.ch/vs/documents/689886 mentions Silenen (two e's, not silenin)
+https://bib.rero.ch/vs/documents/689886 mentions Silenen (two e's, not silenin) (24MB file. use PDFSam to split into <10MB files and use Google Translate Documents for French->English
 
 https://www.valais-en-questions.ch/service/sorcellerie-valais-222.html
 
