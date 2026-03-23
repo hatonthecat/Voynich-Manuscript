@@ -1,7 +1,7 @@
 3-22-2026
 --
 
-It just occurred to me that the [private](https://www.reddit.com/r/Catholicism/comments/oqnaz7/why_does_the_vatican_have_a_secret_library/) Vatican Library allows access to researchers only on a "name-that-volume" basis. Which means, they cannot deny the existence of a book if a random person guesses it correctly.
+It just occurred to me that the [private](https://www.reddit.com/r/Catholicism/comments/oqnaz7/why_does_the_vatican_have_a_secret_library/) Vatican Library allows access to researchers only on a "name-that-volume" basis. Which means, they cannot deny the existence of a book if a random person (who also needs to be a credentialed researcher) guesses it correctly.
 
 https://en.wikipedia.org/wiki/Vatican_Library
 
