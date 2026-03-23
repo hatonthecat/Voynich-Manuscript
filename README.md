@@ -1,3 +1,12 @@
+3-22-2026
+--
+
+It just occurred to me that the [private](https://www.reddit.com/r/Catholicism/comments/oqnaz7/why_does_the_vatican_have_a_secret_library/) Vatican Library allows access to researchers only on a "name-that-volume" basis. Which means, they cannot deny the existence of a book if a random person guesses it correctly.
+
+https://en.wikipedia.org/wiki/Vatican_Library
+
+Would this be a relevant avenue for corroborating any unlikely leads in the Voynich Manuscript? I doubt it, unless there were some known connection to Rome at the time. It is possible there are documents from the 15th century that could have been related to the manuscript (entertaining the idea that it was a Swiss charter document), but I also think it would be a very time intensive process that would risk the fragility of the old documents, so if they were managed to be digitized and somehow more accessible to the relevant researchers, I suppose it would be more helpful. I wouldn't be surprised if someone already checked the Vatican, but it seems unlikely that a thorough search was done (and even if so, there'd likely be things overlooked).
+
 2-17-2026
 --
 
